@@ -1,0 +1,1442 @@
+[
+  {
+    "variant": "What percentage of shareholder votes was need to approve the 2014 buy-back?",
+    "expected_answer": "75",
+    "model_answer": "75 percent",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What was the required shareholder approval threshold, expressed as a percentage, for the 2014 share buy-back?",
+    "expected_answer": "75",
+    "model_answer": "75%",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "To what percentage of shareholder votes did the 2014 share repurchase require approval?",
+    "expected_answer": "75",
+    "model_answer": "75 percent",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What percentage of the shareholders needed to vote in favor for the 2014 buy-back to be approved?",
+    "expected_answer": "75",
+    "model_answer": "75 percent",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What was the minimum percentage of shareholder votes needed for the 2014 share buy-back to pass?",
+    "expected_answer": "75",
+    "model_answer": "75 percent",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What percentage vote was needed to approve the 2014 buy-back?",
+    "expected_answer": "75",
+    "model_answer": "75 percent",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What is the name of the slug that is native to both Britain and Ireland?",
+    "expected_answer": "Kerry slug",
+    "model_answer": "The Kerry slug.",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Could you please identify the species of slug that is indigenous to both the island of Great Britain and Ireland?",
+    "expected_answer": "Kerry slug",
+    "model_answer": "The Kerry slug.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What slug species is naturally found in both Britain and Ireland?",
+    "expected_answer": "Kerry slug",
+    "model_answer": "The Kerry slug.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Do you know what kind of slug is native to both Britain and Ireland?",
+    "expected_answer": "Kerry slug",
+    "model_answer": "No, according to the text, none of the native slugs are found in both Britain and Ireland. The Kerry slug is native only to Ireland.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What's the name of the slug native to Britain and Ireland?",
+    "expected_answer": "Kerry slug",
+    "model_answer": "The Kerry slug.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Which slug originates from and is found naturally in both Britain and Ireland?",
+    "expected_answer": "Kerry slug",
+    "model_answer": "The Kerry slug.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What other location does the Canada First Defence Strategy Cover?",
+    "expected_answer": "North America",
+    "model_answer": "North America",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "\"Beyond North America, which geographic regions are addressed within the scope of the Canada First Defence Strategy?",
+    "expected_answer": "North America",
+    "model_answer": "Globally. \n\nThe Canada First Defence Strategy explicitly states the CAF are tasked with carrying out missions \u201cglobally.\u201d",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "\"The Canada First Defence Strategy primarily focuses on North America.  Could you tell me what other areas it considers?",
+    "expected_answer": "North America",
+    "model_answer": "The Canada First Defence Strategy considers Canada, North America, and globally.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "\"I know the Canada First Defence Strategy is about protecting North America, but does it look at any other parts of the world as well?",
+    "expected_answer": "North America",
+    "model_answer": "Yes, the Canada First Defence Strategy also tasks the Canadian Armed Forces with operations globally, not just within North America. It\u2019s designed to allow the CAF to operate in various regions around the world.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "\"What is the global reach of the Canada First Defence Strategy?  Besides North America, where else does it have a focus?",
+    "expected_answer": "North America",
+    "model_answer": "The Canada First Defence Strategy has a focus globally, beyond North America.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "\"Besides North America, where else does the Canada First Defence Strategy deal with?",
+    "expected_answer": "North America",
+    "model_answer": "Globally.",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "India produced which early architectural text?",
+    "expected_answer": "Shilpa Shastras",
+    "model_answer": "The Shilpa Shastras",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What was the name of the early architectural text originating from India?",
+    "expected_answer": "Shilpa Shastras",
+    "model_answer": "The Shilpa Shastras",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Which ancient Indian text dealt with principles of architecture?",
+    "expected_answer": "Shilpa Shastras",
+    "model_answer": "The Shilpa Shastras.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Can you tell me the name of the first significant architectural writing to come out of India?",
+    "expected_answer": "Shilpa Shastras",
+    "model_answer": "The Shilpa Shastras.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "From what early Indian text did architectural principles originate?",
+    "expected_answer": "Shilpa Shastras",
+    "model_answer": "The Shilpa Shastras.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What are some of the key early architectural writings that developed in India?",
+    "expected_answer": "Shilpa Shastras",
+    "model_answer": "According to the context, some of the key early architectural writings that developed in India include:\n\n*   **Shilpa Shastras**\n*   **Manjusri Vasthu Vidya Sastra** (of Sri Lanka)",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "How many people were wounded in the cases where FBI shooting was not justified?",
+    "expected_answer": "none",
+    "model_answer": "The text states that in none of the 5 cases where shots were unjustified were people wounded. \n\nSo the answer is 0.",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "In instances where the FBI's use of force was deemed unjustified, what was the total number of individuals who sustained injuries?",
+    "expected_answer": "none",
+    "model_answer": "According to the text, in the 5 cases where the FBI\u2019s use of force was deemed unjustified, **no individuals sustained injuries**.",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Slightly Less Formal, Focused on Victims: \"How many people were injured as a result of FBI shootings that were later found to be unwarranted?",
+    "expected_answer": "none",
+    "model_answer": "Okay, here\u2019s a slightly less formal answer to your question, focusing on the victims:\n\n\u201cDespite the FBI saying all their shootings were justified, there were actually five times when they fired and it wasn\u2019t justified \u2013 and none of those times did anyone get hurt. Plus, there was that one really upsetting case in Maryland where an innocent guy was shot and had to settle for $1.3 million after the FBI mistakenly thought he was a criminal.\u201d",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "How many people were wounded across the FBI shooting incidents that were later determined to be unjustified?",
+    "expected_answer": "none",
+    "model_answer": "The text states that in none of the 5 cases where shots were found to be unjustified were people wounded. \n\nTherefore, the answer is **0**.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "When FBI shootings were found to be unjustified, about how many people ended up getting hurt?",
+    "expected_answer": "none",
+    "model_answer": "Based on the text, in the period from 1993 to 2011, the FBI found 5 shootings to be unjustified, and in none of those cases were people wounded.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What is the total count of injuries sustained by individuals involved in FBI shooting incidents later ruled as unjustified?",
+    "expected_answer": "none",
+    "model_answer": "The text states that in none of the 5 cases where shots were found to be unjustified were people wounded. Therefore, the total count of injuries sustained by individuals involved in FBI shooting incidents later ruled as unjustified is 0.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Which European company launched HD1?",
+    "expected_answer": "Euro1080",
+    "model_answer": "Euro1080",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Could you identify the European company responsible for the launch of HD1?",
+    "expected_answer": "Euro1080",
+    "model_answer": "Euro1080",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Which European firm introduced HD1 to the market?",
+    "expected_answer": "Euro1080",
+    "model_answer": "Euro1080",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Do you know which European company was behind the launch of HD1?",
+    "expected_answer": "Euro1080",
+    "model_answer": "Euro1080",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What European company originated the HD1 product?",
+    "expected_answer": "Euro1080",
+    "model_answer": "Euro1080",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Seeking Information: \"I'm trying to find out who launched HD1. It was a European company \u2013 any idea who it was?",
+    "expected_answer": "Euro1080",
+    "model_answer": "The Belgian company Euro1080 launched HD1.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "How long did the Soviet air force need to prepare to assist",
+    "expected_answer": "two or three months",
+    "model_answer": "Two or three months.",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"What was the timeframe required for the Soviet Air Force to mobilize and prepare for deployment in order to provide assistance?",
+    "expected_answer": "two or three months",
+    "model_answer": "According to the text, the Soviet Air Force would need \u201ctwo or three months\u201d to prepare for any operations.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"How much preparation time did the Soviet Air Force require before they could begin assisting?",
+    "expected_answer": "two or three months",
+    "model_answer": "According to the text, the Soviet Air Force required **two or three months** to prepare before they could begin assisting.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"What was the lead time needed for the Soviet Air Force to reach operational readiness and be ready to provide assistance?",
+    "expected_answer": "two or three months",
+    "model_answer": "According to the text, the Soviet air force needed \u201ctwo or three months\u201d to reach operational readiness.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"Before the Soviet Air Force could help, how long did they need to get ready?",
+    "expected_answer": "two or three months",
+    "model_answer": "According to the text, the Soviet air force needed two or three months to prepare for any operations.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"Can you specify the period of preparation the Soviet Air Force underwent before being ready to assist?",
+    "expected_answer": "two or three months",
+    "model_answer": "According to the text, the Soviet Air Force needed two or three months to prepare for any operations.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "In what city  is the cathedral of St Peter's  located?",
+    "expected_answer": "Rome",
+    "model_answer": "Rome",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Could you please specify the city where St. Peter's Cathedral is situated?",
+    "expected_answer": "Rome",
+    "model_answer": "Rome",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What city can you find St. Peter's Cathedral in?",
+    "expected_answer": "Rome",
+    "model_answer": "Rome",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Which city is home to St. Peter's Cathedral?",
+    "expected_answer": "Rome",
+    "model_answer": "Rome",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Do you know what city St. Peter's Cathedral is in?",
+    "expected_answer": "Rome",
+    "model_answer": "Yes, St. Peter\u2019s Cathedral is in Rome.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Where is the cathedral of St. Peter's located geographically?",
+    "expected_answer": "Rome",
+    "model_answer": "Rome, Italy.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "At what battle was Seleucus killed ?",
+    "expected_answer": "Battle of Corupedium",
+    "model_answer": "The Battle of Corupedium.",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "During which military engagement did Seleucus meet his death?",
+    "expected_answer": "Battle of Corupedium",
+    "model_answer": "The Battle of Corupedium",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Where did Seleucus die in battle?",
+    "expected_answer": "Battle of Corupedium",
+    "model_answer": "The Battle of Corupedium, near Sardis.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What battle is associated with the death of Seleucus?",
+    "expected_answer": "Battle of Corupedium",
+    "model_answer": "The Battle of Corupedium",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Do you know which battle Seleucus lost his life in?",
+    "expected_answer": "Battle of Corupedium",
+    "model_answer": "Seleucus lost his life in the Battle of Corupedium in 281 BCE.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Can you tell me the name of the battle in which Seleucus was killed?",
+    "expected_answer": "Battle of Corupedium",
+    "model_answer": "Seleucus was killed at the Battle of Corupedium in 281 BCE.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "In 2007, when seeking attention, selection or service . What percent of Liberians had to pay a bribe?",
+    "expected_answer": "89%",
+    "model_answer": "According to the text, 89% of Liberians had to pay a bribe when seeking attention, selection or service in 2007.",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "According to data from 2007, what percentage of the Liberian population reported having paid a bribe to access a public service, gain preferential treatment, or influence a selection process?",
+    "expected_answer": "89%",
+    "model_answer": "According to the data from 2007, 89% of Liberians reported having to pay a bribe to access a public service, gain preferential treatment, or influence a selection process.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Looking back to 2007, roughly how many Liberians reported needing to pay a bribe to get what they needed from a government service or to influence a decision?",
+    "expected_answer": "89%",
+    "model_answer": "According to the text, approximately 89% of Liberians needed to pay a bribe to get what they needed from a government service or to influence a decision in 2007.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "In 2007, what proportion of Liberians experienced the need to pay a bribe to receive a service or gain access to a selection process?",
+    "expected_answer": "89%",
+    "model_answer": "89% of Liberians had to pay a bribe to receive a service or gain access to a selection process.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What was the bribery rate in Liberia in 2007, specifically when individuals were seeking services or selection processes?",
+    "expected_answer": "89%",
+    "model_answer": "89% of Liberians had to pay a bribe when seeking services or selection processes in 2007.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "In 2007, what percentage of Liberians felt compelled to pay a bribe when dealing with government agencies or processes?",
+    "expected_answer": "89%",
+    "model_answer": "2.1%",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What are the principles of phonological analysis able to be applied separately from?",
+    "expected_answer": "modality",
+    "model_answer": "Answer: Modality",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "\"To what extent can the core tenets of phonological analysis be utilized independently of specific theoretical frameworks?",
+    "expected_answer": "modality",
+    "model_answer": "Here's a good answer to the question, incorporating the provided context:\n\n\u201cThe core tenets of phonological analysis can be utilized to a significant extent independently of specific theoretical frameworks. As the provided text states, these principles are designed as general analytical tools, focusing on the fundamental units of sound (or, in the case of sign languages, the sub-lexical units) rather than being tied to any particular linguistic theory.  This independence is demonstrated by their successful application to sign languages, where the same analytical approach is used despite the different instantiation of phonemes \u2013 demonstrating their broad applicability.\u201d\n\n**Key elements of this answer:**\n\n*   **Directly addresses the question:** It clearly states the extent to which the principles can be utilized independently.\n*   **Uses the provided context:** It references the key point about the principles being general analytical tools.\n*   **Provides supporting evidence:** It mentions the application to sign languages as a concrete example.\n*   **Concise and well-structured:** It\u2019s a clear and focused response.\n\nWould you like me to refine this answer further, perhaps focusing on a specific aspect (e.g., the reasons for this independence)?",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "\"What foundational principles of phonological analysis can be used without relying on a particular theory or model?",
+    "expected_answer": "modality",
+    "model_answer": "The foundational principles of phonological analysis can be used without relying on a particular theory or model because they are designed to serve as general analytical tools, not language-specific ones. They\u2019ve even been applied to sign languages despite the different units of analysis.",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "\"Are there any aspects of phonological analysis that can be applied in isolation, regardless of the underlying theoretical perspective?",
+    "expected_answer": "modality",
+    "model_answer": "Yes, according to the provided context, there are. The principles of phonological analysis can be applied independently of modality because they are designed as general analytical tools, not language-specific ones. This application extends even to sign languages.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "\"What are some of the basic building blocks of phonological analysis that we can use even if we's not committed to a specific approach?",
+    "expected_answer": "modality",
+    "model_answer": "The basic building blocks of phonological analysis are phonemes \u2013 sub-lexical units that form the foundation of any sound system, regardless of whether it\u2019s speech or sign language.",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "\"What parts of phonological analysis can you use even if you don\u2019t subscribe to a particular school of thought?",
+    "expected_answer": "modality",
+    "model_answer": "The principles of phonological analysis can be used even if you don\u2019t subscribe to a particular school of thought because they are designed to serve as general analytical tools, not language-specific ones. They\u2019ve even been applied to the analysis of sign languages.",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "For how long has the Libon tram service existed?",
+    "expected_answer": "over a century",
+    "model_answer": "The Lisbon tram service has existed for over a century, having been supplied by the Companhia de Carris de Ferro de Lisboa (Carris) for over a century.",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What is the age of the Libon tram service? When was it first established?",
+    "expected_answer": "over a century",
+    "model_answer": "The Lisbon tram service has been supplied by the Companhia de Carris de Ferro de Lisboa (Carris) for over a century. It was first established over a century ago, with the exact founding date not specified in the text.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Semi-Formal: \"How many years has the Libon tram service been operating?",
+    "expected_answer": "over a century",
+    "model_answer": "\u201cThe Lisbon tram service, operated by Carris, has been running for over a century \u2013 specifically, more than 100 years.\u201d",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "When did the Libon tram service begin?",
+    "expected_answer": "over a century",
+    "model_answer": "The Lisbon tram service began over a century ago, with the Companhia de Carris de Ferro de Lisboa (Carris) supplying it for over a century.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Can you tell me how long the Libon tram service has been around?",
+    "expected_answer": "over a century",
+    "model_answer": "According to the text, Lisbon tram services have been supplied by the Companhia de Carris de Ferro de Lisboa (Carris) for over a century.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "How long have they had the Libon tram?",
+    "expected_answer": "over a century",
+    "model_answer": "They have had the Lisbon tram for over a century.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Does PlayStation Network use artificial or real currency for purchases?",
+    "expected_answer": "real",
+    "model_answer": "Real currency.",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Regarding transactions on the PlayStation Network, are purchases facilitated using virtual currency or actual, fiat currency?",
+    "expected_answer": "real",
+    "model_answer": "Purchases on the PlayStation Network are facilitated using **actual, fiat currency** (like US dollars, Euros, etc.) which are then used to buy PlayStation Network Cards. These cards are then used within the PlayStation Store.",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "When making purchases on PlayStation Network, does it use a virtual currency system, or do users pay with real-world money?",
+    "expected_answer": "real",
+    "model_answer": "Users pay with real-world money. PlayStation Network uses real currency and PlayStation Network Cards.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Do you pay with PlayStation Store currency or with real money when buying things on PlayStation Network?",
+    "expected_answer": "real",
+    "model_answer": "You pay with real money when buying things on PlayStation Network. The PlayStation Store uses real currency and PlayStation Network Cards to purchase items.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Conversational & Inquiry-Based: \"I'm curious about how purchases work on PlayStation Network. Do you use points or something similar, or is it linked to your bank account/credit card?",
+    "expected_answer": "real",
+    "model_answer": "That's a great question! PlayStation Network uses real currency \u2013 essentially, it\u2019s tied directly to your bank account or credit card. You don\u2019t use points like some other online services. You add funds to your account using PlayStation Network Cards, which you can purchase in stores, or you can add funds directly from your linked bank account or credit card. So, it\u2019s a straightforward process of adding funds to your account to use within the PlayStation Store and PlayStation Home.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Casual & Open-Ended: \"How does PlayStation Network handle payments for games and other content \u2013 are we talking about in-game currency or using actual dollars/euros/etc.?",
+    "expected_answer": "real",
+    "model_answer": "PlayStation Network handles payments using actual dollars, euros, or whatever currency you\u2019ve set your account to. You don\u2019t use in-game currency. Purchases for games, DLC, PlayStation Store content, and even features like PlayStation Home, are all made with real money, typically through PlayStation Network Cards or directly with a credit or debit card. It\u2019s a straightforward system of buying content with actual currency.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "With whom did Hayek share his 1974 award?",
+    "expected_answer": "Gunnar Myrdal",
+    "model_answer": "Gunnar Myrdal",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Who was the recipient with Friedrich Hayek when he received his 1974 award?",
+    "expected_answer": "Gunnar Myrdal",
+    "model_answer": "Gunnar Myrdal",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Who shared the 1974 award with Hayek?",
+    "expected_answer": "Gunnar Myrdal",
+    "model_answer": "Gunnar Myrdal",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Who did Hayek receive his 1974 award with?",
+    "expected_answer": "Gunnar Myrdal",
+    "model_answer": "Gunnar Myrdal",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "The 1974 award was shared. Who was Hayek's co-recipient?",
+    "expected_answer": "Gunnar Myrdal",
+    "model_answer": "Gunnar Myrdal",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Who shared the award with Hayek in 1974?",
+    "expected_answer": "Gunnar Myrdal",
+    "model_answer": "Gunnar Myrdal",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What was the first automatic, digital, programmable computer created by Konrad Zuse?",
+    "expected_answer": "the Z3",
+    "model_answer": "The Z3.",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"Could you please identify the name of the pioneering automatic, digital, and programmable computer developed by Konrad Zuse?",
+    "expected_answer": "the Z3",
+    "model_answer": "The Z3.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"What was the name of the first computer built by Konrad Zuse that met the criteria of being automatic, digital, and programmable?",
+    "expected_answer": "the Z3",
+    "model_answer": "The Z3.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"What computer did Konrad Zuse build that is considered the first automatic, digital, programmable machine?",
+    "expected_answer": "the Z3",
+    "model_answer": "The Z3.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"I'm interested in Konrad Zuse's work. What was the name of the first computer he created that was automatic, digital, and programmable?",
+    "expected_answer": "the Z3",
+    "model_answer": "The Z3.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"Konrad Zuse is known for a significant breakthrough in computing. What was the name of the machine he created that's recognized as the first automatic, digital, programmable computer?",
+    "expected_answer": "the Z3",
+    "model_answer": "The Z3",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Why was the spelling of McIntosh changed to Macintosh?",
+    "expected_answer": "for legal reasons",
+    "model_answer": "According to the text, the spelling was changed to Macintosh primarily because Steve Jobs requested a release from McIntosh Laboratory, Inc., the audio equipment manufacturer, to allow Apple to use the name. However, the original request was denied, leading Apple to ultimately purchase the rights to the name. The article also suggests a secondary, later explanation that the spelling was changed due to early users misspellings, but this is contradicted by Jef Raskin having adopted the Macintosh spelling by 1981.",
+    "is_correct": false,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Could you explain the rationale behind the change in spelling from McIntosh to Macintosh?",
+    "expected_answer": "for legal reasons",
+    "model_answer": "The rationale behind the change in spelling from McIntosh to Macintosh was complex and evolved over time. Initially, Jef Raskin chose the name \u201cMcIntosh\u201d after his favorite apple, intending to create an easy-to-use computer for the average consumer. However, Apple faced a conflict with McIntosh Laboratory, Inc., the audio equipment manufacturer who also used the name \u201cMcIntosh.\u201d\n\nHere\u2019s a breakdown of the key factors:\n\n* **Initial Choice:** Jef Raskin\u2019s preference for the original spelling was the driving force.\n* **Legal Conflict:** Apple requested that McIntosh Laboratory grant them the rights to use the name, but this request was denied.\n* **Later Explanation (and its flaws):** A later explanation suggested the change was made because \u201cearly users\u201d were misspelling \u201cMcIntosh,\u201d but this is contradicted by the fact that Jef Raskin had already adopted the \u201cMacintosh\u201d spelling by 1981.\n* **Ultimately, Apple had to purchase the rights to use the name.**\n\nTherefore, the initial reason was simply Jef Raskin\u2019s preference, but the subsequent explanation regarding user misspelling is a fabrication designed to obscure the true circumstances.",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "I'm curious, what led to the decision to change the spelling from McIntosh to Macintosh?",
+    "expected_answer": "for legal reasons",
+    "model_answer": "The decision to change the spelling from McIntosh to Macintosh was complex and evolved over time. Initially, Jef Raskin chose the name based on his favorite apple and intended to use the original spelling. However, Steve Jobs requested a release from McIntosh Laboratory, Inc., the audio equipment manufacturer, to use the name. This request was denied. Subsequently, Apple changed the spelling to \u201cMacintosh\u201d \u2013 though some accounts suggest this was done partly in response to early users misspelling \u201cMcIntosh.\u201d Ultimately, Apple was forced to purchase the rights to use the name.",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What's the story behind the change from McIntosh to Macintosh?",
+    "expected_answer": "for legal reasons",
+    "model_answer": "The story behind the change from McIntosh to Macintosh is complex and somewhat contradictory. Initially, Jef Raskin named the computer after his favorite apple, McIntosh. However, to avoid legal issues with McIntosh Laboratory, Inc. (an audio equipment manufacturer using the same spelling), the spelling was changed to Macintosh. Steve Jobs then requested a release from McIntosh Laboratory, but they refused. This ultimately led Apple to purchase the rights to use the name. Later explanations suggested the spelling change was prompted by early users misspellings, but this contradicts Jef Raskin\u2019s adoption of the Macintosh spelling in 1981 before the computer was a prototype.",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "How did the name 'McIntosh' evolve into 'Macintosh'?",
+    "expected_answer": "for legal reasons",
+    "model_answer": "The name 'McIntosh' evolved into 'Macintosh' through a series of events driven by legal concerns and initial preference. Initially, Jef Raskin named the computer after his favorite apple, \u2018McIntosh\u2019. However, because the spelling was identical to that of McIntosh Laboratory, Inc. (an audio equipment manufacturer), Apple requested a release to use the name. This request was denied. Consequently, Apple had to purchase the rights to use the name, leading to the final spelling of \u2018Macintosh\u2019. The later suggestion of early user misspellings is a misdirection and doesn\u2019t align with the established timeline of Jef Raskin\u2019s initial naming and Apple\u2019s subsequent actions.",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "I've always wondered - why did they switch the spelling from McIntosh to Macintosh?",
+    "expected_answer": "for legal reasons",
+    "model_answer": "The story behind the name change is surprisingly complex! Initially, the spelling was intended to be \u201cMcIntosh,\u201d named after Jef Raskin\u2019s favorite apple. However, Apple needed permission from McIntosh Laboratory, Inc. (the audio equipment manufacturer who also used the name \u201cMcIntosh\u201d), so they asked for a release. Unfortunately, McIntosh Laboratory refused. To resolve this, Apple changed the spelling to \u201cMacintosh\u201d \u2013 but interestingly, this change happened *after* Jef Raskin had already adopted the \u201cMacintosh\u201d spelling by 1981, even though the computer was still just a prototype at that time. Some accounts suggest the spelling change was initially prompted by early users misspellings of \u201cMcIntosh,\u201d but this explanation doesn\u2019t align with Raskin\u2019s established usage.",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Ibn al-Haytham can be known by another name, what is it?",
+    "expected_answer": "Alhazen",
+    "model_answer": "Alhazen",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Ibn al-Haytham is also known by an alternative name. What is that name?",
+    "expected_answer": "Alhazen",
+    "model_answer": "Alhazen",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Besides Ibn al-Haytham, what other name was he known by?",
+    "expected_answer": "Alhazen",
+    "model_answer": "Alhazen",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "You might have heard of Ibn al-Haytham, but he had another name too. What was it?",
+    "expected_answer": "Alhazen",
+    "model_answer": "Alhazen",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Ibn al-Haytham is often referred to by a different designation. Can you tell me what that is?",
+    "expected_answer": "Alhazen",
+    "model_answer": "Ibn al-Haytham is often referred to as **Alhazen**.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What is Ibn al-Haytham's other, commonly used name?",
+    "expected_answer": "Alhazen",
+    "model_answer": "Alhazen",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What are the periods in a football match called?",
+    "expected_answer": "halves",
+    "model_answer": "halves",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Could you please describe the segments of time that constitute a standard football match?",
+    "expected_answer": "halves",
+    "model_answer": "A standard football match is comprised of the following segments of time:\n\n*   **Two Halves:** Each half lasts for 45 minutes and runs continuously without stoppage time.\n*   **Half-Time Break:** A 15-minute break occurs between the two halves.\n*   **Stoppage Time (Injury Time/Added Time):** This is extra time added by the referee at the end of each half to account for delays such as substitutions, injuries, or other stoppages. The amount of stoppage time is determined solely by the referee.\n*   **Time for Penalty Kicks:** The duration of either half is extended until a penalty kick is taken or retaken.\n\nEssentially, a typical match lasts around 90 minutes, though this can vary due to the addition of stoppage time.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What do we call the different parts of a football game, like the sections of time played?",
+    "expected_answer": "halves",
+    "model_answer": "According to the text, the different parts of a football game, like the sections of time played, are called **halves** (two periods of 45 minutes each), **stoppage time** (also known as injury time or additional time), and **full-time** (the end of the match).",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What are the halves of a soccer game officially called?",
+    "expected_answer": "halves",
+    "model_answer": "The halves of a soccer game are officially called periods. Each period is 45 minutes long.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "How many parts is a football match divided into, and what are they called?",
+    "expected_answer": "halves",
+    "model_answer": "A football match is divided into two parts, and they are called halves.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Inquisitive/Curious: \"I'm curious, what's the terminology used to refer to the different sections of a football game?",
+    "expected_answer": "halves",
+    "model_answer": "Okay, here\u2019s a breakdown of the terminology used in a football (soccer) match, based on the provided text:\n\n*   **Halves:** The two periods of 45 minutes each.\n*   **Full-time:** The end of the entire match.\n*   **Stoppage Time / Injury Time / Added Time:** This is the extra time added by the referee at the end of each half (or to complete a penalty kick) to compensate for time lost due to stoppages like injuries, substitutions, or the ball going out of play.\n*   **Penalty Kick:** A specific event that can extend the duration of a half.\n\nDo you want me to elaborate on any of these terms, or perhaps explain how the referee decides on the amount of stoppage time?",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "When did Brasilia's presidential residence open?",
+    "expected_answer": "1958",
+    "model_answer": "1958",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What was the opening date of the presidential residence in Bras\u00edlia?",
+    "expected_answer": "1958",
+    "model_answer": "1958",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Semi-Formal: \"Can you tell me when the presidential palace in Bras\u00edlia officially opened?",
+    "expected_answer": "1958",
+    "model_answer": "\u201cThe Pal\u00e1cio da Alvorada, the official residence of the President of Brazil, was inaugurated in 1958.\u201d",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "When was the presidential residence in Bras\u00edlia first opened to the public?",
+    "expected_answer": "1958",
+    "model_answer": "The presidential residence in Bras\u00edlia was first opened to the public in 1958.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Do you know when Bras\u00edlia's presidential residence started being used?",
+    "expected_answer": "1958",
+    "model_answer": "The Pal\u00e1cio da Alvorada, Bras\u00edlia\u2019s presidential residence, was inaugurated in 1958.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "When did they open the presidential residence in Bras\u00edlia?",
+    "expected_answer": "1958",
+    "model_answer": "1958",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What was most of Nigeria's federal income being spent on?",
+    "expected_answer": "debt",
+    "model_answer": "The repayment of the country\u2019s crushing international debt.",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Could you please describe the primary areas of expenditure for Nigeria's federal income? What percentage was allocated to each?",
+    "expected_answer": "debt",
+    "model_answer": "Based on the provided text, the primary area of expenditure for Nigeria\u2019s federal income was the servicing of its international debt. The text states that \u201cmost federal revenue was dedicated to servicing\u201d this debt. \n\nHowever, the text *doesn't* provide specific percentages allocated to each area. It only highlights that debt servicing consumed the majority of the federal revenue. \n\nTo determine the percentages, you would need additional information beyond this excerpt.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Where was the majority of Nigeria's government money going?",
+    "expected_answer": "debt",
+    "model_answer": "The majority of Nigeria\u2019s government money was going to servicing its crushing international debt.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What were Nigeria's top spending priorities when it came to federal income?",
+    "expected_answer": "debt",
+    "model_answer": "According to the text, Nigeria\u2019s top spending priority was servicing its crushing international debt. Most federal revenue was dedicated to paying off this debt.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What were the biggest categories of spending for Nigeria's federal income?",
+    "expected_answer": "debt",
+    "model_answer": "According to the text, the biggest category of spending for Nigeria\u2019s federal income was servicing its **crushing international debt**. Most federal revenue was dedicated to this purpose.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Can you give me a general overview of how Nigeria's federal income was distributed?",
+    "expected_answer": "debt",
+    "model_answer": "Based on the provided text, Nigeria\u2019s federal income was overwhelmingly dedicated to servicing its crushing international debt. The text states: \u201cmost federal revenue was dedicated to servicing\u2026the country\u2019s crushing international debt.\u201d\n\nUnfortunately, the text doesn't offer any details about *how* that revenue was distributed beyond its primary use in debt repayment. It doesn\u2019t mention allocations to states, local governments, social programs, or any other sectors. \n\nTo get a complete picture of Nigeria\u2019s federal income distribution under Babangida\u2019s rule, you\u2019d need additional information.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What grants all indigenous languages spoken in Mexico validity? ",
+    "expected_answer": "General Law of Linguistic Rights of the Indigenous Peoples",
+    "model_answer": "The \u201cGeneral Law of Linguistic Rights of the Indigenous Peoples\u201d grants all indigenous languages spoken in Mexico validity.",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What legal and/or societal frameworks underpin the recognition and legitimacy of all indigenous languages currently spoken within Mexico?",
+    "expected_answer": "General Law of Linguistic Rights of the Indigenous Peoples",
+    "model_answer": "The recognition and legitimacy of all indigenous languages currently spoken within Mexico are underpinned by the following legal and societal frameworks:\n\n*   **The General Law of Linguistic Rights of the Indigenous Peoples:** This is the primary legal foundation. It grants equal validity to all indigenous languages \u2013 regardless of speaker numbers \u2013 alongside Spanish within their respective territories, and guarantees the right to request services and documents in those languages.\n\n*   **National Language Status:** The law\u2019s designation of over 60 indigenous languages as \u201cnational languages\u201d elevates their status and provides a basis for broader recognition.\n\n*   **Inclusion of Non-Native Languages:** The law\u2019s broad scope, encompassing indigenous languages of ethnic groups originating outside Mexico (like the Kickapoo and Guatemalan refugees), significantly expands the framework of recognition. This demonstrates a commitment to linguistic rights regardless of origin.\n\n*   **The National Commission for the Development of Indigenous Peoples (NCIP):** This commission plays a crucial role in recognizing languages and advocating for indigenous rights, further solidifying the legal framework.\n\n**Essentially, the framework is built upon a legal mandate \u2013 the General Law \u2013 supplemented by institutional recognition (NCIP) and a broadening definition of \u2018indigenous\u2019 to include groups outside Mexico\u2019s historical boundaries.**\n\n---\n\nWould you like me to elaborate on any aspect of this answer, or perhaps explore the challenges associated with implementing these frameworks?",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What guarantees the continued survival and official standing of Mexico's indigenous languages?",
+    "expected_answer": "General Law of Linguistic Rights of the Indigenous Peoples",
+    "model_answer": "According to the text, several factors guarantee the continued survival and official standing of Mexico\u2019s indigenous languages:\n\n*   **The \u201cGeneral Law of Linguistic Rights of the Indigenous Peoples\u201d:** This law grants all indigenous languages, regardless of speaker numbers, equal validity with Spanish within their areas of use and ensures the right to receive public services and documents in native languages.\n*   **Recognition by the National Commission for the Development of Indigenous Peoples:** The Commission\u2019s recognition of languages spoken by immigrant groups (like the Kickapoo and Guatemalan refugees) reinforces the legal basis for language rights.\n*   **Bilingual Education Programs:** The government\u2019s promotion of bilingual primary and secondary education in some indigenous communities contributes to language preservation.\n\nEssentially, it\u2019s a combination of legal protections and government initiatives that support the ongoing status of these languages.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What makes indigenous languages in Mexico officially recognized and respected?",
+    "expected_answer": "General Law of Linguistic Rights of the Indigenous Peoples",
+    "model_answer": "According to the text, indigenous languages in Mexico are officially recognized and respected due to the \u201cGeneral Law of Linguistic Rights of the Indigenous Peoples.\u201d This law grants all indigenous languages spoken in Mexico, regardless of the number of speakers, the same validity as Spanish. It also includes languages of ethnic groups who are not native to the territory, like the Kickapoo and Guatemalan indigenous refugees, and promotes bilingual education in some communities.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "From what sources does the authority for validating all indigenous languages in Mexico originate?",
+    "expected_answer": "General Law of Linguistic Rights of the Indigenous Peoples",
+    "model_answer": "The authority for validating all indigenous languages in Mexico originates from the **\u201cGeneral Law of Linguistic Rights of the Indigenous Peoples\u201d**. \n\nSpecifically, the law grants this status regardless of the number of speakers, effectively establishing it as a legal right conferred by the Mexican government.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "How has Mexico established the basis for acknowledging and valuing all its indigenous languages?",
+    "expected_answer": "General Law of Linguistic Rights of the Indigenous Peoples",
+    "model_answer": "Mexico has established the basis for acknowledging and valuing all its indigenous languages through the \u201cGeneral Law of Linguistic Rights of the Indigenous Peoples.\u201d This law grants all indigenous languages spoken in Mexico, regardless of the number of speakers, the same validity as Spanish. Furthermore, the law recognizes indigenous languages of ethnic groups who are not native to the territory, such as the Kickapoo and Guatemalan indigenous refugees, and promotes bilingual education in some indigenous communities. This approach signifies a legal and policy commitment to linguistic diversity within the country.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "How many crop seasons are there in Rajasthan?",
+    "expected_answer": "two crop seasons",
+    "model_answer": "Answer: There are mainly two crop seasons in Rajasthan.",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"Could you please specify the number of agricultural seasons observed in the state of Rajasthan, and perhaps a brief description of each?",
+    "expected_answer": "two crop seasons",
+    "model_answer": "Rajasthan primarily observes **two** crop seasons:\n\n1.  **Kharif (Monsoon) Season:** This is the wet season, relying on the monsoon rains for irrigation. During this season, crops like wheat, barley, pulses, sugarcane, and oilseeds are cultivated.\n\n2.  **Rabi (Winter) Season:** This is the dry season, where crops like cotton and tobacco are grown. It\u2019s dependent on well and tank irrigation due to the lack of monsoon rains.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"What is the number of crop seasons that occur annually in Rajasthan?",
+    "expected_answer": "two crop seasons",
+    "model_answer": "Answer: Two",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"How many different growing seasons do farmers typically experience in Rajasthan?",
+    "expected_answer": "two crop seasons",
+    "model_answer": "Answer: Two. \n\nThe context states that Rajasthan has \u201cmainly two crop seasons\u201d.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"I'm curious, how many times a year do crops get planted and harvested in Rajasthan?",
+    "expected_answer": "two crop seasons",
+    "model_answer": "Based on the context, crops in Rajasthan get planted and harvested **twice a year**. This is due to the state having mainly two crop seasons.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"What's the number of crop seasons in Rajasthan?",
+    "expected_answer": "two crop seasons",
+    "model_answer": "Answer: There are mainly two crop seasons in Rajasthan.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "When did Estonia start hoping for freedom?",
+    "expected_answer": "the period of national awakening",
+    "model_answer": "According to the text, Estonia started to yearn for independence during the period of national awakening **while being governed by the Russian Empire**.",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"At what point in history did Estonians begin to desire independence?",
+    "expected_answer": "the period of national awakening",
+    "model_answer": "According to the text, Estonians began to desire independence during the period of national awakening **after centuries of Danish, Swedish, and German rule while being governed by the Russian Empire.**",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"When do historians say Estonians first started wishing for freedom from foreign rule?",
+    "expected_answer": "the period of national awakening",
+    "model_answer": "According to the text, historians say Estonians first started wishing for freedom from foreign rule during the **period of national awakening while being governed by the Russian Empire.**",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"What event or period marked the beginning of Estonia's hope for self-determination?",
+    "expected_answer": "the period of national awakening",
+    "model_answer": "The period of national awakening during the late 19th and early 20th centuries, following centuries of Danish, Swedish, and German rule, marked the beginning of Estonia\u2019s hope for self-determination.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"Can you tell me about the earliest signs of Estonian aspirations for freedom?",
+    "expected_answer": "the period of national awakening",
+    "model_answer": "Based on the provided text, the earliest signs of Estonian aspirations for freedom emerged during the period of the **national awakening** following centuries of Danish, Swedish, and German rule. This awakening occurred while Estonia was governed by the Russian Empire. The text doesn\u2019t detail specific events within that awakening, but it establishes the *context* of growing desire for independence as a direct result of that historical situation.",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"Around what time did Estonians begin to dream of being free?",
+    "expected_answer": "the period of national awakening",
+    "model_answer": "According to the text, Estonians began to yearn for independence during the period of national awakening, which occurred **after centuries of Danish, Swedish and German rule**.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What's another name for the concentric rings in trees?",
+    "expected_answer": "annual rings",
+    "model_answer": "Annual rings.",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "\"What is the technical term for the growth rings you see when you look at a tree's cross-section?",
+    "expected_answer": "annual rings",
+    "model_answer": "Annual rings.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "\"Besides 'growth rings,' what else do people call the circles you see inside a tree trunk?",
+    "expected_answer": "annual rings",
+    "model_answer": "\u201cAnnual rings\u201d \n\nThe text explicitly states that the concentric rings within a tree trunk are called \u201cannual rings.\u201d",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "\"I know those rings inside a tree show its age, but what's that term people use for them besides 'rings'?",
+    "expected_answer": "annual rings",
+    "model_answer": "Annual rings.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "\"What do you call those circles inside a tree?",
+    "expected_answer": "annual rings",
+    "model_answer": "Annual rings.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "\"What's the scientific name for the patterns that show a tree's yearly growth?",
+    "expected_answer": "annual rings",
+    "model_answer": "Annual rings.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Which three people were the first to ride the Saturn V rocket into space?",
+    "expected_answer": "Frank Borman, James Lovell, and William Anders",
+    "model_answer": "Frank Borman, James Lovell, and William Anders",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Could you please identify the three astronauts who comprised the crew of the first manned mission utilizing the Saturn V rocket?",
+    "expected_answer": "Frank Borman, James Lovell, and William Anders",
+    "model_answer": "Frank Borman, James Lovell, and William Anders",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Who were the three astronauts aboard the Saturn V rocket for its first human spaceflight?",
+    "expected_answer": "Frank Borman, James Lovell, and William Anders",
+    "model_answer": "Frank Borman, James Lovell, and William Anders.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What were the names of the three individuals who first journeyed into space on the Saturn V rocket?",
+    "expected_answer": "Frank Borman, James Lovell, and William Anders",
+    "model_answer": "Frank Borman, James Lovell, and William Anders",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What was the crew of the Apollo 11 mission, which was the first to use the Saturn V rocket?",
+    "expected_answer": "Frank Borman, James Lovell, and William Anders",
+    "model_answer": "The answer to your question is: **Neil Armstrong, Buzz Aldrin, and Michael Collins.**\n\nThe Apollo 11 mission, which utilized the Saturn V rocket, was the first to land humans on the Moon.",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Who were the first three people to fly on the Saturn V rocket?",
+    "expected_answer": "Frank Borman, James Lovell, and William Anders",
+    "model_answer": "Frank Borman, James Lovell, and William Anders.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What was Greece's unemployment rate between in 2009?",
+    "expected_answer": "9 per cent and 11 per cent",
+    "model_answer": "Between 9 per cent and 11 per cent.",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"Could you please provide the unemployment rate for Greece in 2009?",
+    "expected_answer": "9 per cent and 11 per cent",
+    "model_answer": "The unemployment rate for Greece in 2009 was between 9 per cent and 11 per cent.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"What was the unemployment rate in Greece during 2009?",
+    "expected_answer": "9 per cent and 11 per cent",
+    "model_answer": "The unemployment rate in Greece during 2009 was between 9 per cent and 11 per cent.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"Do you know what Greece's unemployment rate was back in 2009?",
+    "expected_answer": "9 per cent and 11 per cent",
+    "model_answer": "\u201cIt was between 9 per cent and 11 per cent in 2009.\u201d",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"What was the unemployment rate in Greece around 2009, specifically?\".",
+    "expected_answer": "9 per cent and 11 per cent",
+    "model_answer": "The unemployment rate in Greece around 2009 was between 9 per cent and 11 per cent.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"I'm researching the economic situation in Greece. Can you tell me what the unemployment rate was like in 2009?",
+    "expected_answer": "9 per cent and 11 per cent",
+    "model_answer": "In 2009, Greece\u2019s unemployment rate was between 9 per cent and 11 per cent.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Who was the patron goddess of Lycia?",
+    "expected_answer": "Leto",
+    "model_answer": "Apollo\u2019s mother, Leto, was the patron goddess of Lycia.",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Which deity served as the patron goddess of ancient Lycia?",
+    "expected_answer": "Leto",
+    "model_answer": "Leto",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Can you tell me who the main goddess was for the region of Lycia?",
+    "expected_answer": "Leto",
+    "model_answer": "According to the text, the main goddess for the region of Lycia was Leto. She was identified with the wolf (\u03bb\u03cd\u03ba\u03bf\u03c2) and was the patron goddess of Lycia.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What goddess did the people of Lycia consider their protector?",
+    "expected_answer": "Leto",
+    "model_answer": "The people of Lycia considered their protector to be Apollo\u2019s mother, Leto.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "I'm researching Lycia \u2013 what goddess held a prominent role in their religious beliefs?",
+    "expected_answer": "Leto",
+    "model_answer": "Leto. Lycia was the patron goddess of Leto, who was identified with the wolf (\u03bb\u03cd\u03ba\u03bf\u03c2).",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Who was the most important goddess in Lycia?",
+    "expected_answer": "Leto",
+    "model_answer": "Leto was the most important goddess in Lycia. The text states that Lycia was \u201cidentified with the wolf (\u03bb\u03cd\u03ba\u03bf\u03c2)\u201d and that Leto was \u201cwho was the patron goddess of Lycia\u201d.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What is the largest bay of Zhejiang?",
+    "expected_answer": "Hangzhou Bay",
+    "model_answer": "Hangzhou Bay",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Could you identify the largest bay located within the Zhejiang province?",
+    "expected_answer": "Hangzhou Bay",
+    "model_answer": "Hangzhou Bay",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What bay in Zhejiang is the largest?",
+    "expected_answer": "Hangzhou Bay",
+    "model_answer": "Hangzhou Bay",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Do you know which bay is biggest in Zhejiang?",
+    "expected_answer": "Hangzhou Bay",
+    "model_answer": "Hangzhou Bay is the biggest bay in Zhejiang.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Which bay is the biggest one in Zhejiang?",
+    "expected_answer": "Hangzhou Bay",
+    "model_answer": "Hangzhou Bay",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What's the size of the largest bay in Zhejiang, and what is its name?",
+    "expected_answer": "Hangzhou Bay",
+    "model_answer": "The largest bay in Zhejiang is Hangzhou Bay.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "What are the most commonly used encodings of Unicode?",
+    "expected_answer": "UTF-8, UTF-16 and the now-obsolete UCS-2",
+    "model_answer": "The most commonly used encodings of Unicode are UTF-8, UTF-16, and UCS-2 (though UCS-2 is now obsolete).",
+    "is_correct": false,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "\"Could you please outline the most prevalent encoding methods employed for representing Unicode characters, and what factors contribute to their widespread adoption?",
+    "expected_answer": "UTF-8, UTF-16 and the now-obsolete UCS-2",
+    "model_answer": "Okay, here\u2019s an outline of the prevalent Unicode encoding methods and the factors driving their adoption, based on the provided context and general knowledge:\n\n**Prevalent Unicode Encoding Methods:**\n\n1. **UTF-8:**\n   * **Mechanism:**  Uses one byte for ASCII characters (which have the same code points in both UTF-8 and ASCII), and up to four bytes for other Unicode characters. This variable-length encoding is extremely efficient for text that is predominantly in the English alphabet.\n   * **Code Units:**  Uses bytes (8-bit units).\n\n2. **UTF-16:**\n   * **Mechanism:**  Extends UCS-2, employing one 16-bit unit for characters that were previously representable in UCS-2, and two 16-bit units for additional characters.\n   * **Code Units:** Uses 16-bit units (2 \u00d7 8-bit bytes).\n\n3. **UCS-2:** (Now largely obsolete)\n   * **Mechanism:**  A 16-bit encoding, meaning it utilizes two 8-bit bytes to represent each Unicode character.  It was a predecessor to UTF-16.\n   * **Code Units:** Uses 16-bit units (2 \u00d7 8-bit bytes).\n\n\n**Factors Contributing to Widespread Adoption:**\n\n* **UTF-8\u2019s Dominance:**\n    * **Backward Compatibility with ASCII:** Because ASCII is the foundation of many text formats, UTF-8\u2019s compatibility with ASCII meant that existing systems and files could often be handled seamlessly.\n    * **Efficiency for English Text:**  For text predominantly in English, UTF-8 is remarkably efficient, using only one byte for common characters.\n    * **Browser and Software Support:**  Modern web browsers, operating systems, and programming languages have overwhelmingly adopted UTF-8 as the default encoding for handling Unicode text.  This creates a strong network effect.\n    * **Open Standard:** UTF-8 is an open standard, not proprietary, fostering broader adoption.\n\n* **UTF-16\u2019s Legacy & Use Cases:**\n    * **Java & .NET:** Initially, UTF-16 was the default encoding in Java and .NET, which significantly contributed to its use. While UTF-8 has overtaken it in many areas, it's still prevalent in those environments.\n    * **Character Range Coverage:**  It can represent a wider range of Unicode characters than UTF-8, though UTF-8 is generally more efficient for most use cases.\n\n* **UCS-2\u2019s Decline:**\n    * **Limited Character Set:** Its ability to represent only a portion of the Unicode standard meant it quickly became obsolete as the standard evolved.\n\n\n\n**In essence, UTF-8\u2019s combination of efficiency, backward compatibility, and overwhelming support within the web and software ecosystem has propelled it to become the dominant Unicode encoding method.**\n\n---\n\nWould you like me to elaborate on any specific aspect of this response, such as:\n\n*   The differences in character ranges that each encoding can handle?\n*   The implications of encoding choice for specific applications (e.g., web development, database storage)?",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "\"What Unicode encoding formats are most frequently used in practice?",
+    "expected_answer": "UTF-8, UTF-16 and the now-obsolete UCS-2",
+    "model_answer": "UTF-8 and UTF-16 are the most frequently used Unicode encoding formats in practice.",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "\"What are the go-to Unicode encodings that people use the most?",
+    "expected_answer": "UTF-8, UTF-16 and the now-obsolete UCS-2",
+    "model_answer": "The go-to Unicode encodings that people use the most are UTF-8 and UTF-16.",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "\"I'm curious \u2013 which Unicode encodings do you see used most often?",
+    "expected_answer": "UTF-8, UTF-16 and the now-obsolete UCS-2",
+    "model_answer": "The most commonly used Unicode encodings are UTF-8 and UTF-16. While UCS-2 is older, UTF-8 is now dominant, especially on the web and in many modern applications.",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "\"What are the main Unicode encodings used?",
+    "expected_answer": "UTF-8, UTF-16 and the now-obsolete UCS-2",
+    "model_answer": "The main Unicode encodings used are UTF-8, UTF-16, and the now-obsolete UCS-2.",
+    "is_correct": true,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": "Allston Green District is an example of what?",
+    "expected_answer": "cleaner energy facilities",
+    "model_answer": "Allston Green District is an example of a **cleaner energy facility** and an **ecologically compatible housing facility**.",
+    "is_correct": true,
+    "type": "original",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"What does the Allston Green District exemplify?",
+    "expected_answer": "cleaner energy facilities",
+    "model_answer": "The Allston Green District exemplifies Boston\u2019s efforts to create ecologically compatible housing facilities and reduce the city\u2019s carbon footprint. It\u2019s a demonstration of the city\u2019s commitment to building sustainable, affordable housing.",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"Can you tell me what the Allston Green District serves as an example of?",
+    "expected_answer": "cleaner energy facilities",
+    "model_answer": "The Allston Green District serves as an example of Boston\u2019s efforts to create ecologically compatible housing facilities and reduce the city\u2019s carbon footprint.",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"The Allston Green District \u2013 what's it a good illustration of?",
+    "expected_answer": "cleaner energy facilities",
+    "model_answer": "The Allston Green District is a good illustration of Boston\u2019s efforts to create **ecologically compatible housing facilities and promote cleaner energy initiatives** within the city. It showcases the city\u2019s commitment to reducing its carbon footprint and providing affordable housing options through sustainable development.",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"Into what category or type of development does the Allston Green District fit?",
+    "expected_answer": "cleaner energy facilities",
+    "model_answer": "Ecologically compatible housing facilities.",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  },
+  {
+    "variant": ": \"What concept or approach is the Allston Green District demonstrating?",
+    "expected_answer": "cleaner energy facilities",
+    "model_answer": "The Allston Green District is demonstrating **ecologically compatible housing** \u2013 specifically, housing facilities designed to be environmentally friendly.",
+    "is_correct": false,
+    "type": "variant",
+    "model": "gemma3:4b"
+  }
+]

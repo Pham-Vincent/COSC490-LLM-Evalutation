@@ -1,0 +1,1262 @@
+[
+  {
+    "variant": "What percentage of shareholder votes was need to approve the 2014 buy-back?",
+    "expected_answer": "75",
+    "model_answer": "75%",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": "What was the required shareholder approval threshold, expressed as a percentage, for the 2014 share buy-back?",
+    "expected_answer": "75",
+    "model_answer": "75%",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "To what percentage of shareholder votes did the 2014 share repurchase require approval?",
+    "expected_answer": "75",
+    "model_answer": "72%",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "What percentage of the shareholders needed to vote in favor for the 2014 buy-back to be approved?",
+    "expected_answer": "75",
+    "model_answer": "72 percent.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "What was the minimum percentage of shareholder votes needed for the 2014 share buy-back to pass?",
+    "expected_answer": "75",
+    "model_answer": "75%",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "What percentage vote was needed to approve the 2014 buy-back?",
+    "expected_answer": "75",
+    "model_answer": "72%",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "What is the name of the slug that is native to both Britain and Ireland?",
+    "expected_answer": "Kerry slug",
+    "model_answer": "The answer is the Kerry slug.",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": "Could you please identify the species of slug that is indigenous to both the island of Great Britain and Ireland?",
+    "expected_answer": "Kerry slug",
+    "model_answer": "The answer is the Kerry slug.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "What slug species is naturally found in both Britain and Ireland?",
+    "expected_answer": "Kerry slug",
+    "model_answer": "The Kerry slug.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Do you know what kind of slug is native to both Britain and Ireland?",
+    "expected_answer": "Kerry slug",
+    "model_answer": "The answer is a Kerry slug.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "What's the name of the slug native to Britain and Ireland?",
+    "expected_answer": "Kerry slug",
+    "model_answer": "The answer is the Kerry slug.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Which slug originates from and is found naturally in both Britain and Ireland?",
+    "expected_answer": "Kerry slug",
+    "model_answer": "The Kerry slug.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "What other location does the Canada First Defence Strategy Cover?",
+    "expected_answer": "North America",
+    "model_answer": "The Canada First Defence Strategy covers **Europe**.",
+    "is_correct": false,
+    "type": "original"
+  },
+  {
+    "variant": "\"Beyond North America, which geographic regions are addressed within the scope of the Canada First Defence Strategy?",
+    "expected_answer": "North America",
+    "model_answer": "The Canada First Defence Strategy broadly focuses on North America, but it also includes engagement with globally significant regions. Specifically, it\u2019s designed to ensure Canada\u2019s security and influence across the following areas:\n\n*   **Europe:** Particularly focusing on the European continent, with a strong emphasis on strengthening security along the Atlantic and Baltic coasts.\n*   **Asia:** Including strategic partnerships with countries in the Indo-Pacific region, recognizing the importance of stability and security in this region.\n*   **South America:** Ensuring Canada\u2019s strategic interests in South America.\n*   **The Arctic:** While not solely focused, Canada recognizes the importance of maintaining a presence and capacity in the Arctic region, considering its strategic importance and potential for geopolitical shifts.\n\n\nTherefore, while North America is the primary focus, the strategy is designed to be a globally relevant capability.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "\"The Canada First Defence Strategy primarily focuses on North America.  Could you tell me what other areas it considers?",
+    "expected_answer": "North America",
+    "model_answer": "The Canada First Defence Strategy, as introduced in 2008, considers a broader range of areas than just North America. It\u2019s designed to ensure Canada's security and influence in the region and globally. Here\u2019s a breakdown of the areas it focuses on, expanding beyond just North America:\n\n*   **Global Security:** This is the core focus. It emphasizes proactive defense and stability in key regions, including Europe, Asia, and the Middle East.\n*   **Intelligence and Cyber Security:** Strong emphasis on gathering, analyzing, and responding to intelligence, and bolstering cybersecurity capabilities to protect critical infrastructure and national security.\n*   **Maritime Security:** Protecting Canada\u2019s waterways \u2013 oceans, rivers, and lakes \u2013 is a critical component. This includes combating illegal fishing, terrorism, and maritime threats.\n*   **Counter-Terrorism:** A dedicated focus on disrupting terrorist networks and preventing attacks.\n*   **Human Security:** Protecting Canadian citizens and critical infrastructure from threats related to human security \u2013 including crime, and promoting safety and security for all Canadians.\n*   **Political Stability & International Cooperation:** Working with allies to promote peace and stability, facilitate regional cooperation, and address global challenges.\n\nIn essence, the Canada First Defence Strategy aims to build a more secure and resilient Canada through a combination of defense, intelligence, and engagement with the global community.\n\nWould you like me to elaborate on any of these areas in more detail?",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "\"I know the Canada First Defence Strategy is about protecting North America, but does it look at any other parts of the world as well?",
+    "expected_answer": "North America",
+    "model_answer": "That\u2019s a really important and nuanced question. The Canada First Defence Strategy, while heavily focused on North America, *does* encompass a broader view of global security. It\u2019s not solely about protecting North America, but rather about ensuring Canada\u2019s strategic interests and contributing to global stability.\n\nHere\u2019s a breakdown of how it looks at other parts of the world:\n\n* **Intelligence & Regional Security:** A core component is strengthening Canada\u2019s intelligence capabilities and working with allies to enhance regional security. This includes monitoring and responding to potential threats in the Caribbean, Central America, and South America.\n* **Partnerships & Alliances:** The strategy emphasizes building strong partnerships with countries around the world \u2013 particularly in Europe and Asia \u2013 to foster cooperation and mutual security. This is a significant shift from a purely defensive posture.\n* **Counterterrorism:** A strong emphasis is placed on countering terrorism, recognizing its global reach and potential impact.\n* **Climate Change & Security:** Recognizing the increasing interconnectedness of global systems, Canada is increasingly integrating climate change considerations into its security strategy, particularly regarding displacement, resource conflicts, and potential impacts on national security.\n* **Cybersecurity:** Strengthening Canada\u2019s cybersecurity posture is considered a critical aspect of global security, recognizing the growing importance of digital infrastructure.\n\n**It\u2019s not a simple \u201clook at the world\u201d approach.** It's a deliberate shift towards a more proactive and integrated approach to defense, recognizing that threats can originate anywhere.  It's a long-term strategy with implications that extend beyond North America.\n\n**In short, while North America remains paramount, the strategy recognizes Canada's role in a more complex and interconnected world.**\n\nDo you want me to elaborate on any of these areas, perhaps focusing on a specific aspect of the strategy or how it interacts with other policy areas like diplomacy or economic security?",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "\"What is the global reach of the Canada First Defence Strategy?  Besides North America, where else does it have a focus?",
+    "expected_answer": "North America",
+    "model_answer": "The Canada First Defence Strategy, as outlined in its 2008 introduction, has a focus on maintaining a strong presence and capability in North America and globally. However, it\u2019s not limited to just North America. The strategy explicitly aims to:\n\n*   **Enhance Canada's global security:** This includes maintaining a defensive posture and being prepared to respond to potential threats anywhere in the world.\n*   **Support Canada\u2019s international partners:** The strategy emphasizes working with allies and partners to address shared security challenges.\n*   **Protect Canada\u2019s interests:** It\u2019s fundamentally aimed at safeguarding Canada\u2019s national security and prosperity.\n\nWhile the strategy is primarily focused on North America, it\u2019s designed to extend its reach globally, with a particular emphasis on strengthening Canada's position in the region.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "\"Besides North America, where else does the Canada First Defence Strategy deal with?",
+    "expected_answer": "North America",
+    "model_answer": "The Canada First Defence Strategy deals with Canada\u2019s role and responsibilities in North America and globally. It\u2019s not limited to just North America. It encompasses a broader strategic framework for Canada\u2019s defense capabilities, including:\n\nAnswer: **Globally.** \n\nSpecifically, the strategy outlines Canada\u2019s commitments to:\n\n*   **Security in North America:** Maintaining stability and protecting Canada\u2019s interests within the region.\n*   **Global Security:** Contributing to global security through alliances and partnerships.\n*   **Maintaining Canada\u2019s Sovereignty:** Protecting Canada\u2019s vital interests and ensuring its continued independence.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "India produced which early architectural text?",
+    "expected_answer": "Shilpa Shastras",
+    "model_answer": "The Shilpa Shastras of ancient India.",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": "What was the name of the early architectural text originating from India?",
+    "expected_answer": "Shilpa Shastras",
+    "model_answer": "The Shilpa Shastras of ancient India.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Which ancient Indian text dealt with principles of architecture?",
+    "expected_answer": "Shilpa Shastras",
+    "model_answer": "The Shilpa Shastras of ancient India.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Can you tell me the name of the first significant architectural writing to come out of India?",
+    "expected_answer": "Shilpa Shastras",
+    "model_answer": "The Shilpa Shastras of ancient India.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "From what early Indian text did architectural principles originate?",
+    "expected_answer": "Shilpa Shastras",
+    "model_answer": "The Shilpa Shastras of ancient India.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "What are some of the key early architectural writings that developed in India?",
+    "expected_answer": "Shilpa Shastras",
+    "model_answer": "The key early architectural writings that developed in India are the Shilpa Shastras and Manjusri Vasthu Vidya Sastra.\n\nHere\u2019s a bit more detail:\n\n*   **Shilpa Shastras (The School of Arts):** These were a collection of texts compiled during the 7th to 5th centuries BCE, primarily written in Sanskrit. They focused on the principles of aesthetics and decorative arts, including architecture, sculpture, painting, and textiles. They heavily influenced architectural design through their detailed descriptions of color, pattern, and proportions.\n\n*   **Manjusri Vasthu Vidya Sastra (The Treatise on the Secrets of the Stones):** This text, dating from around the 3rd-2nd centuries BCE, was a significant contribution to Indian architectural theory and practice. It focused on the properties of stones and their suitability for construction. It provided a detailed explanation of how stones should be arranged and treated to create durable and aesthetically pleasing buildings. It\u2019s considered a foundational text in the development of Indian architectural thinking.\n\nWhile the Kao Gong Ji of China is important, it's primarily a system of practical building techniques, not a specific architectural text in the same way as the Shilpa Shastras and Manjusri Vasthu Vidya Sastra.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "How many people were wounded in the cases where FBI shooting was not justified?",
+    "expected_answer": "none",
+    "model_answer": "According to the text, in none of the 5 cases where FBI shooting was unjustified were people wounded.",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": "In instances where the FBI's use of force was deemed unjustified, what was the total number of individuals who sustained injuries?",
+    "expected_answer": "none",
+    "model_answer": "70",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "Slightly Less Formal, Focused on Victims: \"How many people were injured as a result of FBI shootings that were later found to be unwarranted?",
+    "expected_answer": "none",
+    "model_answer": "The FBI found 70 people injured as a result of unwarranted shootings.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "How many people were wounded across the FBI shooting incidents that were later determined to be unjustified?",
+    "expected_answer": "none",
+    "model_answer": "70",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "When FBI shootings were found to be unjustified, about how many people ended up getting hurt?",
+    "expected_answer": "none",
+    "model_answer": "In the period from 1993 to 2011, the FBI found the shots to be unjustified in 289 occasions, and 70 of those cases resulted in people being wounded.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "What is the total count of injuries sustained by individuals involved in FBI shooting incidents later ruled as unjustified?",
+    "expected_answer": "none",
+    "model_answer": "70",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "Which European company launched HD1?",
+    "expected_answer": "Euro1080",
+    "model_answer": "Euro1080",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": "Could you identify the European company responsible for the launch of HD1?",
+    "expected_answer": "Euro1080",
+    "model_answer": "Euro1080",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Which European firm introduced HD1 to the market?",
+    "expected_answer": "Euro1080",
+    "model_answer": "Euro1080",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Do you know which European company was behind the launch of HD1?",
+    "expected_answer": "Euro1080",
+    "model_answer": "Euro1080",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "What European company originated the HD1 product?",
+    "expected_answer": "Euro1080",
+    "model_answer": "Euro1080",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Seeking Information: \"I'm trying to find out who launched HD1. It was a European company \u2013 any idea who it was?",
+    "expected_answer": "Euro1080",
+    "model_answer": "Euro1080.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "How long did the Soviet air force need to prepare to assist",
+    "expected_answer": "two or three months",
+    "model_answer": "Two or three months.",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": ": \"What was the timeframe required for the Soviet Air Force to mobilize and prepare for deployment in order to provide assistance?",
+    "expected_answer": "two or three months",
+    "model_answer": "The Soviet Air Force needed two to three months to prepare any operations.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": ": \"How much preparation time did the Soviet Air Force require before they could begin assisting?",
+    "expected_answer": "two or three months",
+    "model_answer": "Two or three months.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": ": \"What was the lead time needed for the Soviet Air Force to reach operational readiness and be ready to provide assistance?",
+    "expected_answer": "two or three months",
+    "model_answer": "Stalin warned Zhou that the Soviet air force would need two or three months to prepare any operations.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": ": \"Before the Soviet Air Force could help, how long did they need to get ready?",
+    "expected_answer": "two or three months",
+    "model_answer": "Two or three months.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": ": \"Can you specify the period of preparation the Soviet Air Force underwent before being ready to assist?",
+    "expected_answer": "two or three months",
+    "model_answer": "The Soviet air force underwent a two-to-three-month preparation period before being ready to assist.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "In what city  is the cathedral of St Peter's  located?",
+    "expected_answer": "Rome",
+    "model_answer": "Rome.",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": "Could you please specify the city where St. Peter's Cathedral is situated?",
+    "expected_answer": "Rome",
+    "model_answer": "The text doesn\u2019t specify the city where St. Peter\u2019s Cathedral is situated. It only mentions that the document was given at St. Peter\u2019s, Rome.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "What city can you find St. Peter's Cathedral in?",
+    "expected_answer": "Rome",
+    "model_answer": "St. Peter\u2019s Cathedral is in Rome.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Which city is home to St. Peter's Cathedral?",
+    "expected_answer": "Rome",
+    "model_answer": "Rome",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Do you know what city St. Peter's Cathedral is in?",
+    "expected_answer": "Rome",
+    "model_answer": "The text doesn't state where St. Peter\u2019s Cathedral is located. It focuses on the significance of the document itself.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "Where is the cathedral of St. Peter's located geographically?",
+    "expected_answer": "Rome",
+    "model_answer": "The text doesn't provide the location of the cathedral of St. Peter\u2019s. It focuses on the significance of the document itself.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "At what battle was Seleucus killed ?",
+    "expected_answer": "Battle of Corupedium",
+    "model_answer": "At the Battle of Corupedium, near Sardis.",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": "During which military engagement did Seleucus meet his death?",
+    "expected_answer": "Battle of Corupedium",
+    "model_answer": "In 285 BCE, at the Battle of Corupedium, near Sardis.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Where did Seleucus die in battle?",
+    "expected_answer": "Battle of Corupedium",
+    "model_answer": "In captivity.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "What battle is associated with the death of Seleucus?",
+    "expected_answer": "Battle of Corupedium",
+    "model_answer": "The battle associated with the death of Seleucus is the Battle of Corupedium, near Sardis.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Do you know which battle Seleucus lost his life in?",
+    "expected_answer": "Battle of Corupedium",
+    "model_answer": "The answer is the Battle of Corupedium.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Can you tell me the name of the battle in which Seleucus was killed?",
+    "expected_answer": "Battle of Corupedium",
+    "model_answer": "The battle in which Seleucus was killed is the Battle of Corupedium.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "In 2007, when seeking attention, selection or service . What percent of Liberians had to pay a bribe?",
+    "expected_answer": "89%",
+    "model_answer": "89%",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": "According to data from 2007, what percentage of the Liberian population reported having paid a bribe to access a public service, gain preferential treatment, or influence a selection process?",
+    "expected_answer": "89%",
+    "model_answer": "89%",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Looking back to 2007, roughly how many Liberians reported needing to pay a bribe to get what they needed from a government service or to influence a decision?",
+    "expected_answer": "89%",
+    "model_answer": "2.1",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "In 2007, what proportion of Liberians experienced the need to pay a bribe to receive a service or gain access to a selection process?",
+    "expected_answer": "89%",
+    "model_answer": "2.1",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "What was the bribery rate in Liberia in 2007, specifically when individuals were seeking services or selection processes?",
+    "expected_answer": "89%",
+    "model_answer": "89%",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "In 2007, what percentage of Liberians felt compelled to pay a bribe when dealing with government agencies or processes?",
+    "expected_answer": "89%",
+    "model_answer": "2.1",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "What are the principles of phonological analysis able to be applied separately from?",
+    "expected_answer": "modality",
+    "model_answer": "The principles of phonological analysis are able to be applied separately from **language-specific characteristics** and **language-specific structures**.\n\nHere\u2019s a breakdown of why:\n\n* **Language-specific characteristics:** Phonological analysis focuses on the underlying *sound patterns* of a language, regardless of the specific words or sentence structures.\n* **Language-specific structures:** It\u2019s based on universal principles of sound organization, but these principles apply across all languages.\n\nEssentially, it\u2019s a broader set of tools for understanding how sounds are organized, not just within a particular language.\n\nLet me know if you\u2019d like a more detailed explanation!",
+    "is_correct": false,
+    "type": "original"
+  },
+  {
+    "variant": "\"To what extent can the core tenets of phonological analysis be utilized independently of specific theoretical frameworks?",
+    "expected_answer": "modality",
+    "model_answer": "The answer is **essentially, to a very high extent.**\n\nThe text explicitly states that \u201cthe principles of phonological analysis can be applied independently of specific theoretical frameworks.\u201d This is a core argument \u2013 the fundamental analytical techniques used in phonological analysis are designed to be adaptable and used across various linguistic contexts, not just within a particular linguistic theory. \n\nHere's a slightly more nuanced breakdown of why this is the best answer:\n\n* **Foundation of Universal Principles:** The text emphasizes that the underlying principles are *general* and *applicable*.\n* **Flexibility:**  The focus on being independent of specific frameworks suggests a level of flexibility in how they are used.\n* **Historical Context:** Applying them to sign languages demonstrates a historical precedent of using analytical tools in diverse areas.\n\nTherefore, the core of the text advocates for a broad, adaptable application of the core principles, independent of specific theoretical models.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "\"What foundational principles of phonological analysis can be used without relying on a particular theory or model?",
+    "expected_answer": "modality",
+    "model_answer": "The foundational principles of phonological analysis, which can be applied independently of a specific theory or model, are primarily focused on **identifying and analyzing patterns of sound changes within a sequence of sounds.**\n\nEssentially, it\u2019s about understanding how sounds combine and transform within a given context. This involves:\n\n*   **Identifying starting and ending sounds:** Recognizing the initial and final sounds of a unit.\n*   **Analyzing sound changes:**  Tracing how sounds change over time as they move through a sequence.\n*   **Grouping sounds:** Determining if sounds are part of a single unit or are part of a larger sequence.\n\nWhile specific models like the Sound Morphological Analysis (SMA) or Universal Phonetic Grammars (UPG) might be used *within* a phonological analysis, the core framework itself is adaptable and doesn't rely on a particular theoretical perspective.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "\"Are there any aspects of phonological analysis that can be applied in isolation, regardless of the underlying theoretical perspective?",
+    "expected_answer": "modality",
+    "model_answer": "Yes, absolutely. While the application of phonological analysis is heavily influenced by the theoretical perspective \u2013 particularly the goal of understanding and representing language \u2013 there are fundamental aspects that can be applied in isolation, regardless of that perspective. Here are a few examples:\n\n* **Identifying Pitch Patterns:** The core of phonological analysis revolves around identifying and analyzing pitch contours. These patterns \u2013 high, low, mid \u2013 are fundamental to many languages and can be studied independently.\n* **Analyzing Syllable Structure:** Examining the sounds that make up a syllable \u2013 the onset, nucleus, and coda \u2013 is a core element, irrespective of whether the analysis is driven by linguistic theory or purely acoustic analysis.\n* **Detecting Stress and Intonation:**  The distribution of stress and intonation within a word or phrase is a crucial aspect of phonological analysis, irrespective of the underlying grammatical framework.\n* **Analyzing Rhythm and Timing:** The patterns of stress and intonation contribute to the rhythmic qualities of speech, a significant aspect of phonological processing regardless of linguistic meaning. \n* **Identifying Sound Changes:**  The principle of sound change \u2013 how sounds shift over time \u2013 is a fundamental concept that can be applied to isolate linguistic features without being tied to a specific grammatical structure.\n\n\nEssentially, the *process* of identifying and analyzing sound patterns \u2013 the core of phonological analysis \u2013 is independent of the ultimate linguistic goal.\n\n\nWould you like me to elaborate on any of these points or perhaps discuss a specific example of how these principles apply outside of linguistic theory?",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "\"What are some of the basic building blocks of phonological analysis that we can use even if we's not committed to a specific approach?",
+    "expected_answer": "modality",
+    "model_answer": "Okay, here are some basic building blocks of phonological analysis that can be applied regardless of a specific approach, drawing from the context you've provided:\n\n1. **Sound-Onset Detection:** This is the fundamental step \u2013 identifying the initial sound that begins a sequence of sounds. It's a core starting point for understanding how sounds are created and organized.\n\n2. **Sound-Change Analysis:** Recognizing patterns of how sounds shift or modify each other \u2013 this is crucial for understanding how sounds evolve within a word or sentence.\n\n3. **Sound-Length and Contour Analysis:** Examining how the duration of sounds (how long they last) and their shape (contour \u2013 how they flow) influence each other. This helps reveal relationships between sounds.\n\n4. **Phoneme Segmentation:**  Breaking a word into its constituent sounds. This is a foundational step; it's the first step in many analyses.\n\n5. **Rule-Based Analysis (Potentially):** While the context emphasizes general tools, some approaches use a set of rules (e.g., frequency rules, syllable rules) to guide the analysis.  These rules, even if not explicitly stated, inform how the analysis progresses.\n\n6. **Phonetic Inventory Analysis:**  Identifying all the distinct sounds present in a language \u2013 it\u2019s a broad overview of what a language *has* to offer.\n\n7. **Sound Similarity/Contrast:** Assessing how similar or different sounds are to each other \u2013 this is vital for identifying word-level distinctions.\n\n**Important Note:** The context emphasizes that these are *basic* building blocks, and the *specific* application of these steps will vary depending on the linguistic situation and the researcher's goals.\n\n\nDo you want me to elaborate on any of these, perhaps by providing examples of how they\u2019re used in practice?",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "\"What parts of phonological analysis can you use even if you don\u2019t subscribe to a particular school of thought?",
+    "expected_answer": "modality",
+    "model_answer": "Okay, here are a few ways to answer that question, framing it to address the original context and demonstrating a broader understanding of phonological analysis:\n\n**Option 1 (Focus on core principles):**\n\n\u201cEven outside of a specific linguistic theory, the fundamental principles of phonological analysis \u2013 like identifying patterns of sound shifts, exploring stress and intonation, and understanding how sounds contribute to meaning \u2013 are valuable regardless of the approach. These tools are incredibly adaptable and can be used to analyze any language, whether it\u2019s spoken or written. It\u2019s about recognizing the *structure* of sound, not necessarily defining it as a specific *sound*.\u201d\n\n**Option 2 (Highlighting adaptability):**\n\n\u201cThe core principles of phonological analysis \u2013 how sounds combine and relate to each other \u2013 are universal. They\u2019re incredibly flexible and can be applied to any language, regardless of the theoretical framework you're using. Think of it as a toolkit \u2013 you can use different techniques to explore the same underlying concepts.\u201d\n\n**Option 3 (More concise, emphasizing the underlying structure):**\n\n\u201cBeyond a particular school of thought, phonological analysis relies on identifying patterns of sound change and relationships. These principles are applicable across all languages and provide a robust framework for understanding how sounds create meaning.\u201d\n\n---\n\n**Which option is best depends on the desired tone and depth of the response.**  I've aimed for a balance of acknowledging the context while providing a more general and insightful answer.\n\nTo help me refine the answer further, could you tell me:\n\n*   **What's the context of this question?** (e.g., a discussion about language learning, research, or a creative writing exercise?)",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "For how long has the Libon tram service existed?",
+    "expected_answer": "over a century",
+    "model_answer": "Over a century.",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": "What is the age of the Libon tram service? When was it first established?",
+    "expected_answer": "over a century",
+    "model_answer": "The Libon tram service was established on September 12, 1895.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "Semi-Formal: \"How many years has the Libon tram service been operating?",
+    "expected_answer": "over a century",
+    "model_answer": "Over a century.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "When did the Libon tram service begin?",
+    "expected_answer": "over a century",
+    "model_answer": "In Porto, a tram network, of which only a tourist line on the shores of the Douro remain, began construction on 12 September 1895.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "Can you tell me how long the Libon tram service has been around?",
+    "expected_answer": "over a century",
+    "model_answer": "The Libon tram service has been around for over a century.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "How long have they had the Libon tram?",
+    "expected_answer": "over a century",
+    "model_answer": "Over a century.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Does PlayStation Network use artificial or real currency for purchases?",
+    "expected_answer": "real",
+    "model_answer": "Real currency.",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": "Regarding transactions on the PlayStation Network, are purchases facilitated using virtual currency or actual, fiat currency?",
+    "expected_answer": "real",
+    "model_answer": "Real currency and PlayStation Network Cards.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "When making purchases on PlayStation Network, does it use a virtual currency system, or do users pay with real-world money?",
+    "expected_answer": "real",
+    "model_answer": "It uses a virtual currency system.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "Do you pay with PlayStation Store currency or with real money when buying things on PlayStation Network?",
+    "expected_answer": "real",
+    "model_answer": "Yes, PlayStation Network uses PlayStation Network Cards as seen with the PlayStation Store and PlayStation Home.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "Conversational & Inquiry-Based: \"I'm curious about how purchases work on PlayStation Network. Do you use points or something similar, or is it linked to your bank account/credit card?",
+    "expected_answer": "real",
+    "model_answer": "\u201cYes, absolutely! It uses a system of points. You earn points for everything you do \u2013 playing games, completing tasks, even just using the service. And you can link your account to your bank account or credit card to track your progress and earnings. It\u2019s a bit more complex than just a simple credit card, but it allows you to earn points and redeem them for things like in-game items and more!\u201d",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "Casual & Open-Ended: \"How does PlayStation Network handle payments for games and other content \u2013 are we talking about in-game currency or using actual dollars/euros/etc.?",
+    "expected_answer": "real",
+    "model_answer": "The answer is that PlayStation Network uses real currency \u2013 PlayStation Network Cards \u2013 as seen with the PlayStation Store and PlayStation Home. It\u2019s a system that utilizes real money to purchase games, digital content, and other services within the network.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "With whom did Hayek share his 1974 award?",
+    "expected_answer": "Gunnar Myrdal",
+    "model_answer": "Hayek shared the 1974 Nobel Memorial Prize in Economic Sciences with Gunnar Myrdal.",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": "Who was the recipient with Friedrich Hayek when he received his 1974 award?",
+    "expected_answer": "Gunnar Myrdal",
+    "model_answer": "Gunnar Myrdal",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Who shared the 1974 award with Hayek?",
+    "expected_answer": "Gunnar Myrdal",
+    "model_answer": "Gunnar Myrdal",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Who did Hayek receive his 1974 award with?",
+    "expected_answer": "Gunnar Myrdal",
+    "model_answer": "Gunnar Myrdal",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "The 1974 award was shared. Who was Hayek's co-recipient?",
+    "expected_answer": "Gunnar Myrdal",
+    "model_answer": "Gunnar Myrdal",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Who shared the award with Hayek in 1974?",
+    "expected_answer": "Gunnar Myrdal",
+    "model_answer": "Gunnar Myrdal",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "What was the first automatic, digital, programmable computer created by Konrad Zuse?",
+    "expected_answer": "the Z3",
+    "model_answer": "The answer is the Z3.",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": ": \"Could you please identify the name of the pioneering automatic, digital, and programmable computer developed by Konrad Zuse?",
+    "expected_answer": "the Z3",
+    "model_answer": "Zuse.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": ": \"What was the name of the first computer built by Konrad Zuse that met the criteria of being automatic, digital, and programmable?",
+    "expected_answer": "the Z3",
+    "model_answer": "The Z3.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": ": \"What computer did Konrad Zuse build that is considered the first automatic, digital, programmable machine?",
+    "expected_answer": "the Z3",
+    "model_answer": "The Z3.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": ": \"I'm interested in Konrad Zuse's work. What was the name of the first computer he created that was automatic, digital, and programmable?",
+    "expected_answer": "the Z3",
+    "model_answer": "The Z3.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": ": \"Konrad Zuse is known for a significant breakthrough in computing. What was the name of the machine he created that's recognized as the first automatic, digital, programmable computer?",
+    "expected_answer": "the Z3",
+    "model_answer": "The Z3.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Why was the spelling of McIntosh changed to Macintosh?",
+    "expected_answer": "for legal reasons",
+    "model_answer": "The spelling of McIntosh was changed to Macintosh due to a request from McIntosh Laboratory, Inc. to give Apple a release for the name.",
+    "is_correct": false,
+    "type": "original"
+  },
+  {
+    "variant": "Could you explain the rationale behind the change in spelling from McIntosh to Macintosh?",
+    "expected_answer": "for legal reasons",
+    "model_answer": "The rationale behind the change from McIntosh to Macintosh is that it was a **legal decision to protect Apple's intellectual property**. Specifically, Steve Jobs requested that McIntosh Laboratory give Apple a release for the name, but the request was denied. Apple ultimately purchased the rights to use \u201cMacintosh\u201d to prevent potential legal issues and ensure the name\u2019s use. Essentially, it was a strategic move to secure the name for their product and avoid potential disputes with another company.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "I'm curious, what led to the decision to change the spelling from McIntosh to Macintosh?",
+    "expected_answer": "for legal reasons",
+    "model_answer": "The decision to change the spelling from McIntosh to Macintosh was driven by a combination of factors, primarily related to **legal reasons and business strategy**. Here's a breakdown of the key elements:\n\n* **Copyright and Trademark Concerns:** Steve Jobs wanted to ensure Apple had exclusive rights to the name \u201cMacintosh.\u201d The original spelling was identical to McIntosh Laboratory, Inc.\u2019s name.\n* **Negotiation with McIntosh Laboratory:** Apple requested a release for using the name, but McIntosh Laboratory refused.\n* **Jef Raskin's Adoption:** Jef Raskin, the original visionary, had already adopted the spelling \u201cMacintosh\u201d by 1981.\n* **Legal Pressure:** The change was ultimately forced upon Apple due to the reluctance of McIntosh Laboratory to grant Apple\u2019s desired rights.\n\nEssentially, it was a legal battle over intellectual property and the control of the brand name.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "What's the story behind the change from McIntosh to Macintosh?",
+    "expected_answer": "for legal reasons",
+    "model_answer": "The story behind the change from McIntosh to Macintosh is that Jef Raskin initially wanted to name the computer after his favorite type of apple, the McIntosh. However, Apple\u2019s legal team refused to grant Apple the use of the name for fear of a potential trademark dispute with McIntosh Laboratory, Inc. This refusal forced Apple to eventually buy the rights to use the name, despite Raskin\u2019s earlier insistence.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "How did the name 'McIntosh' evolve into 'Macintosh'?",
+    "expected_answer": "for legal reasons",
+    "model_answer": "The name \u2018McIntosh\u2019 evolved from a combination of factors, including a change in spelling due to legal reasons and the subsequent decision by Apple to change it after \u201cearly users\u201d misspelled it. Initially, it was spelled \u201cMacintosh\u201d as Jef Raskin envisioned it, but Apple ultimately decided to change it to \u201cMacintosh\u201d for legal reasons.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "I've always wondered - why did they switch the spelling from McIntosh to Macintosh?",
+    "expected_answer": "for legal reasons",
+    "model_answer": "The key reason they switched from McIntosh to Macintosh was to **avoid potential legal issues with the existing trademark.** Steve Jobs was concerned about potential disputes with McIntosh Laboratory, Inc. The original spelling was very similar, and a change could have led to a lawsuit. By adopting Macintosh, they essentially asserted ownership of the name, and it was a strategic move to protect their brand.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "Ibn al-Haytham can be known by another name, what is it?",
+    "expected_answer": "Alhazen",
+    "model_answer": "The answer is **Alhazen**.",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": "Ibn al-Haytham is also known by an alternative name. What is that name?",
+    "expected_answer": "Alhazen",
+    "model_answer": "The alternative name for Ibn al-Haytham is **Alhazen**.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Besides Ibn al-Haytham, what other name was he known by?",
+    "expected_answer": "Alhazen",
+    "model_answer": "He was known by several names, including:\n\n*   **Al-Hasan ibn Yusr** (meaning \u201cThe Righteous\u201d or \u201cThe Right Way\u201d)",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "You might have heard of Ibn al-Haytham, but he had another name too. What was it?",
+    "expected_answer": "Alhazen",
+    "model_answer": "Ibn al-Haytham was known as Alhazen.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Ibn al-Haytham is often referred to by a different designation. Can you tell me what that is?",
+    "expected_answer": "Alhazen",
+    "model_answer": "Ibn al-Haytham is often referred to by the title \u201cThe Father of Optics.\u201d",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "What is Ibn al-Haytham's other, commonly used name?",
+    "expected_answer": "Alhazen",
+    "model_answer": "Ibn al-Haytham.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "What are the periods in a football match called?",
+    "expected_answer": "halves",
+    "model_answer": "Halves.",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": "Could you please describe the segments of time that constitute a standard football match?",
+    "expected_answer": "halves",
+    "model_answer": "Here\u2019s a breakdown of the segments of time that constitute a standard football match, based on the provided text:\n\n1.  **Two halves (45 minutes each):** Each half runs continuously.\n2.  **Half-time break (15 minutes):** A 15-minute break is taken between each half.\n3.  **Full-time:** The match ends when all time has elapsed.\n\nThe text also highlights that the referee has discretion over the added stoppage time, and the referee signals the end of the match.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "What do we call the different parts of a football game, like the sections of time played?",
+    "expected_answer": "halves",
+    "model_answer": "The different parts of a football game, like the sections of time played, are called halves and stoppage time.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "What are the halves of a soccer game officially called?",
+    "expected_answer": "halves",
+    "model_answer": "The halves of a soccer game are known as periods of 45 minutes each.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "How many parts is a football match divided into, and what are they called?",
+    "expected_answer": "halves",
+    "model_answer": "A football match is divided into two parts:\n\n1.  **Halves**\n2.  **Half-time**\n3.  **Full-time**\n\nThe referee signals the end of the match as \u201cfull-time\u201d.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Inquisitive/Curious: \"I'm curious, what's the terminology used to refer to the different sections of a football game?",
+    "expected_answer": "halves",
+    "model_answer": "The terminology used to refer to the different sections of a football game is:\n\n*   **Halves:** Each half is a 45-minute period.\n*   **Half-time:** A 15-minute break between halves.\n*   **Full-time:** The end of the match.\n\nAnd, importantly, **additional time** or **stoppage time** is used to account for time lost due to various reasons.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "When did Brasilia's presidential residence open?",
+    "expected_answer": "1958",
+    "model_answer": "The Pal\u00e1cio da Alvorada opened in 1958.",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": "What was the opening date of the presidential residence in Bras\u00edlia?",
+    "expected_answer": "1958",
+    "model_answer": "1958",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Semi-Formal: \"Can you tell me when the presidential palace in Bras\u00edlia officially opened?",
+    "expected_answer": "1958",
+    "model_answer": "The Pal\u00e1cio da Alvorada was inaugurated in 1958.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "When was the presidential residence in Bras\u00edlia first opened to the public?",
+    "expected_answer": "1958",
+    "model_answer": "The presidential residence in Bras\u00edlia was first opened to the public in 1958.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Do you know when Bras\u00edlia's presidential residence started being used?",
+    "expected_answer": "1958",
+    "model_answer": "The text states that \u201cAlvorada\u201d lies on a peninsula at the margins of Lake Parano\u00e1 and was designed, along with the rest of the city of Bras\u00edlia, by Oscar Niemeyer in 1958. This means it was used **starting in 1958**.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "When did they open the presidential residence in Bras\u00edlia?",
+    "expected_answer": "1958",
+    "model_answer": "The palace was inaugurated in 1958.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "What was most of Nigeria's federal income being spent on?",
+    "expected_answer": "debt",
+    "model_answer": "Servicing the country\u2019s crushing international debt.",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": "Could you please describe the primary areas of expenditure for Nigeria's federal income? What percentage was allocated to each?",
+    "expected_answer": "debt",
+    "model_answer": "Okay, let\u2019s break down the primary areas of expenditure for Nigeria\u2019s federal income based on the provided context. The text doesn\u2019t offer specific percentages for each area, but rather highlights the *types* of spending. Here's a breakdown of what\u2019s suggested, based on the information:\n\n**Based on the context, the primary areas of expenditure for Nigeria\u2019s federal income appear to be:**\n\n1. **Debt Servicing (Approximately 60-70%):**  This is the single largest category. The text explicitly states the federal revenue was \"dedicated to servicing\" the country\u2019s international debt. This is the core of the problem Babangida's tenure was focused on.\n\n2. **International Monetary Fund (IMF) SAP (Approximately 20-30%):** The implementation of the SAP is clearly highlighted as a significant expenditure. This involved transferring funds to address the country's debt.\n\n3. **Organization of the Islamic Conference (OIC) (Approximately 5-10%):**  The OIC\u2019s membership and involvement in the conference were mentioned as a contributing factor to increased religious tensions.\n\n**Important Note:** The text focuses on *types* of expenditure rather than precise percentages. It\u2019s a snapshot of the economic priorities during Babangida\u2019s time.\n\n**To get precise figures, further research would be needed,** including official government reports and analyses. However, this breakdown accurately reflects the information presented in the context.\n\n---\n\nDo you want me to:\n\n*   Expand on any of these areas in more detail?\n*   Compare this spending to other countries' spending patterns (if that's a specific question)?\n*   Suggest resources for finding more detailed data?",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Where was the majority of Nigeria's government money going?",
+    "expected_answer": "debt",
+    "model_answer": "Nigeria\u2019s federal revenue was dedicated to servicing the country\u2019s crushing international debt.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "What were Nigeria's top spending priorities when it came to federal income?",
+    "expected_answer": "debt",
+    "model_answer": "The text states Babangida instituted the International Monetary Fund\u2019s Structural Adjustment Program (SAP) to aid in the repayment of the country\u2019s crushing international debt. It doesn\u2019t specify what his top spending priorities were.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "What were the biggest categories of spending for Nigeria's federal income?",
+    "expected_answer": "debt",
+    "model_answer": "The text doesn\u2019t provide any information about the biggest categories of spending for Nigeria\u2019s federal income. It focuses on Babangida\u2019s actions and the context of his rule.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "Can you give me a general overview of how Nigeria's federal income was distributed?",
+    "expected_answer": "debt",
+    "model_answer": "The provided text doesn\u2019t give us any information about how Nigeria\u2019s federal income was distributed. It focuses on Ibrahim Babangida\u2019s political actions and the economic policies he implemented. \n\nTo understand how federal income was distributed, you\u2019d need to consult further sources \u2013 perhaps historical accounts, economic reports, or legal documents \u2013 that detail Nigeria\u2019s fiscal policies and revenue allocation.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "What grants all indigenous languages spoken in Mexico validity? ",
+    "expected_answer": "General Law of Linguistic Rights of the Indigenous Peoples",
+    "model_answer": "The \u201cGeneral Law of Linguistic Rights of the Indigenous Peoples\u201d grants all indigenous languages spoken in Mexico validity.",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": "What legal and/or societal frameworks underpin the recognition and legitimacy of all indigenous languages currently spoken within Mexico?",
+    "expected_answer": "General Law of Linguistic Rights of the Indigenous Peoples",
+    "model_answer": "The answer to your question is rooted in a complex interplay of legal frameworks, historical context, and ongoing efforts to promote indigenous rights. Here\u2019s a breakdown of the key legal and societal frameworks:\n\n* **The \"General Law of Linguistic Rights of the Indigenous Peoples\":** This foundational law is the cornerstone. It establishes the principle of equal validity of all indigenous languages, regardless of number of speakers, mirroring the status of Spanish. This is crucial because it elevates the linguistic rights of all indigenous languages to the same level as Spanish.\n\n* **Recognition of National Languages:** The law explicitly grants indigenous languages more than 60 languages the status of \u201cnational languages,\u201d indicating a deliberate recognition of their significance and value.\n\n* **National Commission for the Development of Indigenous Peoples (CNDP):** The CNDP plays a pivotal role in this process. It recognizes the language of the Kickapoo and the languages of Guatemalan indigenous refugees, highlighting the recognition of linguistic diversity beyond simply the number of speakers.\n\n* **Bilingual Education Programs:** The Mexican government's investment in bilingual primary and secondary education demonstrates a commitment to incorporating indigenous languages into the educational system, signaling a practical effort to increase language usage.\n\n* **Historical Context - Immigration and Cultural Identity:** The law's emphasis on recognizing languages originating outside the current territory underscores a historical acknowledgement of cultural identity and the importance of preserving linguistic heritage, particularly for communities who have migrated.\n\n**In essence, the framework is built on a combination of legal principle (equal validity), historical precedent (recognition of linguistic diversity), and practical policy (promoting language use through education).**",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "What guarantees the continued survival and official standing of Mexico's indigenous languages?",
+    "expected_answer": "General Law of Linguistic Rights of the Indigenous Peoples",
+    "model_answer": "According to the text, the law \u201cGeneral Law of Linguistic Rights of the Indigenous Peoples\u201d guarantees the continued survival and official standing of Mexico\u2019s indigenous languages through the following:\n\n*   **Validity as Spanish:** The law recognizes the validity of indigenous languages in all territories where they are spoken, just like Spanish.\n*   **Recognition as National Languages:** The law grants them the status of \u201cnational languages\u201d \u2013 meaning they are entitled to public services and documents in their native languages.\n*   **Request for Public Services & Documents:** Indigenous peoples are entitled to request public services and documents in their native languages.\n\nEssentially, the law aims to ensure their continued use and importance within the country\u2019s linguistic landscape.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "What makes indigenous languages in Mexico officially recognized and respected?",
+    "expected_answer": "General Law of Linguistic Rights of the Indigenous Peoples",
+    "model_answer": "According to the text, indigenous languages in Mexico are officially recognized and respected because:\n\n*   **They are granted the same validity as Spanish in all territories where they are spoken.**\n*   **Indigenous peoples are entitled to request public services and documents in their native languages.**\n*   **The law recognizes the language of the Kickapoo and the Guatemalan indigenous refugees.**\n*   **The Mexican government has promoted and established bilingual primary and secondary education in some indigenous rural communities.**\n\nEssentially, the law prioritizes their status and recognition, ensuring they have the same rights and opportunities as Spanish.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "From what sources does the authority for validating all indigenous languages in Mexico originate?",
+    "expected_answer": "General Law of Linguistic Rights of the Indigenous Peoples",
+    "model_answer": "The source for the authority for validating all indigenous languages in Mexico originates from the **National Commission for the Development of Indigenous Peoples (CNDP)**.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "How has Mexico established the basis for acknowledging and valuing all its indigenous languages?",
+    "expected_answer": "General Law of Linguistic Rights of the Indigenous Peoples",
+    "model_answer": "According to the text, Mexico has established the basis for acknowledging and valuing all its indigenous languages through the following:\n\n*   **The \u201cGeneral Law of Linguistic Rights of the Indigenous Peoples\u201d** grants all indigenous languages the same validity as Spanish in all territories where they are spoken.\n*   **Recognizing them as \u201cnational languages\u201d** \u2013 a status granted through the law.\n*   **Promoting and establishing bilingual primary and secondary education** in some indigenous rural communities.\n*   **Recognizing the Kickapoo and Guatemalan indigenous refugees\u2019 languages** \u2013 explicitly acknowledging and supporting these languages.\n\nIn essence, the law and government initiatives work together to ensure that all indigenous languages are recognized and valued.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "How many crop seasons are there in Rajasthan?",
+    "expected_answer": "two crop seasons",
+    "model_answer": "The text states there are two crop seasons.",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": ": \"Could you please specify the number of agricultural seasons observed in the state of Rajasthan, and perhaps a brief description of each?",
+    "expected_answer": "two crop seasons",
+    "model_answer": "The text doesn\u2019t specify the number of agricultural seasons observed in Rajasthan. It only mentions that there are mainly two crop seasons \u2013 the main one for cotton and the main one for oilseeds.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": ": \"What is the number of crop seasons that occur annually in Rajasthan?",
+    "expected_answer": "two crop seasons",
+    "model_answer": "The text states that there are two crop seasons annually in Rajasthan.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": ": \"How many different growing seasons do farmers typically experience in Rajasthan?",
+    "expected_answer": "two crop seasons",
+    "model_answer": "The text states that there are mainly two crop seasons.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": ": \"I'm curious, how many times a year do crops get planted and harvested in Rajasthan?",
+    "expected_answer": "two crop seasons",
+    "model_answer": "The text doesn\u2019t specify the exact number of times crops get planted and harvested. It only mentions that there are two crop seasons.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": ": \"What's the number of crop seasons in Rajasthan?",
+    "expected_answer": "two crop seasons",
+    "model_answer": "The text states that there are two crop seasons.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "When did Estonia start hoping for freedom?",
+    "expected_answer": "the period of national awakening",
+    "model_answer": "During the period of national awakening while being governed by the Russian Empire.",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": ": \"At what point in history did Estonians begin to desire independence?",
+    "expected_answer": "the period of national awakening",
+    "model_answer": "During the period of national awakening while being governed by the Russian Empire.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": ": \"When do historians say Estonians first started wishing for freedom from foreign rule?",
+    "expected_answer": "the period of national awakening",
+    "model_answer": "According to the text, historians say Estonians started yearning for freedom from foreign rule during the period of national awakening while being governed by the Russian Empire.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": ": \"What event or period marked the beginning of Estonia's hope for self-determination?",
+    "expected_answer": "the period of national awakening",
+    "model_answer": "The period of national awakening during the Russian Empire, followed by the yearning for independence after centuries of Danish, Swedish and German rule, marked the beginning of Estonia\u2019s hope for self-determination.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": ": \"Can you tell me about the earliest signs of Estonian aspirations for freedom?",
+    "expected_answer": "the period of national awakening",
+    "model_answer": "Based on the provided text, the earliest signs of Estonian aspirations for freedom were evident during the period of national awakening following the establishment of the Republic of Estonia in 1918, amidst the Russian Empire\u2019s rule. The text explicitly states: \u201cwhile being governed by the Russian Empire.\u201d This suggests a growing sense of discontent and a desire for self-determination stemming from the political and social context of that time.\n\nEssentially, the text highlights the gradual development of Estonian nationalism and a yearning for autonomy as a result of being under foreign rule.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": ": \"Around what time did Estonians begin to dream of being free?",
+    "expected_answer": "the period of national awakening",
+    "model_answer": "The period of national awakening while being governed by the Russian Empire is when Estonians started to yearn for independence.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "What's another name for the concentric rings in trees?",
+    "expected_answer": "annual rings",
+    "model_answer": "Annual rings.",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": "\"What is the technical term for the growth rings you see when you look at a tree's cross-section?",
+    "expected_answer": "annual rings",
+    "model_answer": "Annual rings.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "\"Besides 'growth rings,' what else do people call the circles you see inside a tree trunk?",
+    "expected_answer": "annual rings",
+    "model_answer": "The answer is **annual rings**.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "\"I know those rings inside a tree show its age, but what's that term people use for them besides 'rings'?",
+    "expected_answer": "annual rings",
+    "model_answer": "The answer is **growth rings**.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "\"What do you call those circles inside a tree?",
+    "expected_answer": "annual rings",
+    "model_answer": "Annual rings.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "\"What's the scientific name for the patterns that show a tree's yearly growth?",
+    "expected_answer": "annual rings",
+    "model_answer": "Annual rings.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Which three people were the first to ride the Saturn V rocket into space?",
+    "expected_answer": "Frank Borman, James Lovell, and William Anders",
+    "model_answer": "Frank Borman, James Lovell, and William Anders.",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": "Could you please identify the three astronauts who comprised the crew of the first manned mission utilizing the Saturn V rocket?",
+    "expected_answer": "Frank Borman, James Lovell, and William Anders",
+    "model_answer": "Frank Borman, James Lovell, and William Anders.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Who were the three astronauts aboard the Saturn V rocket for its first human spaceflight?",
+    "expected_answer": "Frank Borman, James Lovell, and William Anders",
+    "model_answer": "Frank Borman, James Lovell, and William Anders.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "What were the names of the three individuals who first journeyed into space on the Saturn V rocket?",
+    "expected_answer": "Frank Borman, James Lovell, and William Anders",
+    "model_answer": "Frank Borman, James Lovell, and William Anders.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "What was the crew of the Apollo 11 mission, which was the first to use the Saturn V rocket?",
+    "expected_answer": "Frank Borman, James Lovell, and William Anders",
+    "model_answer": "Frank Borman, James Lovell, and William Anders.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Who were the first three people to fly on the Saturn V rocket?",
+    "expected_answer": "Frank Borman, James Lovell, and William Anders",
+    "model_answer": "Frank Borman, James Lovell, and William Anders.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "What was Greece's unemployment rate between in 2009?",
+    "expected_answer": "9 per cent and 11 per cent",
+    "model_answer": "9 per cent.",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": ": \"Could you please provide the unemployment rate for Greece in 2009?",
+    "expected_answer": "9 per cent and 11 per cent",
+    "model_answer": "The unemployment rate in Greece in 2009 was between 9 per cent and 11 per cent.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": ": \"What was the unemployment rate in Greece during 2009?",
+    "expected_answer": "9 per cent and 11 per cent",
+    "model_answer": "Between 9 per cent and 11 per cent.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": ": \"Do you know what Greece's unemployment rate was back in 2009?",
+    "expected_answer": "9 per cent and 11 per cent",
+    "model_answer": "Between 9 per cent and 11 per cent.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": ": \"What was the unemployment rate in Greece around 2009, specifically?\".",
+    "expected_answer": "9 per cent and 11 per cent",
+    "model_answer": "The unemployment rate in Greece around 2009 was between 9 per cent and 11 per cent.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": ": \"I'm researching the economic situation in Greece. Can you tell me what the unemployment rate was like in 2009?",
+    "expected_answer": "9 per cent and 11 per cent",
+    "model_answer": "The unemployment rate in 2009 was between 9 per cent and 11 per cent.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Who was the patron goddess of Lycia?",
+    "expected_answer": "Leto",
+    "model_answer": "The patron goddess of Lycia was Leto.",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": "Which deity served as the patron goddess of ancient Lycia?",
+    "expected_answer": "Leto",
+    "model_answer": "Lyceus.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "Can you tell me who the main goddess was for the region of Lycia?",
+    "expected_answer": "Leto",
+    "model_answer": "According to the provided context, the main goddess for the region of Lycia was Leto, who was identified with the wolf (\u03bb\u03cd\u03ba\u03bf\u03c2).",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "What goddess did the people of Lycia consider their protector?",
+    "expected_answer": "Leto",
+    "model_answer": "The people of Lycia considered the wolf (\u03bb\u03cd\u03ba\u03bf\u03c2) to be their protector.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "I'm researching Lycia \u2013 what goddess held a prominent role in their religious beliefs?",
+    "expected_answer": "Leto",
+    "model_answer": "Lycia, as a region in Asia Minor, was the domain of **Lycia**, a goddess closely linked to the sun and light. While not a single goddess, Lycia was the patron deity of the region and was associated with the wolf, representing wildness and the sun\u2019s power.\n\nHere's a breakdown of her role:\n\n* **The Wolf (Ly\u03ba\u03bf\u03c2):** This was her most significant association. The wolf symbolized the wild, untamed aspects of nature and the sun\u2019s fiery energy. Her worship was often linked to the sun\u2019s influence on animals and the natural world.\n* **Light and Radiance:** She embodied the radiating warmth and light of the sun, representing clarity and guidance.\n* **Protection and Fertility:** Lycia was linked to fertility and protection, reflecting the agricultural importance of the region.\n* **Royal Connections:** She was often considered the consort of the king of the Lycians, and her worship was integral to the region\u2019s prosperity.\n\nEssentially, Lycia was the goddess of the sun and its associated wildness, profoundly impacting the religious beliefs and traditions of the people who lived in and around the region.\n\nDo you want to know more about specific aspects of her worship or her relationship to other deities?",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "Who was the most important goddess in Lycia?",
+    "expected_answer": "Leto",
+    "model_answer": "Lyceus.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "What is the largest bay of Zhejiang?",
+    "expected_answer": "Hangzhou Bay",
+    "model_answer": "Hangzhou Bay.",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": "Could you identify the largest bay located within the Zhejiang province?",
+    "expected_answer": "Hangzhou Bay",
+    "model_answer": "Hangzhou Bay",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "What bay in Zhejiang is the largest?",
+    "expected_answer": "Hangzhou Bay",
+    "model_answer": "Hangzhou Bay.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Do you know which bay is biggest in Zhejiang?",
+    "expected_answer": "Hangzhou Bay",
+    "model_answer": "Hangzhou Bay.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "Which bay is the biggest one in Zhejiang?",
+    "expected_answer": "Hangzhou Bay",
+    "model_answer": "Hangzhou Bay.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "What's the size of the largest bay in Zhejiang, and what is its name?",
+    "expected_answer": "Hangzhou Bay",
+    "model_answer": "Hangzhou Bay is the largest bay in Zhejiang.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "What are the most commonly used encodings of Unicode?",
+    "expected_answer": "UTF-8, UTF-16 and the now-obsolete UCS-2",
+    "model_answer": "UTF-8, UTF-16, and UCS-2",
+    "is_correct": true,
+    "type": "original"
+  },
+  {
+    "variant": "\"Could you please outline the most prevalent encoding methods employed for representing Unicode characters, and what factors contribute to their widespread adoption?",
+    "expected_answer": "UTF-8, UTF-16 and the now-obsolete UCS-2",
+    "model_answer": "Okay, here's an outline of the most prevalent encoding methods for Unicode, and the factors contributing to their widespread adoption, aiming for a clear and informative response:\n\n**1. UTF-8: The Dominant Choice**\n\n* **Description:** UTF-8 is currently the most widely used encoding for Unicode. It\u2019s designed to be a lightweight and efficient encoding.\n* **How it Works:** It uses a variable-length encoding.  For ASCII characters, it uses a single byte. For any other characters, it uses a character code. This means the same character can have different representations depending on its position in the Unicode character space.\n* **Why it's Predominant:**\n    * **Widespread Support:** Virtually all operating systems, programming languages, and web browsers support UTF-8 natively.\n    * **Efficiency:** It\u2019s relatively simple to implement, making it a good choice for performance.\n    * **Compatibility:** It\u2019s a standard for the web and is the foundation for many other encoding schemes.\n\n\n**2. UTF-16: A Complementary Encoding**\n\n* **Description:** UTF-16 is another encoding that supports Unicode, but it uses a different approach than UTF-8.\n* **How it Works:** It represents each Unicode character by a 16-bit code unit.\n* **Why it's Used (and Important):**\n    * **Larger Character Space:** It can represent a larger set of characters than UTF-8, especially for characters that are less frequently used.\n    * **Performance:** In some cases, it can be faster than UTF-8 for certain operations.\n    * **Legacy Support:**  It's still used in some older systems and applications, particularly in embedded systems.\n\n\n\n**3. UCS-2: An Obsolete, But Historically Important**\n\n* **Description:** UCS-2 was designed as a predecessor to UTF-8 and is still used in some legacy systems.\n* **How it Works:**  It uses a 16-bit code unit for each character, but it's significantly more restrictive than UTF-8.\n* **Why it's Less Common Now:**\n    * **Limited Character Set:** It restricts the characters that can be encoded, limiting its usefulness.\n    * **Limited Adoption:**  It's largely superseded by UTF-8, although it remains in use in older systems.\n\n\n**Factors Contributing to Wide Adoption:**\n\n* **Unicode Standard:** UTF-8 was chosen as the core Unicode encoding standard.  This means it\u2019s the foundation for the entire Unicode system.\n* **Broad Software Support:**  The vast majority of software, including web browsers, operating systems, and programming languages, are designed to work with UTF-8.\n* **Web Development:**  UTF-8 is the default encoding for the web, making it essential for rendering web pages correctly across different browsers.\n* **Compatibility:**  Its widespread use across diverse platforms and technologies makes it a practical choice.\n\n\n**In summary, UTF-8's simplicity, efficiency, and the ubiquity of its support have made it the dominant encoding for representing Unicode characters today.**\n\n---\n\nWould you like me to elaborate on any of these points, perhaps provide examples, or discuss specific challenges associated with each encoding?",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "\"What Unicode encoding formats are most frequently used in practice?",
+    "expected_answer": "UTF-8, UTF-16 and the now-obsolete UCS-2",
+    "model_answer": "UTF-8, UTF-16, and UCS-2.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "\"What are the go-to Unicode encodings that people use the most?",
+    "expected_answer": "UTF-8, UTF-16 and the now-obsolete UCS-2",
+    "model_answer": "UTF-8, UTF-16, and UCS-2.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "\"I'm curious \u2013 which Unicode encodings do you see used most often?",
+    "expected_answer": "UTF-8, UTF-16 and the now-obsolete UCS-2",
+    "model_answer": "UTF-8.",
+    "is_correct": true,
+    "type": "variant"
+  },
+  {
+    "variant": "\"What are the main Unicode encodings used?",
+    "expected_answer": "UTF-8, UTF-16 and the now-obsolete UCS-2",
+    "model_answer": "UTF-8, UTF-16, and UCS-2.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": "Allston Green District is an example of what?",
+    "expected_answer": "cleaner energy facilities",
+    "model_answer": "A green district.",
+    "is_correct": false,
+    "type": "original"
+  },
+  {
+    "variant": ": \"What does the Allston Green District exemplify?",
+    "expected_answer": "cleaner energy facilities",
+    "model_answer": "The Allston Green District exemplifies a commitment to ecological compatibility and sustainable housing within Boston. It\u2019s a district with three ecologically compatible housing facilities, demonstrating a focus on integrating green spaces and sustainable living within the urban environment.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": ": \"Can you tell me what the Allston Green District serves as an example of?",
+    "expected_answer": "cleaner energy facilities",
+    "model_answer": "The Allston Green District serves as an example of a **sustainable and ecologically compatible housing facility**. It\u2019s designed to be environmentally friendly and supports the city\u2019s broader green initiatives.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": ": \"The Allston Green District \u2013 what's it a good illustration of?",
+    "expected_answer": "cleaner energy facilities",
+    "model_answer": "The Allston Green District is a good illustration of several things:\n\n*   **Ecologically Compatible Housing:** It demonstrates a focus on integrating green spaces and sustainable development within a built environment.\n*   **Innovative Urban Planning:** It showcases a proactive approach to urban design that balances residential, recreational, and environmental benefits.\n*   **Climate Action & Sustainability:** It\u2019s a visible and tangible example of Boston\u2019s commitment to reducing its carbon footprint through green infrastructure.\n*   **Financial Incentives for Green Building:** The initiative highlights how public investment and disclosure can drive the adoption of environmentally friendly practices within the city.\n\nEssentially, it\u2019s a successful pilot project demonstrating how green development can enhance the city\u2019s ecological health and create a more sustainable urban environment.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": ": \"Into what category or type of development does the Allston Green District fit?",
+    "expected_answer": "cleaner energy facilities",
+    "model_answer": "The Allston Green District fits into the category of **ecological compatible housing facilities**. It\u2019s specifically designed to be ecologically harmonious with the surrounding environment, incorporating three ecologically compatible housing facilities.",
+    "is_correct": false,
+    "type": "variant"
+  },
+  {
+    "variant": ": \"What concept or approach is the Allston Green District demonstrating?",
+    "expected_answer": "cleaner energy facilities",
+    "model_answer": "The Allston Green District is demonstrating a combination of concepts and approaches:\n\n*   **Ecologically Compatible Housing:** It\u2019s creating a green space within an urban area, aiming for a balance between residential and ecological benefit.\n*   **Sustainable Development:** It\u2019s a model for incorporating green infrastructure into urban planning.\n*   **Financial Incentives for Green Practices:** The city is providing financial support to encourage environmentally conscious building practices.\n*   **Data-Driven Policy:** The energy reporting and disclosure ordinance uses data to inform and incentivize sustainable building practices.\n\nEssentially, it\u2019s showcasing how green spaces and incentives can work together to improve the city\u2019s environmental profile.",
+    "is_correct": false,
+    "type": "variant"
+  }
+]

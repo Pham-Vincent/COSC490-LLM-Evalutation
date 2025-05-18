@@ -5,33 +5,31 @@ import pandas as pd
 # Set up the base URL for the local Ollama API
 url = "http://localhost:11434/api/chat"
 
-# Define the payload (your input prompt)
-payload = {
-    "model": "gemma3",  # Replace with the model name you're using
-    "messages": [{"role": "user", "content": "What is Python?"}]
-}
-DataFrame = pd.read_csv('data/test/abstract_algebra_test.csv')
+
+DataFrame = pd.read_csv('data/test/abstract_algebra_test.csv',header=None)
 
 for index, row in DataFrame.iterrows():
-    Question = row[0]
-    AnswerA = row[1]
-    AnswerB = row[2]
-    AnswerC = row[3]
-    AnswerD = row[4]
-    Answer = row[5] 
+    Question = row.iloc[0]
+    AnswerA = row.iloc[1]
+    AnswerB = row.iloc[2]
+    AnswerC = row.iloc[3]
+    AnswerD = row.iloc[4]
+    Answer = row.iloc[5] 
     message = (
-        "Answer This Question With A, B, C, OR D Only:\n"
-        f"{Question}\n"
+        "Answer this question with only A, B, C, or D. Choose the best answer based on the following options:\n"
+        f"Question: {Question}\n"
         f"A: {AnswerA}\n"
         f"B: {AnswerB}\n"
         f"C: {AnswerC}\n"
         f"D: {AnswerD}\n"
+        "Please respond with just A, B, C, or D."
     )
     payload = {
     "model": "gemma3",  # Replace with the model name you're using
     "messages": [{"role": "user", "content": message}]
 }
-
+    
+    print(Question)
     # Send the HTTP POST request with streaming enabled
     response = requests.post(url, json=payload, stream=True)
 

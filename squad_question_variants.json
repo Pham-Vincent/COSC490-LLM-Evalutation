@@ -1,0 +1,1262 @@
+[
+  {
+    "context": "Shell sold 9.5% of its 23.1% stake in Woodside Petroleum in June 2014 and advised that it had reached an agreement for Woodside to buy back 9.5% of its shares at a later stage. Shell became a major shareholder in Woodside after a 2001 takeover attempt was blocked by then federal Treasurer Peter Costello and the corporation has been open about its intention to sell its stake in Woodside as part of its target to shed assets. At a general body meeting, held on 1 August 2014, 72 percent of shareholders voted to approve the buy-back, short of the 75 percent vote that was required for approval. A statement from Shell read: \"Royal Dutch Shell acknowledges the outcome of Woodside Petroleum Limited's shareholders' negative vote on the selective buy-back proposal. Shell is reviewing its options in relation to its remaining 13.6 percent holding.\"",
+    "original_question": "What percentage of shareholder votes was need to approve the 2014 buy-back?",
+    "variant": "What percentage of shareholder votes was need to approve the 2014 buy-back?",
+    "expected_answer": "75",
+    "type": "original"
+  },
+  {
+    "context": "Shell sold 9.5% of its 23.1% stake in Woodside Petroleum in June 2014 and advised that it had reached an agreement for Woodside to buy back 9.5% of its shares at a later stage. Shell became a major shareholder in Woodside after a 2001 takeover attempt was blocked by then federal Treasurer Peter Costello and the corporation has been open about its intention to sell its stake in Woodside as part of its target to shed assets. At a general body meeting, held on 1 August 2014, 72 percent of shareholders voted to approve the buy-back, short of the 75 percent vote that was required for approval. A statement from Shell read: \"Royal Dutch Shell acknowledges the outcome of Woodside Petroleum Limited's shareholders' negative vote on the selective buy-back proposal. Shell is reviewing its options in relation to its remaining 13.6 percent holding.\"",
+    "original_question": "What percentage of shareholder votes was need to approve the 2014 buy-back?",
+    "variant": "What was the required shareholder approval threshold, expressed as a percentage, for the 2014 share buy-back?",
+    "expected_answer": "75",
+    "type": "variant"
+  },
+  {
+    "context": "Shell sold 9.5% of its 23.1% stake in Woodside Petroleum in June 2014 and advised that it had reached an agreement for Woodside to buy back 9.5% of its shares at a later stage. Shell became a major shareholder in Woodside after a 2001 takeover attempt was blocked by then federal Treasurer Peter Costello and the corporation has been open about its intention to sell its stake in Woodside as part of its target to shed assets. At a general body meeting, held on 1 August 2014, 72 percent of shareholders voted to approve the buy-back, short of the 75 percent vote that was required for approval. A statement from Shell read: \"Royal Dutch Shell acknowledges the outcome of Woodside Petroleum Limited's shareholders' negative vote on the selective buy-back proposal. Shell is reviewing its options in relation to its remaining 13.6 percent holding.\"",
+    "original_question": "What percentage of shareholder votes was need to approve the 2014 buy-back?",
+    "variant": "To what percentage of shareholder votes did the 2014 share repurchase require approval?",
+    "expected_answer": "75",
+    "type": "variant"
+  },
+  {
+    "context": "Shell sold 9.5% of its 23.1% stake in Woodside Petroleum in June 2014 and advised that it had reached an agreement for Woodside to buy back 9.5% of its shares at a later stage. Shell became a major shareholder in Woodside after a 2001 takeover attempt was blocked by then federal Treasurer Peter Costello and the corporation has been open about its intention to sell its stake in Woodside as part of its target to shed assets. At a general body meeting, held on 1 August 2014, 72 percent of shareholders voted to approve the buy-back, short of the 75 percent vote that was required for approval. A statement from Shell read: \"Royal Dutch Shell acknowledges the outcome of Woodside Petroleum Limited's shareholders' negative vote on the selective buy-back proposal. Shell is reviewing its options in relation to its remaining 13.6 percent holding.\"",
+    "original_question": "What percentage of shareholder votes was need to approve the 2014 buy-back?",
+    "variant": "What percentage of the shareholders needed to vote in favor for the 2014 buy-back to be approved?",
+    "expected_answer": "75",
+    "type": "variant"
+  },
+  {
+    "context": "Shell sold 9.5% of its 23.1% stake in Woodside Petroleum in June 2014 and advised that it had reached an agreement for Woodside to buy back 9.5% of its shares at a later stage. Shell became a major shareholder in Woodside after a 2001 takeover attempt was blocked by then federal Treasurer Peter Costello and the corporation has been open about its intention to sell its stake in Woodside as part of its target to shed assets. At a general body meeting, held on 1 August 2014, 72 percent of shareholders voted to approve the buy-back, short of the 75 percent vote that was required for approval. A statement from Shell read: \"Royal Dutch Shell acknowledges the outcome of Woodside Petroleum Limited's shareholders' negative vote on the selective buy-back proposal. Shell is reviewing its options in relation to its remaining 13.6 percent holding.\"",
+    "original_question": "What percentage of shareholder votes was need to approve the 2014 buy-back?",
+    "variant": "What was the minimum percentage of shareholder votes needed for the 2014 share buy-back to pass?",
+    "expected_answer": "75",
+    "type": "variant"
+  },
+  {
+    "context": "Shell sold 9.5% of its 23.1% stake in Woodside Petroleum in June 2014 and advised that it had reached an agreement for Woodside to buy back 9.5% of its shares at a later stage. Shell became a major shareholder in Woodside after a 2001 takeover attempt was blocked by then federal Treasurer Peter Costello and the corporation has been open about its intention to sell its stake in Woodside as part of its target to shed assets. At a general body meeting, held on 1 August 2014, 72 percent of shareholders voted to approve the buy-back, short of the 75 percent vote that was required for approval. A statement from Shell read: \"Royal Dutch Shell acknowledges the outcome of Woodside Petroleum Limited's shareholders' negative vote on the selective buy-back proposal. Shell is reviewing its options in relation to its remaining 13.6 percent holding.\"",
+    "original_question": "What percentage of shareholder votes was need to approve the 2014 buy-back?",
+    "variant": "What percentage vote was needed to approve the 2014 buy-back?",
+    "expected_answer": "75",
+    "type": "variant"
+  },
+  {
+    "context": "Few species of reptiles or amphibians are found in Great Britain or Ireland. Only three snakes are native to Great Britain: the common European adder, the grass snake and the smooth snake; none are native to Ireland. In general, Great Britain has slightly more variation and native wild life, with weasels, polecats, wildcats, most shrews, moles, water voles, roe deer and common toads also being absent from Ireland. This pattern is also true for birds and insects. Notable exceptions include the Kerry slug and certain species of wood lice native to Ireland but not Great Britain.",
+    "original_question": "What is the name of the slug that is native to both Britain and Ireland?",
+    "variant": "What is the name of the slug that is native to both Britain and Ireland?",
+    "expected_answer": "Kerry slug",
+    "type": "original"
+  },
+  {
+    "context": "Few species of reptiles or amphibians are found in Great Britain or Ireland. Only three snakes are native to Great Britain: the common European adder, the grass snake and the smooth snake; none are native to Ireland. In general, Great Britain has slightly more variation and native wild life, with weasels, polecats, wildcats, most shrews, moles, water voles, roe deer and common toads also being absent from Ireland. This pattern is also true for birds and insects. Notable exceptions include the Kerry slug and certain species of wood lice native to Ireland but not Great Britain.",
+    "original_question": "What is the name of the slug that is native to both Britain and Ireland?",
+    "variant": "Could you please identify the species of slug that is indigenous to both the island of Great Britain and Ireland?",
+    "expected_answer": "Kerry slug",
+    "type": "variant"
+  },
+  {
+    "context": "Few species of reptiles or amphibians are found in Great Britain or Ireland. Only three snakes are native to Great Britain: the common European adder, the grass snake and the smooth snake; none are native to Ireland. In general, Great Britain has slightly more variation and native wild life, with weasels, polecats, wildcats, most shrews, moles, water voles, roe deer and common toads also being absent from Ireland. This pattern is also true for birds and insects. Notable exceptions include the Kerry slug and certain species of wood lice native to Ireland but not Great Britain.",
+    "original_question": "What is the name of the slug that is native to both Britain and Ireland?",
+    "variant": "What slug species is naturally found in both Britain and Ireland?",
+    "expected_answer": "Kerry slug",
+    "type": "variant"
+  },
+  {
+    "context": "Few species of reptiles or amphibians are found in Great Britain or Ireland. Only three snakes are native to Great Britain: the common European adder, the grass snake and the smooth snake; none are native to Ireland. In general, Great Britain has slightly more variation and native wild life, with weasels, polecats, wildcats, most shrews, moles, water voles, roe deer and common toads also being absent from Ireland. This pattern is also true for birds and insects. Notable exceptions include the Kerry slug and certain species of wood lice native to Ireland but not Great Britain.",
+    "original_question": "What is the name of the slug that is native to both Britain and Ireland?",
+    "variant": "Do you know what kind of slug is native to both Britain and Ireland?",
+    "expected_answer": "Kerry slug",
+    "type": "variant"
+  },
+  {
+    "context": "Few species of reptiles or amphibians are found in Great Britain or Ireland. Only three snakes are native to Great Britain: the common European adder, the grass snake and the smooth snake; none are native to Ireland. In general, Great Britain has slightly more variation and native wild life, with weasels, polecats, wildcats, most shrews, moles, water voles, roe deer and common toads also being absent from Ireland. This pattern is also true for birds and insects. Notable exceptions include the Kerry slug and certain species of wood lice native to Ireland but not Great Britain.",
+    "original_question": "What is the name of the slug that is native to both Britain and Ireland?",
+    "variant": "What's the name of the slug native to Britain and Ireland?",
+    "expected_answer": "Kerry slug",
+    "type": "variant"
+  },
+  {
+    "context": "Few species of reptiles or amphibians are found in Great Britain or Ireland. Only three snakes are native to Great Britain: the common European adder, the grass snake and the smooth snake; none are native to Ireland. In general, Great Britain has slightly more variation and native wild life, with weasels, polecats, wildcats, most shrews, moles, water voles, roe deer and common toads also being absent from Ireland. This pattern is also true for birds and insects. Notable exceptions include the Kerry slug and certain species of wood lice native to Ireland but not Great Britain.",
+    "original_question": "What is the name of the slug that is native to both Britain and Ireland?",
+    "variant": "Which slug originates from and is found naturally in both Britain and Ireland?",
+    "expected_answer": "Kerry slug",
+    "type": "variant"
+  },
+  {
+    "context": "Canadian defence policy today is based on the Canada First Defence Strategy, introduced in 2008. Based on that strategy, the Canadian military is oriented and being equipped to carry out six core missions within Canada, in North America and globally. Specifically, the Canadian Armed Forces are tasked with having the capacity to:",
+    "original_question": "What other location does the Canada First Defence Strategy Cover?",
+    "variant": "What other location does the Canada First Defence Strategy Cover?",
+    "expected_answer": "North America",
+    "type": "original"
+  },
+  {
+    "context": "Canadian defence policy today is based on the Canada First Defence Strategy, introduced in 2008. Based on that strategy, the Canadian military is oriented and being equipped to carry out six core missions within Canada, in North America and globally. Specifically, the Canadian Armed Forces are tasked with having the capacity to:",
+    "original_question": "What other location does the Canada First Defence Strategy Cover?",
+    "variant": "\"Beyond North America, which geographic regions are addressed within the scope of the Canada First Defence Strategy?",
+    "expected_answer": "North America",
+    "type": "variant"
+  },
+  {
+    "context": "Canadian defence policy today is based on the Canada First Defence Strategy, introduced in 2008. Based on that strategy, the Canadian military is oriented and being equipped to carry out six core missions within Canada, in North America and globally. Specifically, the Canadian Armed Forces are tasked with having the capacity to:",
+    "original_question": "What other location does the Canada First Defence Strategy Cover?",
+    "variant": "\"The Canada First Defence Strategy primarily focuses on North America.  Could you tell me what other areas it considers?",
+    "expected_answer": "North America",
+    "type": "variant"
+  },
+  {
+    "context": "Canadian defence policy today is based on the Canada First Defence Strategy, introduced in 2008. Based on that strategy, the Canadian military is oriented and being equipped to carry out six core missions within Canada, in North America and globally. Specifically, the Canadian Armed Forces are tasked with having the capacity to:",
+    "original_question": "What other location does the Canada First Defence Strategy Cover?",
+    "variant": "\"I know the Canada First Defence Strategy is about protecting North America, but does it look at any other parts of the world as well?",
+    "expected_answer": "North America",
+    "type": "variant"
+  },
+  {
+    "context": "Canadian defence policy today is based on the Canada First Defence Strategy, introduced in 2008. Based on that strategy, the Canadian military is oriented and being equipped to carry out six core missions within Canada, in North America and globally. Specifically, the Canadian Armed Forces are tasked with having the capacity to:",
+    "original_question": "What other location does the Canada First Defence Strategy Cover?",
+    "variant": "\"What is the global reach of the Canada First Defence Strategy?  Besides North America, where else does it have a focus?",
+    "expected_answer": "North America",
+    "type": "variant"
+  },
+  {
+    "context": "Canadian defence policy today is based on the Canada First Defence Strategy, introduced in 2008. Based on that strategy, the Canadian military is oriented and being equipped to carry out six core missions within Canada, in North America and globally. Specifically, the Canadian Armed Forces are tasked with having the capacity to:",
+    "original_question": "What other location does the Canada First Defence Strategy Cover?",
+    "variant": "\"Besides North America, where else does the Canada First Defence Strategy deal with?",
+    "expected_answer": "North America",
+    "type": "variant"
+  },
+  {
+    "context": "Early Asian writings on architecture include the Kao Gong Ji of China from the 7th\u20135th centuries BCE; the Shilpa Shastras of ancient India and Manjusri Vasthu Vidya Sastra of Sri Lanka.",
+    "original_question": "India produced which early architectural text?",
+    "variant": "India produced which early architectural text?",
+    "expected_answer": "Shilpa Shastras",
+    "type": "original"
+  },
+  {
+    "context": "Early Asian writings on architecture include the Kao Gong Ji of China from the 7th\u20135th centuries BCE; the Shilpa Shastras of ancient India and Manjusri Vasthu Vidya Sastra of Sri Lanka.",
+    "original_question": "India produced which early architectural text?",
+    "variant": "What was the name of the early architectural text originating from India?",
+    "expected_answer": "Shilpa Shastras",
+    "type": "variant"
+  },
+  {
+    "context": "Early Asian writings on architecture include the Kao Gong Ji of China from the 7th\u20135th centuries BCE; the Shilpa Shastras of ancient India and Manjusri Vasthu Vidya Sastra of Sri Lanka.",
+    "original_question": "India produced which early architectural text?",
+    "variant": "Which ancient Indian text dealt with principles of architecture?",
+    "expected_answer": "Shilpa Shastras",
+    "type": "variant"
+  },
+  {
+    "context": "Early Asian writings on architecture include the Kao Gong Ji of China from the 7th\u20135th centuries BCE; the Shilpa Shastras of ancient India and Manjusri Vasthu Vidya Sastra of Sri Lanka.",
+    "original_question": "India produced which early architectural text?",
+    "variant": "Can you tell me the name of the first significant architectural writing to come out of India?",
+    "expected_answer": "Shilpa Shastras",
+    "type": "variant"
+  },
+  {
+    "context": "Early Asian writings on architecture include the Kao Gong Ji of China from the 7th\u20135th centuries BCE; the Shilpa Shastras of ancient India and Manjusri Vasthu Vidya Sastra of Sri Lanka.",
+    "original_question": "India produced which early architectural text?",
+    "variant": "From what early Indian text did architectural principles originate?",
+    "expected_answer": "Shilpa Shastras",
+    "type": "variant"
+  },
+  {
+    "context": "Early Asian writings on architecture include the Kao Gong Ji of China from the 7th\u20135th centuries BCE; the Shilpa Shastras of ancient India and Manjusri Vasthu Vidya Sastra of Sri Lanka.",
+    "original_question": "India produced which early architectural text?",
+    "variant": "What are some of the key early architectural writings that developed in India?",
+    "expected_answer": "Shilpa Shastras",
+    "type": "variant"
+  },
+  {
+    "context": "During the period from 1993 to 2011, FBI agents fired their weapons on 289 occasions; FBI internal reviews found the shots justified in all but 5 cases, in none of the 5 cases were people wounded. Samuel Walker, a professor of criminal justice at the University of Nebraska Omaha said the number of shots found to be unjustified was \"suspiciously low.\" In the same time period, the FBI wounded 150 people, 70 of whom died; the FBI found all 150 shootings to be justified. Likewise, during the period from 2011 to the present, all shootings by FBI agents have been found to be justified by internal investigation. In a 2002 case in Maryland, an innocent man was shot, and later paid $1.3 million by the FBI after agents mistook him for a bank robber; the internal investigation found that the shooting was justified, based on the man's actions.",
+    "original_question": "How many people were wounded in the cases where FBI shooting was not justified?",
+    "variant": "How many people were wounded in the cases where FBI shooting was not justified?",
+    "expected_answer": "none",
+    "type": "original"
+  },
+  {
+    "context": "During the period from 1993 to 2011, FBI agents fired their weapons on 289 occasions; FBI internal reviews found the shots justified in all but 5 cases, in none of the 5 cases were people wounded. Samuel Walker, a professor of criminal justice at the University of Nebraska Omaha said the number of shots found to be unjustified was \"suspiciously low.\" In the same time period, the FBI wounded 150 people, 70 of whom died; the FBI found all 150 shootings to be justified. Likewise, during the period from 2011 to the present, all shootings by FBI agents have been found to be justified by internal investigation. In a 2002 case in Maryland, an innocent man was shot, and later paid $1.3 million by the FBI after agents mistook him for a bank robber; the internal investigation found that the shooting was justified, based on the man's actions.",
+    "original_question": "How many people were wounded in the cases where FBI shooting was not justified?",
+    "variant": "In instances where the FBI's use of force was deemed unjustified, what was the total number of individuals who sustained injuries?",
+    "expected_answer": "none",
+    "type": "variant"
+  },
+  {
+    "context": "During the period from 1993 to 2011, FBI agents fired their weapons on 289 occasions; FBI internal reviews found the shots justified in all but 5 cases, in none of the 5 cases were people wounded. Samuel Walker, a professor of criminal justice at the University of Nebraska Omaha said the number of shots found to be unjustified was \"suspiciously low.\" In the same time period, the FBI wounded 150 people, 70 of whom died; the FBI found all 150 shootings to be justified. Likewise, during the period from 2011 to the present, all shootings by FBI agents have been found to be justified by internal investigation. In a 2002 case in Maryland, an innocent man was shot, and later paid $1.3 million by the FBI after agents mistook him for a bank robber; the internal investigation found that the shooting was justified, based on the man's actions.",
+    "original_question": "How many people were wounded in the cases where FBI shooting was not justified?",
+    "variant": "Slightly Less Formal, Focused on Victims: \"How many people were injured as a result of FBI shootings that were later found to be unwarranted?",
+    "expected_answer": "none",
+    "type": "variant"
+  },
+  {
+    "context": "During the period from 1993 to 2011, FBI agents fired their weapons on 289 occasions; FBI internal reviews found the shots justified in all but 5 cases, in none of the 5 cases were people wounded. Samuel Walker, a professor of criminal justice at the University of Nebraska Omaha said the number of shots found to be unjustified was \"suspiciously low.\" In the same time period, the FBI wounded 150 people, 70 of whom died; the FBI found all 150 shootings to be justified. Likewise, during the period from 2011 to the present, all shootings by FBI agents have been found to be justified by internal investigation. In a 2002 case in Maryland, an innocent man was shot, and later paid $1.3 million by the FBI after agents mistook him for a bank robber; the internal investigation found that the shooting was justified, based on the man's actions.",
+    "original_question": "How many people were wounded in the cases where FBI shooting was not justified?",
+    "variant": "How many people were wounded across the FBI shooting incidents that were later determined to be unjustified?",
+    "expected_answer": "none",
+    "type": "variant"
+  },
+  {
+    "context": "During the period from 1993 to 2011, FBI agents fired their weapons on 289 occasions; FBI internal reviews found the shots justified in all but 5 cases, in none of the 5 cases were people wounded. Samuel Walker, a professor of criminal justice at the University of Nebraska Omaha said the number of shots found to be unjustified was \"suspiciously low.\" In the same time period, the FBI wounded 150 people, 70 of whom died; the FBI found all 150 shootings to be justified. Likewise, during the period from 2011 to the present, all shootings by FBI agents have been found to be justified by internal investigation. In a 2002 case in Maryland, an innocent man was shot, and later paid $1.3 million by the FBI after agents mistook him for a bank robber; the internal investigation found that the shooting was justified, based on the man's actions.",
+    "original_question": "How many people were wounded in the cases where FBI shooting was not justified?",
+    "variant": "When FBI shootings were found to be unjustified, about how many people ended up getting hurt?",
+    "expected_answer": "none",
+    "type": "variant"
+  },
+  {
+    "context": "During the period from 1993 to 2011, FBI agents fired their weapons on 289 occasions; FBI internal reviews found the shots justified in all but 5 cases, in none of the 5 cases were people wounded. Samuel Walker, a professor of criminal justice at the University of Nebraska Omaha said the number of shots found to be unjustified was \"suspiciously low.\" In the same time period, the FBI wounded 150 people, 70 of whom died; the FBI found all 150 shootings to be justified. Likewise, during the period from 2011 to the present, all shootings by FBI agents have been found to be justified by internal investigation. In a 2002 case in Maryland, an innocent man was shot, and later paid $1.3 million by the FBI after agents mistook him for a bank robber; the internal investigation found that the shooting was justified, based on the man's actions.",
+    "original_question": "How many people were wounded in the cases where FBI shooting was not justified?",
+    "variant": "What is the total count of injuries sustained by individuals involved in FBI shooting incidents later ruled as unjustified?",
+    "expected_answer": "none",
+    "type": "variant"
+  },
+  {
+    "context": "The first regular broadcasts started on January 1, 2004 when the Belgian company Euro1080 launched the HD1 channel with the traditional Vienna New Year's Concert. Test transmissions had been active since the IBC exhibition in September 2003, but the New Year's Day broadcast marked the official launch of the HD1 channel, and the official start of direct-to-home HDTV in Europe.",
+    "original_question": "Which European company launched HD1?",
+    "variant": "Which European company launched HD1?",
+    "expected_answer": "Euro1080",
+    "type": "original"
+  },
+  {
+    "context": "The first regular broadcasts started on January 1, 2004 when the Belgian company Euro1080 launched the HD1 channel with the traditional Vienna New Year's Concert. Test transmissions had been active since the IBC exhibition in September 2003, but the New Year's Day broadcast marked the official launch of the HD1 channel, and the official start of direct-to-home HDTV in Europe.",
+    "original_question": "Which European company launched HD1?",
+    "variant": "Could you identify the European company responsible for the launch of HD1?",
+    "expected_answer": "Euro1080",
+    "type": "variant"
+  },
+  {
+    "context": "The first regular broadcasts started on January 1, 2004 when the Belgian company Euro1080 launched the HD1 channel with the traditional Vienna New Year's Concert. Test transmissions had been active since the IBC exhibition in September 2003, but the New Year's Day broadcast marked the official launch of the HD1 channel, and the official start of direct-to-home HDTV in Europe.",
+    "original_question": "Which European company launched HD1?",
+    "variant": "Which European firm introduced HD1 to the market?",
+    "expected_answer": "Euro1080",
+    "type": "variant"
+  },
+  {
+    "context": "The first regular broadcasts started on January 1, 2004 when the Belgian company Euro1080 launched the HD1 channel with the traditional Vienna New Year's Concert. Test transmissions had been active since the IBC exhibition in September 2003, but the New Year's Day broadcast marked the official launch of the HD1 channel, and the official start of direct-to-home HDTV in Europe.",
+    "original_question": "Which European company launched HD1?",
+    "variant": "Do you know which European company was behind the launch of HD1?",
+    "expected_answer": "Euro1080",
+    "type": "variant"
+  },
+  {
+    "context": "The first regular broadcasts started on January 1, 2004 when the Belgian company Euro1080 launched the HD1 channel with the traditional Vienna New Year's Concert. Test transmissions had been active since the IBC exhibition in September 2003, but the New Year's Day broadcast marked the official launch of the HD1 channel, and the official start of direct-to-home HDTV in Europe.",
+    "original_question": "Which European company launched HD1?",
+    "variant": "What European company originated the HD1 product?",
+    "expected_answer": "Euro1080",
+    "type": "variant"
+  },
+  {
+    "context": "The first regular broadcasts started on January 1, 2004 when the Belgian company Euro1080 launched the HD1 channel with the traditional Vienna New Year's Concert. Test transmissions had been active since the IBC exhibition in September 2003, but the New Year's Day broadcast marked the official launch of the HD1 channel, and the official start of direct-to-home HDTV in Europe.",
+    "original_question": "Which European company launched HD1?",
+    "variant": "Seeking Information: \"I'm trying to find out who launched HD1. It was a European company \u2013 any idea who it was?",
+    "expected_answer": "Euro1080",
+    "type": "variant"
+  },
+  {
+    "context": "In order to enlist Stalin's support, Zhou and a Chinese delegation left for Moscow on 8 October, arriving there on 10 October at which point they flew to Stalin's home at the Black Sea. There they conferred with the top Soviet leadership which included Joseph Stalin as well as Vyacheslav Molotov, Lavrentiy Beria and Georgi Malenkov. Stalin initially agreed to send military equipment and ammunition, but warned Zhou that the Soviet Union's air force would need two or three months to prepare any operations. In a subsequent meeting, Stalin told Zhou that he would only provide China with equipment on a credit basis, and that the Soviet air force would only operate over Chinese airspace, and only after an undisclosed period of time. Stalin did not agree to send either military equipment or air support until March 1951. Mao did not find Soviet air support especially useful, as the fighting was going to take place on the south side of the Yalu. Soviet shipments of mat\u00e9riel, when they did arrive, were limited to small quantities of trucks, grenades, machine guns, and the like.",
+    "original_question": "How long did the Soviet air force need to prepare to assist",
+    "variant": "How long did the Soviet air force need to prepare to assist",
+    "expected_answer": "two or three months",
+    "type": "original"
+  },
+  {
+    "context": "In order to enlist Stalin's support, Zhou and a Chinese delegation left for Moscow on 8 October, arriving there on 10 October at which point they flew to Stalin's home at the Black Sea. There they conferred with the top Soviet leadership which included Joseph Stalin as well as Vyacheslav Molotov, Lavrentiy Beria and Georgi Malenkov. Stalin initially agreed to send military equipment and ammunition, but warned Zhou that the Soviet Union's air force would need two or three months to prepare any operations. In a subsequent meeting, Stalin told Zhou that he would only provide China with equipment on a credit basis, and that the Soviet air force would only operate over Chinese airspace, and only after an undisclosed period of time. Stalin did not agree to send either military equipment or air support until March 1951. Mao did not find Soviet air support especially useful, as the fighting was going to take place on the south side of the Yalu. Soviet shipments of mat\u00e9riel, when they did arrive, were limited to small quantities of trucks, grenades, machine guns, and the like.",
+    "original_question": "How long did the Soviet air force need to prepare to assist",
+    "variant": ": \"What was the timeframe required for the Soviet Air Force to mobilize and prepare for deployment in order to provide assistance?",
+    "expected_answer": "two or three months",
+    "type": "variant"
+  },
+  {
+    "context": "In order to enlist Stalin's support, Zhou and a Chinese delegation left for Moscow on 8 October, arriving there on 10 October at which point they flew to Stalin's home at the Black Sea. There they conferred with the top Soviet leadership which included Joseph Stalin as well as Vyacheslav Molotov, Lavrentiy Beria and Georgi Malenkov. Stalin initially agreed to send military equipment and ammunition, but warned Zhou that the Soviet Union's air force would need two or three months to prepare any operations. In a subsequent meeting, Stalin told Zhou that he would only provide China with equipment on a credit basis, and that the Soviet air force would only operate over Chinese airspace, and only after an undisclosed period of time. Stalin did not agree to send either military equipment or air support until March 1951. Mao did not find Soviet air support especially useful, as the fighting was going to take place on the south side of the Yalu. Soviet shipments of mat\u00e9riel, when they did arrive, were limited to small quantities of trucks, grenades, machine guns, and the like.",
+    "original_question": "How long did the Soviet air force need to prepare to assist",
+    "variant": ": \"How much preparation time did the Soviet Air Force require before they could begin assisting?",
+    "expected_answer": "two or three months",
+    "type": "variant"
+  },
+  {
+    "context": "In order to enlist Stalin's support, Zhou and a Chinese delegation left for Moscow on 8 October, arriving there on 10 October at which point they flew to Stalin's home at the Black Sea. There they conferred with the top Soviet leadership which included Joseph Stalin as well as Vyacheslav Molotov, Lavrentiy Beria and Georgi Malenkov. Stalin initially agreed to send military equipment and ammunition, but warned Zhou that the Soviet Union's air force would need two or three months to prepare any operations. In a subsequent meeting, Stalin told Zhou that he would only provide China with equipment on a credit basis, and that the Soviet air force would only operate over Chinese airspace, and only after an undisclosed period of time. Stalin did not agree to send either military equipment or air support until March 1951. Mao did not find Soviet air support especially useful, as the fighting was going to take place on the south side of the Yalu. Soviet shipments of mat\u00e9riel, when they did arrive, were limited to small quantities of trucks, grenades, machine guns, and the like.",
+    "original_question": "How long did the Soviet air force need to prepare to assist",
+    "variant": ": \"What was the lead time needed for the Soviet Air Force to reach operational readiness and be ready to provide assistance?",
+    "expected_answer": "two or three months",
+    "type": "variant"
+  },
+  {
+    "context": "In order to enlist Stalin's support, Zhou and a Chinese delegation left for Moscow on 8 October, arriving there on 10 October at which point they flew to Stalin's home at the Black Sea. There they conferred with the top Soviet leadership which included Joseph Stalin as well as Vyacheslav Molotov, Lavrentiy Beria and Georgi Malenkov. Stalin initially agreed to send military equipment and ammunition, but warned Zhou that the Soviet Union's air force would need two or three months to prepare any operations. In a subsequent meeting, Stalin told Zhou that he would only provide China with equipment on a credit basis, and that the Soviet air force would only operate over Chinese airspace, and only after an undisclosed period of time. Stalin did not agree to send either military equipment or air support until March 1951. Mao did not find Soviet air support especially useful, as the fighting was going to take place on the south side of the Yalu. Soviet shipments of mat\u00e9riel, when they did arrive, were limited to small quantities of trucks, grenades, machine guns, and the like.",
+    "original_question": "How long did the Soviet air force need to prepare to assist",
+    "variant": ": \"Before the Soviet Air Force could help, how long did they need to get ready?",
+    "expected_answer": "two or three months",
+    "type": "variant"
+  },
+  {
+    "context": "In order to enlist Stalin's support, Zhou and a Chinese delegation left for Moscow on 8 October, arriving there on 10 October at which point they flew to Stalin's home at the Black Sea. There they conferred with the top Soviet leadership which included Joseph Stalin as well as Vyacheslav Molotov, Lavrentiy Beria and Georgi Malenkov. Stalin initially agreed to send military equipment and ammunition, but warned Zhou that the Soviet Union's air force would need two or three months to prepare any operations. In a subsequent meeting, Stalin told Zhou that he would only provide China with equipment on a credit basis, and that the Soviet air force would only operate over Chinese airspace, and only after an undisclosed period of time. Stalin did not agree to send either military equipment or air support until March 1951. Mao did not find Soviet air support especially useful, as the fighting was going to take place on the south side of the Yalu. Soviet shipments of mat\u00e9riel, when they did arrive, were limited to small quantities of trucks, grenades, machine guns, and the like.",
+    "original_question": "How long did the Soviet air force need to prepare to assist",
+    "variant": ": \"Can you specify the period of preparation the Soviet Air Force underwent before being ready to assist?",
+    "expected_answer": "two or three months",
+    "type": "variant"
+  },
+  {
+    "context": "Ecclesiam suam was given at St. Peter's, Rome, on the Feast of the Transfiguration, 6 August 1964, the second year of his Pontificate. It is considered an important document, identifying the Catholic Church with the Body of Christ. A later Council document Lumen Gentium stated that the Church subsists in the Body of Christ, raising questions as to the difference between \"is\" and \"subsists in\". Paul VI appealed to \"all people of good will\" and discussed necessary dialogues within the Church and between the Churches and with atheism.",
+    "original_question": "In what city  is the cathedral of St Peter's  located?",
+    "variant": "In what city  is the cathedral of St Peter's  located?",
+    "expected_answer": "Rome",
+    "type": "original"
+  },
+  {
+    "context": "Ecclesiam suam was given at St. Peter's, Rome, on the Feast of the Transfiguration, 6 August 1964, the second year of his Pontificate. It is considered an important document, identifying the Catholic Church with the Body of Christ. A later Council document Lumen Gentium stated that the Church subsists in the Body of Christ, raising questions as to the difference between \"is\" and \"subsists in\". Paul VI appealed to \"all people of good will\" and discussed necessary dialogues within the Church and between the Churches and with atheism.",
+    "original_question": "In what city  is the cathedral of St Peter's  located?",
+    "variant": "Could you please specify the city where St. Peter's Cathedral is situated?",
+    "expected_answer": "Rome",
+    "type": "variant"
+  },
+  {
+    "context": "Ecclesiam suam was given at St. Peter's, Rome, on the Feast of the Transfiguration, 6 August 1964, the second year of his Pontificate. It is considered an important document, identifying the Catholic Church with the Body of Christ. A later Council document Lumen Gentium stated that the Church subsists in the Body of Christ, raising questions as to the difference between \"is\" and \"subsists in\". Paul VI appealed to \"all people of good will\" and discussed necessary dialogues within the Church and between the Churches and with atheism.",
+    "original_question": "In what city  is the cathedral of St Peter's  located?",
+    "variant": "What city can you find St. Peter's Cathedral in?",
+    "expected_answer": "Rome",
+    "type": "variant"
+  },
+  {
+    "context": "Ecclesiam suam was given at St. Peter's, Rome, on the Feast of the Transfiguration, 6 August 1964, the second year of his Pontificate. It is considered an important document, identifying the Catholic Church with the Body of Christ. A later Council document Lumen Gentium stated that the Church subsists in the Body of Christ, raising questions as to the difference between \"is\" and \"subsists in\". Paul VI appealed to \"all people of good will\" and discussed necessary dialogues within the Church and between the Churches and with atheism.",
+    "original_question": "In what city  is the cathedral of St Peter's  located?",
+    "variant": "Which city is home to St. Peter's Cathedral?",
+    "expected_answer": "Rome",
+    "type": "variant"
+  },
+  {
+    "context": "Ecclesiam suam was given at St. Peter's, Rome, on the Feast of the Transfiguration, 6 August 1964, the second year of his Pontificate. It is considered an important document, identifying the Catholic Church with the Body of Christ. A later Council document Lumen Gentium stated that the Church subsists in the Body of Christ, raising questions as to the difference between \"is\" and \"subsists in\". Paul VI appealed to \"all people of good will\" and discussed necessary dialogues within the Church and between the Churches and with atheism.",
+    "original_question": "In what city  is the cathedral of St Peter's  located?",
+    "variant": "Do you know what city St. Peter's Cathedral is in?",
+    "expected_answer": "Rome",
+    "type": "variant"
+  },
+  {
+    "context": "Ecclesiam suam was given at St. Peter's, Rome, on the Feast of the Transfiguration, 6 August 1964, the second year of his Pontificate. It is considered an important document, identifying the Catholic Church with the Body of Christ. A later Council document Lumen Gentium stated that the Church subsists in the Body of Christ, raising questions as to the difference between \"is\" and \"subsists in\". Paul VI appealed to \"all people of good will\" and discussed necessary dialogues within the Church and between the Churches and with atheism.",
+    "original_question": "In what city  is the cathedral of St Peter's  located?",
+    "variant": "Where is the cathedral of St. Peter's located geographically?",
+    "expected_answer": "Rome",
+    "type": "variant"
+  },
+  {
+    "context": "After Cassander's death in 298 BCE, however, Demetrius, who still maintained a sizable loyal army and fleet, invaded Macedon, seized the Macedonian throne (294) and conquered Thessaly and most of central Greece (293-291). He was defeated in 288 BC when Lysimachus of Thrace and Pyrrhus of Epirus invaded Macedon on two fronts, and quickly carved up the kingdom for themselves. Demetrius fled to central Greece with his mercenaries and began to build support there and in the northern Peloponnese. He once again laid siege to Athens after they turned on him, but then struck a treaty with the Athenians and Ptolemy, which allowed him to cross over to Asia minor and wage war on Lysimachus' holdings in Ionia, leaving his son Antigonus Gonatas in Greece. After initial successes, he was forced to surrender to Seleucus in 285 and later died in captivity. Lysimachus, who had seized Macedon and Thessaly for himself, was forced into war when Seleucus invaded his territories in Asia minor and was defeated and killed in 281 BCE at the Battle of Corupedium, near Sardis. Seleucus then attempted to conquer Lysimachus' European territories in Thrace and Macedon, but he was assassinated by Ptolemy Ceraunus (\"the thunderbolt\"), who had taken refuge at the Seleucid court and then had himself acclaimed as king of Macedon. Ptolemy was killed when Macedon was invaded by Gauls in 279, his head stuck on a spear and the country fell into anarchy. Antigonus II Gonatas invaded Thrace in the summer of 277 and defeated a large force of 18,000 Gauls. He was quickly hailed as king of Macedon and went on to rule for 35 years.",
+    "original_question": "At what battle was Seleucus killed ?",
+    "variant": "At what battle was Seleucus killed ?",
+    "expected_answer": "Battle of Corupedium",
+    "type": "original"
+  },
+  {
+    "context": "After Cassander's death in 298 BCE, however, Demetrius, who still maintained a sizable loyal army and fleet, invaded Macedon, seized the Macedonian throne (294) and conquered Thessaly and most of central Greece (293-291). He was defeated in 288 BC when Lysimachus of Thrace and Pyrrhus of Epirus invaded Macedon on two fronts, and quickly carved up the kingdom for themselves. Demetrius fled to central Greece with his mercenaries and began to build support there and in the northern Peloponnese. He once again laid siege to Athens after they turned on him, but then struck a treaty with the Athenians and Ptolemy, which allowed him to cross over to Asia minor and wage war on Lysimachus' holdings in Ionia, leaving his son Antigonus Gonatas in Greece. After initial successes, he was forced to surrender to Seleucus in 285 and later died in captivity. Lysimachus, who had seized Macedon and Thessaly for himself, was forced into war when Seleucus invaded his territories in Asia minor and was defeated and killed in 281 BCE at the Battle of Corupedium, near Sardis. Seleucus then attempted to conquer Lysimachus' European territories in Thrace and Macedon, but he was assassinated by Ptolemy Ceraunus (\"the thunderbolt\"), who had taken refuge at the Seleucid court and then had himself acclaimed as king of Macedon. Ptolemy was killed when Macedon was invaded by Gauls in 279, his head stuck on a spear and the country fell into anarchy. Antigonus II Gonatas invaded Thrace in the summer of 277 and defeated a large force of 18,000 Gauls. He was quickly hailed as king of Macedon and went on to rule for 35 years.",
+    "original_question": "At what battle was Seleucus killed ?",
+    "variant": "During which military engagement did Seleucus meet his death?",
+    "expected_answer": "Battle of Corupedium",
+    "type": "variant"
+  },
+  {
+    "context": "After Cassander's death in 298 BCE, however, Demetrius, who still maintained a sizable loyal army and fleet, invaded Macedon, seized the Macedonian throne (294) and conquered Thessaly and most of central Greece (293-291). He was defeated in 288 BC when Lysimachus of Thrace and Pyrrhus of Epirus invaded Macedon on two fronts, and quickly carved up the kingdom for themselves. Demetrius fled to central Greece with his mercenaries and began to build support there and in the northern Peloponnese. He once again laid siege to Athens after they turned on him, but then struck a treaty with the Athenians and Ptolemy, which allowed him to cross over to Asia minor and wage war on Lysimachus' holdings in Ionia, leaving his son Antigonus Gonatas in Greece. After initial successes, he was forced to surrender to Seleucus in 285 and later died in captivity. Lysimachus, who had seized Macedon and Thessaly for himself, was forced into war when Seleucus invaded his territories in Asia minor and was defeated and killed in 281 BCE at the Battle of Corupedium, near Sardis. Seleucus then attempted to conquer Lysimachus' European territories in Thrace and Macedon, but he was assassinated by Ptolemy Ceraunus (\"the thunderbolt\"), who had taken refuge at the Seleucid court and then had himself acclaimed as king of Macedon. Ptolemy was killed when Macedon was invaded by Gauls in 279, his head stuck on a spear and the country fell into anarchy. Antigonus II Gonatas invaded Thrace in the summer of 277 and defeated a large force of 18,000 Gauls. He was quickly hailed as king of Macedon and went on to rule for 35 years.",
+    "original_question": "At what battle was Seleucus killed ?",
+    "variant": "Where did Seleucus die in battle?",
+    "expected_answer": "Battle of Corupedium",
+    "type": "variant"
+  },
+  {
+    "context": "After Cassander's death in 298 BCE, however, Demetrius, who still maintained a sizable loyal army and fleet, invaded Macedon, seized the Macedonian throne (294) and conquered Thessaly and most of central Greece (293-291). He was defeated in 288 BC when Lysimachus of Thrace and Pyrrhus of Epirus invaded Macedon on two fronts, and quickly carved up the kingdom for themselves. Demetrius fled to central Greece with his mercenaries and began to build support there and in the northern Peloponnese. He once again laid siege to Athens after they turned on him, but then struck a treaty with the Athenians and Ptolemy, which allowed him to cross over to Asia minor and wage war on Lysimachus' holdings in Ionia, leaving his son Antigonus Gonatas in Greece. After initial successes, he was forced to surrender to Seleucus in 285 and later died in captivity. Lysimachus, who had seized Macedon and Thessaly for himself, was forced into war when Seleucus invaded his territories in Asia minor and was defeated and killed in 281 BCE at the Battle of Corupedium, near Sardis. Seleucus then attempted to conquer Lysimachus' European territories in Thrace and Macedon, but he was assassinated by Ptolemy Ceraunus (\"the thunderbolt\"), who had taken refuge at the Seleucid court and then had himself acclaimed as king of Macedon. Ptolemy was killed when Macedon was invaded by Gauls in 279, his head stuck on a spear and the country fell into anarchy. Antigonus II Gonatas invaded Thrace in the summer of 277 and defeated a large force of 18,000 Gauls. He was quickly hailed as king of Macedon and went on to rule for 35 years.",
+    "original_question": "At what battle was Seleucus killed ?",
+    "variant": "What battle is associated with the death of Seleucus?",
+    "expected_answer": "Battle of Corupedium",
+    "type": "variant"
+  },
+  {
+    "context": "After Cassander's death in 298 BCE, however, Demetrius, who still maintained a sizable loyal army and fleet, invaded Macedon, seized the Macedonian throne (294) and conquered Thessaly and most of central Greece (293-291). He was defeated in 288 BC when Lysimachus of Thrace and Pyrrhus of Epirus invaded Macedon on two fronts, and quickly carved up the kingdom for themselves. Demetrius fled to central Greece with his mercenaries and began to build support there and in the northern Peloponnese. He once again laid siege to Athens after they turned on him, but then struck a treaty with the Athenians and Ptolemy, which allowed him to cross over to Asia minor and wage war on Lysimachus' holdings in Ionia, leaving his son Antigonus Gonatas in Greece. After initial successes, he was forced to surrender to Seleucus in 285 and later died in captivity. Lysimachus, who had seized Macedon and Thessaly for himself, was forced into war when Seleucus invaded his territories in Asia minor and was defeated and killed in 281 BCE at the Battle of Corupedium, near Sardis. Seleucus then attempted to conquer Lysimachus' European territories in Thrace and Macedon, but he was assassinated by Ptolemy Ceraunus (\"the thunderbolt\"), who had taken refuge at the Seleucid court and then had himself acclaimed as king of Macedon. Ptolemy was killed when Macedon was invaded by Gauls in 279, his head stuck on a spear and the country fell into anarchy. Antigonus II Gonatas invaded Thrace in the summer of 277 and defeated a large force of 18,000 Gauls. He was quickly hailed as king of Macedon and went on to rule for 35 years.",
+    "original_question": "At what battle was Seleucus killed ?",
+    "variant": "Do you know which battle Seleucus lost his life in?",
+    "expected_answer": "Battle of Corupedium",
+    "type": "variant"
+  },
+  {
+    "context": "After Cassander's death in 298 BCE, however, Demetrius, who still maintained a sizable loyal army and fleet, invaded Macedon, seized the Macedonian throne (294) and conquered Thessaly and most of central Greece (293-291). He was defeated in 288 BC when Lysimachus of Thrace and Pyrrhus of Epirus invaded Macedon on two fronts, and quickly carved up the kingdom for themselves. Demetrius fled to central Greece with his mercenaries and began to build support there and in the northern Peloponnese. He once again laid siege to Athens after they turned on him, but then struck a treaty with the Athenians and Ptolemy, which allowed him to cross over to Asia minor and wage war on Lysimachus' holdings in Ionia, leaving his son Antigonus Gonatas in Greece. After initial successes, he was forced to surrender to Seleucus in 285 and later died in captivity. Lysimachus, who had seized Macedon and Thessaly for himself, was forced into war when Seleucus invaded his territories in Asia minor and was defeated and killed in 281 BCE at the Battle of Corupedium, near Sardis. Seleucus then attempted to conquer Lysimachus' European territories in Thrace and Macedon, but he was assassinated by Ptolemy Ceraunus (\"the thunderbolt\"), who had taken refuge at the Seleucid court and then had himself acclaimed as king of Macedon. Ptolemy was killed when Macedon was invaded by Gauls in 279, his head stuck on a spear and the country fell into anarchy. Antigonus II Gonatas invaded Thrace in the summer of 277 and defeated a large force of 18,000 Gauls. He was quickly hailed as king of Macedon and went on to rule for 35 years.",
+    "original_question": "At what battle was Seleucus killed ?",
+    "variant": "Can you tell me the name of the battle in which Seleucus was killed?",
+    "expected_answer": "Battle of Corupedium",
+    "type": "variant"
+  },
+  {
+    "context": "Liberia scored a 3.3 on a scale from 10 (highly clean) to 0 (highly corrupt) on the 2010 Corruption Perceptions Index. This gave it a ranking 87th of 178 countries worldwide and 11th of 47 in Sub-Saharan Africa. This score represented a significant improvement since 2007, when the country scored 2.1 and ranked 150th of 180 countries. When seeking attention of a selection of service[clarification needed] providers, 89% of Liberians had to pay a bribe, the highest national percentage in the world according to the organization's 2010 Global Corruption Barometer.",
+    "original_question": "In 2007, when seeking attention, selection or service . What percent of Liberians had to pay a bribe?",
+    "variant": "In 2007, when seeking attention, selection or service . What percent of Liberians had to pay a bribe?",
+    "expected_answer": "89%",
+    "type": "original"
+  },
+  {
+    "context": "Liberia scored a 3.3 on a scale from 10 (highly clean) to 0 (highly corrupt) on the 2010 Corruption Perceptions Index. This gave it a ranking 87th of 178 countries worldwide and 11th of 47 in Sub-Saharan Africa. This score represented a significant improvement since 2007, when the country scored 2.1 and ranked 150th of 180 countries. When seeking attention of a selection of service[clarification needed] providers, 89% of Liberians had to pay a bribe, the highest national percentage in the world according to the organization's 2010 Global Corruption Barometer.",
+    "original_question": "In 2007, when seeking attention, selection or service . What percent of Liberians had to pay a bribe?",
+    "variant": "According to data from 2007, what percentage of the Liberian population reported having paid a bribe to access a public service, gain preferential treatment, or influence a selection process?",
+    "expected_answer": "89%",
+    "type": "variant"
+  },
+  {
+    "context": "Liberia scored a 3.3 on a scale from 10 (highly clean) to 0 (highly corrupt) on the 2010 Corruption Perceptions Index. This gave it a ranking 87th of 178 countries worldwide and 11th of 47 in Sub-Saharan Africa. This score represented a significant improvement since 2007, when the country scored 2.1 and ranked 150th of 180 countries. When seeking attention of a selection of service[clarification needed] providers, 89% of Liberians had to pay a bribe, the highest national percentage in the world according to the organization's 2010 Global Corruption Barometer.",
+    "original_question": "In 2007, when seeking attention, selection or service . What percent of Liberians had to pay a bribe?",
+    "variant": "Looking back to 2007, roughly how many Liberians reported needing to pay a bribe to get what they needed from a government service or to influence a decision?",
+    "expected_answer": "89%",
+    "type": "variant"
+  },
+  {
+    "context": "Liberia scored a 3.3 on a scale from 10 (highly clean) to 0 (highly corrupt) on the 2010 Corruption Perceptions Index. This gave it a ranking 87th of 178 countries worldwide and 11th of 47 in Sub-Saharan Africa. This score represented a significant improvement since 2007, when the country scored 2.1 and ranked 150th of 180 countries. When seeking attention of a selection of service[clarification needed] providers, 89% of Liberians had to pay a bribe, the highest national percentage in the world according to the organization's 2010 Global Corruption Barometer.",
+    "original_question": "In 2007, when seeking attention, selection or service . What percent of Liberians had to pay a bribe?",
+    "variant": "In 2007, what proportion of Liberians experienced the need to pay a bribe to receive a service or gain access to a selection process?",
+    "expected_answer": "89%",
+    "type": "variant"
+  },
+  {
+    "context": "Liberia scored a 3.3 on a scale from 10 (highly clean) to 0 (highly corrupt) on the 2010 Corruption Perceptions Index. This gave it a ranking 87th of 178 countries worldwide and 11th of 47 in Sub-Saharan Africa. This score represented a significant improvement since 2007, when the country scored 2.1 and ranked 150th of 180 countries. When seeking attention of a selection of service[clarification needed] providers, 89% of Liberians had to pay a bribe, the highest national percentage in the world according to the organization's 2010 Global Corruption Barometer.",
+    "original_question": "In 2007, when seeking attention, selection or service . What percent of Liberians had to pay a bribe?",
+    "variant": "What was the bribery rate in Liberia in 2007, specifically when individuals were seeking services or selection processes?",
+    "expected_answer": "89%",
+    "type": "variant"
+  },
+  {
+    "context": "Liberia scored a 3.3 on a scale from 10 (highly clean) to 0 (highly corrupt) on the 2010 Corruption Perceptions Index. This gave it a ranking 87th of 178 countries worldwide and 11th of 47 in Sub-Saharan Africa. This score represented a significant improvement since 2007, when the country scored 2.1 and ranked 150th of 180 countries. When seeking attention of a selection of service[clarification needed] providers, 89% of Liberians had to pay a bribe, the highest national percentage in the world according to the organization's 2010 Global Corruption Barometer.",
+    "original_question": "In 2007, when seeking attention, selection or service . What percent of Liberians had to pay a bribe?",
+    "variant": "In 2007, what percentage of Liberians felt compelled to pay a bribe when dealing with government agencies or processes?",
+    "expected_answer": "89%",
+    "type": "variant"
+  },
+  {
+    "context": "The principles of phonological analysis can be applied independently of modality because they are designed to serve as general analytical tools, not language-specific ones. The same principles have been applied to the analysis of sign languages (see Phonemes in sign languages), even though the sub-lexical units are not instantiated as speech sounds.",
+    "original_question": "What are the principles of phonological analysis able to be applied separately from?",
+    "variant": "What are the principles of phonological analysis able to be applied separately from?",
+    "expected_answer": "modality",
+    "type": "original"
+  },
+  {
+    "context": "The principles of phonological analysis can be applied independently of modality because they are designed to serve as general analytical tools, not language-specific ones. The same principles have been applied to the analysis of sign languages (see Phonemes in sign languages), even though the sub-lexical units are not instantiated as speech sounds.",
+    "original_question": "What are the principles of phonological analysis able to be applied separately from?",
+    "variant": "\"To what extent can the core tenets of phonological analysis be utilized independently of specific theoretical frameworks?",
+    "expected_answer": "modality",
+    "type": "variant"
+  },
+  {
+    "context": "The principles of phonological analysis can be applied independently of modality because they are designed to serve as general analytical tools, not language-specific ones. The same principles have been applied to the analysis of sign languages (see Phonemes in sign languages), even though the sub-lexical units are not instantiated as speech sounds.",
+    "original_question": "What are the principles of phonological analysis able to be applied separately from?",
+    "variant": "\"What foundational principles of phonological analysis can be used without relying on a particular theory or model?",
+    "expected_answer": "modality",
+    "type": "variant"
+  },
+  {
+    "context": "The principles of phonological analysis can be applied independently of modality because they are designed to serve as general analytical tools, not language-specific ones. The same principles have been applied to the analysis of sign languages (see Phonemes in sign languages), even though the sub-lexical units are not instantiated as speech sounds.",
+    "original_question": "What are the principles of phonological analysis able to be applied separately from?",
+    "variant": "\"Are there any aspects of phonological analysis that can be applied in isolation, regardless of the underlying theoretical perspective?",
+    "expected_answer": "modality",
+    "type": "variant"
+  },
+  {
+    "context": "The principles of phonological analysis can be applied independently of modality because they are designed to serve as general analytical tools, not language-specific ones. The same principles have been applied to the analysis of sign languages (see Phonemes in sign languages), even though the sub-lexical units are not instantiated as speech sounds.",
+    "original_question": "What are the principles of phonological analysis able to be applied separately from?",
+    "variant": "\"What are some of the basic building blocks of phonological analysis that we can use even if we's not committed to a specific approach?",
+    "expected_answer": "modality",
+    "type": "variant"
+  },
+  {
+    "context": "The principles of phonological analysis can be applied independently of modality because they are designed to serve as general analytical tools, not language-specific ones. The same principles have been applied to the analysis of sign languages (see Phonemes in sign languages), even though the sub-lexical units are not instantiated as speech sounds.",
+    "original_question": "What are the principles of phonological analysis able to be applied separately from?",
+    "variant": "\"What parts of phonological analysis can you use even if you don\u2019t subscribe to a particular school of thought?",
+    "expected_answer": "modality",
+    "type": "variant"
+  },
+  {
+    "context": "The two largest metropolitan areas have subway systems: Lisbon Metro and Metro Sul do Tejo in the Lisbon Metropolitan Area and Porto Metro in the Porto Metropolitan Area, each with more than 35 km (22 mi) of lines. In Portugal, Lisbon tram services have been supplied by the Companhia de Carris de Ferro de Lisboa (Carris), for over a century. In Porto, a tram network, of which only a tourist line on the shores of the Douro remain, began construction on 12 September 1895 (a first for the Iberian Peninsula). All major cities and towns have their own local urban transport network, as well as taxi services.",
+    "original_question": "For how long has the Libon tram service existed?",
+    "variant": "For how long has the Libon tram service existed?",
+    "expected_answer": "over a century",
+    "type": "original"
+  },
+  {
+    "context": "The two largest metropolitan areas have subway systems: Lisbon Metro and Metro Sul do Tejo in the Lisbon Metropolitan Area and Porto Metro in the Porto Metropolitan Area, each with more than 35 km (22 mi) of lines. In Portugal, Lisbon tram services have been supplied by the Companhia de Carris de Ferro de Lisboa (Carris), for over a century. In Porto, a tram network, of which only a tourist line on the shores of the Douro remain, began construction on 12 September 1895 (a first for the Iberian Peninsula). All major cities and towns have their own local urban transport network, as well as taxi services.",
+    "original_question": "For how long has the Libon tram service existed?",
+    "variant": "What is the age of the Libon tram service? When was it first established?",
+    "expected_answer": "over a century",
+    "type": "variant"
+  },
+  {
+    "context": "The two largest metropolitan areas have subway systems: Lisbon Metro and Metro Sul do Tejo in the Lisbon Metropolitan Area and Porto Metro in the Porto Metropolitan Area, each with more than 35 km (22 mi) of lines. In Portugal, Lisbon tram services have been supplied by the Companhia de Carris de Ferro de Lisboa (Carris), for over a century. In Porto, a tram network, of which only a tourist line on the shores of the Douro remain, began construction on 12 September 1895 (a first for the Iberian Peninsula). All major cities and towns have their own local urban transport network, as well as taxi services.",
+    "original_question": "For how long has the Libon tram service existed?",
+    "variant": "Semi-Formal: \"How many years has the Libon tram service been operating?",
+    "expected_answer": "over a century",
+    "type": "variant"
+  },
+  {
+    "context": "The two largest metropolitan areas have subway systems: Lisbon Metro and Metro Sul do Tejo in the Lisbon Metropolitan Area and Porto Metro in the Porto Metropolitan Area, each with more than 35 km (22 mi) of lines. In Portugal, Lisbon tram services have been supplied by the Companhia de Carris de Ferro de Lisboa (Carris), for over a century. In Porto, a tram network, of which only a tourist line on the shores of the Douro remain, began construction on 12 September 1895 (a first for the Iberian Peninsula). All major cities and towns have their own local urban transport network, as well as taxi services.",
+    "original_question": "For how long has the Libon tram service existed?",
+    "variant": "When did the Libon tram service begin?",
+    "expected_answer": "over a century",
+    "type": "variant"
+  },
+  {
+    "context": "The two largest metropolitan areas have subway systems: Lisbon Metro and Metro Sul do Tejo in the Lisbon Metropolitan Area and Porto Metro in the Porto Metropolitan Area, each with more than 35 km (22 mi) of lines. In Portugal, Lisbon tram services have been supplied by the Companhia de Carris de Ferro de Lisboa (Carris), for over a century. In Porto, a tram network, of which only a tourist line on the shores of the Douro remain, began construction on 12 September 1895 (a first for the Iberian Peninsula). All major cities and towns have their own local urban transport network, as well as taxi services.",
+    "original_question": "For how long has the Libon tram service existed?",
+    "variant": "Can you tell me how long the Libon tram service has been around?",
+    "expected_answer": "over a century",
+    "type": "variant"
+  },
+  {
+    "context": "The two largest metropolitan areas have subway systems: Lisbon Metro and Metro Sul do Tejo in the Lisbon Metropolitan Area and Porto Metro in the Porto Metropolitan Area, each with more than 35 km (22 mi) of lines. In Portugal, Lisbon tram services have been supplied by the Companhia de Carris de Ferro de Lisboa (Carris), for over a century. In Porto, a tram network, of which only a tourist line on the shores of the Douro remain, began construction on 12 September 1895 (a first for the Iberian Peninsula). All major cities and towns have their own local urban transport network, as well as taxi services.",
+    "original_question": "For how long has the Libon tram service existed?",
+    "variant": "How long have they had the Libon tram?",
+    "expected_answer": "over a century",
+    "type": "variant"
+  },
+  {
+    "context": "PlayStation Network is the unified online multiplayer gaming and digital media delivery service provided by Sony Computer Entertainment for PlayStation 3 and PlayStation Portable, announced during the 2006 PlayStation Business Briefing meeting in Tokyo. The service is always connected, free, and includes multiplayer support. The network enables online gaming, the PlayStation Store, PlayStation Home and other services. PlayStation Network uses real currency and PlayStation Network Cards as seen with the PlayStation Store and PlayStation Home.",
+    "original_question": "Does PlayStation Network use artificial or real currency for purchases?",
+    "variant": "Does PlayStation Network use artificial or real currency for purchases?",
+    "expected_answer": "real",
+    "type": "original"
+  },
+  {
+    "context": "PlayStation Network is the unified online multiplayer gaming and digital media delivery service provided by Sony Computer Entertainment for PlayStation 3 and PlayStation Portable, announced during the 2006 PlayStation Business Briefing meeting in Tokyo. The service is always connected, free, and includes multiplayer support. The network enables online gaming, the PlayStation Store, PlayStation Home and other services. PlayStation Network uses real currency and PlayStation Network Cards as seen with the PlayStation Store and PlayStation Home.",
+    "original_question": "Does PlayStation Network use artificial or real currency for purchases?",
+    "variant": "Regarding transactions on the PlayStation Network, are purchases facilitated using virtual currency or actual, fiat currency?",
+    "expected_answer": "real",
+    "type": "variant"
+  },
+  {
+    "context": "PlayStation Network is the unified online multiplayer gaming and digital media delivery service provided by Sony Computer Entertainment for PlayStation 3 and PlayStation Portable, announced during the 2006 PlayStation Business Briefing meeting in Tokyo. The service is always connected, free, and includes multiplayer support. The network enables online gaming, the PlayStation Store, PlayStation Home and other services. PlayStation Network uses real currency and PlayStation Network Cards as seen with the PlayStation Store and PlayStation Home.",
+    "original_question": "Does PlayStation Network use artificial or real currency for purchases?",
+    "variant": "When making purchases on PlayStation Network, does it use a virtual currency system, or do users pay with real-world money?",
+    "expected_answer": "real",
+    "type": "variant"
+  },
+  {
+    "context": "PlayStation Network is the unified online multiplayer gaming and digital media delivery service provided by Sony Computer Entertainment for PlayStation 3 and PlayStation Portable, announced during the 2006 PlayStation Business Briefing meeting in Tokyo. The service is always connected, free, and includes multiplayer support. The network enables online gaming, the PlayStation Store, PlayStation Home and other services. PlayStation Network uses real currency and PlayStation Network Cards as seen with the PlayStation Store and PlayStation Home.",
+    "original_question": "Does PlayStation Network use artificial or real currency for purchases?",
+    "variant": "Do you pay with PlayStation Store currency or with real money when buying things on PlayStation Network?",
+    "expected_answer": "real",
+    "type": "variant"
+  },
+  {
+    "context": "PlayStation Network is the unified online multiplayer gaming and digital media delivery service provided by Sony Computer Entertainment for PlayStation 3 and PlayStation Portable, announced during the 2006 PlayStation Business Briefing meeting in Tokyo. The service is always connected, free, and includes multiplayer support. The network enables online gaming, the PlayStation Store, PlayStation Home and other services. PlayStation Network uses real currency and PlayStation Network Cards as seen with the PlayStation Store and PlayStation Home.",
+    "original_question": "Does PlayStation Network use artificial or real currency for purchases?",
+    "variant": "Conversational & Inquiry-Based: \"I'm curious about how purchases work on PlayStation Network. Do you use points or something similar, or is it linked to your bank account/credit card?",
+    "expected_answer": "real",
+    "type": "variant"
+  },
+  {
+    "context": "PlayStation Network is the unified online multiplayer gaming and digital media delivery service provided by Sony Computer Entertainment for PlayStation 3 and PlayStation Portable, announced during the 2006 PlayStation Business Briefing meeting in Tokyo. The service is always connected, free, and includes multiplayer support. The network enables online gaming, the PlayStation Store, PlayStation Home and other services. PlayStation Network uses real currency and PlayStation Network Cards as seen with the PlayStation Store and PlayStation Home.",
+    "original_question": "Does PlayStation Network use artificial or real currency for purchases?",
+    "variant": "Casual & Open-Ended: \"How does PlayStation Network handle payments for games and other content \u2013 are we talking about in-game currency or using actual dollars/euros/etc.?",
+    "expected_answer": "real",
+    "type": "variant"
+  },
+  {
+    "context": "Friedrich Hayek CH (German: [\u02c8f\u0281i\u02d0d\u0281\u026a\u00e7 \u02c8a\u028a\u032f\u0261\u028ast \u02c8ha\u026a\u032f\u025bk]; 8 May 1899 \u2013 23 March 1992), born in Austria-Hungary as Friedrich August von Hayek and frequently referred to as F. A. Hayek, was an Austrian and British economist and philosopher best known for his defense of classical liberalism. Hayek shared the 1974 Nobel Memorial Prize in Economic Sciences with Gunnar Myrdal for his \"pioneering work in the theory of money and economic fluctuations and ... penetrating analysis of the interdependence of economic, social and institutional phenomena.\"",
+    "original_question": "With whom did Hayek share his 1974 award?",
+    "variant": "With whom did Hayek share his 1974 award?",
+    "expected_answer": "Gunnar Myrdal",
+    "type": "original"
+  },
+  {
+    "context": "Friedrich Hayek CH (German: [\u02c8f\u0281i\u02d0d\u0281\u026a\u00e7 \u02c8a\u028a\u032f\u0261\u028ast \u02c8ha\u026a\u032f\u025bk]; 8 May 1899 \u2013 23 March 1992), born in Austria-Hungary as Friedrich August von Hayek and frequently referred to as F. A. Hayek, was an Austrian and British economist and philosopher best known for his defense of classical liberalism. Hayek shared the 1974 Nobel Memorial Prize in Economic Sciences with Gunnar Myrdal for his \"pioneering work in the theory of money and economic fluctuations and ... penetrating analysis of the interdependence of economic, social and institutional phenomena.\"",
+    "original_question": "With whom did Hayek share his 1974 award?",
+    "variant": "Who was the recipient with Friedrich Hayek when he received his 1974 award?",
+    "expected_answer": "Gunnar Myrdal",
+    "type": "variant"
+  },
+  {
+    "context": "Friedrich Hayek CH (German: [\u02c8f\u0281i\u02d0d\u0281\u026a\u00e7 \u02c8a\u028a\u032f\u0261\u028ast \u02c8ha\u026a\u032f\u025bk]; 8 May 1899 \u2013 23 March 1992), born in Austria-Hungary as Friedrich August von Hayek and frequently referred to as F. A. Hayek, was an Austrian and British economist and philosopher best known for his defense of classical liberalism. Hayek shared the 1974 Nobel Memorial Prize in Economic Sciences with Gunnar Myrdal for his \"pioneering work in the theory of money and economic fluctuations and ... penetrating analysis of the interdependence of economic, social and institutional phenomena.\"",
+    "original_question": "With whom did Hayek share his 1974 award?",
+    "variant": "Who shared the 1974 award with Hayek?",
+    "expected_answer": "Gunnar Myrdal",
+    "type": "variant"
+  },
+  {
+    "context": "Friedrich Hayek CH (German: [\u02c8f\u0281i\u02d0d\u0281\u026a\u00e7 \u02c8a\u028a\u032f\u0261\u028ast \u02c8ha\u026a\u032f\u025bk]; 8 May 1899 \u2013 23 March 1992), born in Austria-Hungary as Friedrich August von Hayek and frequently referred to as F. A. Hayek, was an Austrian and British economist and philosopher best known for his defense of classical liberalism. Hayek shared the 1974 Nobel Memorial Prize in Economic Sciences with Gunnar Myrdal for his \"pioneering work in the theory of money and economic fluctuations and ... penetrating analysis of the interdependence of economic, social and institutional phenomena.\"",
+    "original_question": "With whom did Hayek share his 1974 award?",
+    "variant": "Who did Hayek receive his 1974 award with?",
+    "expected_answer": "Gunnar Myrdal",
+    "type": "variant"
+  },
+  {
+    "context": "Friedrich Hayek CH (German: [\u02c8f\u0281i\u02d0d\u0281\u026a\u00e7 \u02c8a\u028a\u032f\u0261\u028ast \u02c8ha\u026a\u032f\u025bk]; 8 May 1899 \u2013 23 March 1992), born in Austria-Hungary as Friedrich August von Hayek and frequently referred to as F. A. Hayek, was an Austrian and British economist and philosopher best known for his defense of classical liberalism. Hayek shared the 1974 Nobel Memorial Prize in Economic Sciences with Gunnar Myrdal for his \"pioneering work in the theory of money and economic fluctuations and ... penetrating analysis of the interdependence of economic, social and institutional phenomena.\"",
+    "original_question": "With whom did Hayek share his 1974 award?",
+    "variant": "The 1974 award was shared. Who was Hayek's co-recipient?",
+    "expected_answer": "Gunnar Myrdal",
+    "type": "variant"
+  },
+  {
+    "context": "Friedrich Hayek CH (German: [\u02c8f\u0281i\u02d0d\u0281\u026a\u00e7 \u02c8a\u028a\u032f\u0261\u028ast \u02c8ha\u026a\u032f\u025bk]; 8 May 1899 \u2013 23 March 1992), born in Austria-Hungary as Friedrich August von Hayek and frequently referred to as F. A. Hayek, was an Austrian and British economist and philosopher best known for his defense of classical liberalism. Hayek shared the 1974 Nobel Memorial Prize in Economic Sciences with Gunnar Myrdal for his \"pioneering work in the theory of money and economic fluctuations and ... penetrating analysis of the interdependence of economic, social and institutional phenomena.\"",
+    "original_question": "With whom did Hayek share his 1974 award?",
+    "variant": "Who shared the award with Hayek in 1974?",
+    "expected_answer": "Gunnar Myrdal",
+    "type": "variant"
+  },
+  {
+    "context": "In 1941, Zuse followed his earlier machine up with the Z3, the world's first working electromechanical programmable, fully automatic digital computer. The Z3 was built with 2000 relays, implementing a 22 bit word length that operated at a clock frequency of about 5\u201310 Hz. Program code was supplied on punched film while data could be stored in 64 words of memory or supplied from the keyboard. It was quite similar to modern machines in some respects, pioneering numerous advances such as floating point numbers. Replacement of the hard-to-implement decimal system (used in Charles Babbage's earlier design) by the simpler binary system meant that Zuse's machines were easier to build and potentially more reliable, given the technologies available at that time. The Z3 was Turing complete.",
+    "original_question": "What was the first automatic, digital, programmable computer created by Konrad Zuse?",
+    "variant": "What was the first automatic, digital, programmable computer created by Konrad Zuse?",
+    "expected_answer": "the Z3",
+    "type": "original"
+  },
+  {
+    "context": "In 1941, Zuse followed his earlier machine up with the Z3, the world's first working electromechanical programmable, fully automatic digital computer. The Z3 was built with 2000 relays, implementing a 22 bit word length that operated at a clock frequency of about 5\u201310 Hz. Program code was supplied on punched film while data could be stored in 64 words of memory or supplied from the keyboard. It was quite similar to modern machines in some respects, pioneering numerous advances such as floating point numbers. Replacement of the hard-to-implement decimal system (used in Charles Babbage's earlier design) by the simpler binary system meant that Zuse's machines were easier to build and potentially more reliable, given the technologies available at that time. The Z3 was Turing complete.",
+    "original_question": "What was the first automatic, digital, programmable computer created by Konrad Zuse?",
+    "variant": ": \"Could you please identify the name of the pioneering automatic, digital, and programmable computer developed by Konrad Zuse?",
+    "expected_answer": "the Z3",
+    "type": "variant"
+  },
+  {
+    "context": "In 1941, Zuse followed his earlier machine up with the Z3, the world's first working electromechanical programmable, fully automatic digital computer. The Z3 was built with 2000 relays, implementing a 22 bit word length that operated at a clock frequency of about 5\u201310 Hz. Program code was supplied on punched film while data could be stored in 64 words of memory or supplied from the keyboard. It was quite similar to modern machines in some respects, pioneering numerous advances such as floating point numbers. Replacement of the hard-to-implement decimal system (used in Charles Babbage's earlier design) by the simpler binary system meant that Zuse's machines were easier to build and potentially more reliable, given the technologies available at that time. The Z3 was Turing complete.",
+    "original_question": "What was the first automatic, digital, programmable computer created by Konrad Zuse?",
+    "variant": ": \"What was the name of the first computer built by Konrad Zuse that met the criteria of being automatic, digital, and programmable?",
+    "expected_answer": "the Z3",
+    "type": "variant"
+  },
+  {
+    "context": "In 1941, Zuse followed his earlier machine up with the Z3, the world's first working electromechanical programmable, fully automatic digital computer. The Z3 was built with 2000 relays, implementing a 22 bit word length that operated at a clock frequency of about 5\u201310 Hz. Program code was supplied on punched film while data could be stored in 64 words of memory or supplied from the keyboard. It was quite similar to modern machines in some respects, pioneering numerous advances such as floating point numbers. Replacement of the hard-to-implement decimal system (used in Charles Babbage's earlier design) by the simpler binary system meant that Zuse's machines were easier to build and potentially more reliable, given the technologies available at that time. The Z3 was Turing complete.",
+    "original_question": "What was the first automatic, digital, programmable computer created by Konrad Zuse?",
+    "variant": ": \"What computer did Konrad Zuse build that is considered the first automatic, digital, programmable machine?",
+    "expected_answer": "the Z3",
+    "type": "variant"
+  },
+  {
+    "context": "In 1941, Zuse followed his earlier machine up with the Z3, the world's first working electromechanical programmable, fully automatic digital computer. The Z3 was built with 2000 relays, implementing a 22 bit word length that operated at a clock frequency of about 5\u201310 Hz. Program code was supplied on punched film while data could be stored in 64 words of memory or supplied from the keyboard. It was quite similar to modern machines in some respects, pioneering numerous advances such as floating point numbers. Replacement of the hard-to-implement decimal system (used in Charles Babbage's earlier design) by the simpler binary system meant that Zuse's machines were easier to build and potentially more reliable, given the technologies available at that time. The Z3 was Turing complete.",
+    "original_question": "What was the first automatic, digital, programmable computer created by Konrad Zuse?",
+    "variant": ": \"I'm interested in Konrad Zuse's work. What was the name of the first computer he created that was automatic, digital, and programmable?",
+    "expected_answer": "the Z3",
+    "type": "variant"
+  },
+  {
+    "context": "In 1941, Zuse followed his earlier machine up with the Z3, the world's first working electromechanical programmable, fully automatic digital computer. The Z3 was built with 2000 relays, implementing a 22 bit word length that operated at a clock frequency of about 5\u201310 Hz. Program code was supplied on punched film while data could be stored in 64 words of memory or supplied from the keyboard. It was quite similar to modern machines in some respects, pioneering numerous advances such as floating point numbers. Replacement of the hard-to-implement decimal system (used in Charles Babbage's earlier design) by the simpler binary system meant that Zuse's machines were easier to build and potentially more reliable, given the technologies available at that time. The Z3 was Turing complete.",
+    "original_question": "What was the first automatic, digital, programmable computer created by Konrad Zuse?",
+    "variant": ": \"Konrad Zuse is known for a significant breakthrough in computing. What was the name of the machine he created that's recognized as the first automatic, digital, programmable computer?",
+    "expected_answer": "the Z3",
+    "type": "variant"
+  },
+  {
+    "context": "The Macintosh project was begun in 1979 by Jef Raskin, an Apple employee who envisioned an easy-to-use, low-cost computer for the average consumer. He wanted to name the computer after his favorite type of apple, the McIntosh, but the spelling was changed to \"Macintosh\" for legal reasons as the original was the same spelling as that used by McIntosh Laboratory, Inc., the audio equipment manufacturer. Steve Jobs requested that McIntosh Laboratory give Apple a release for the name with its changed spelling so that Apple could use it, but the request was denied, forcing Apple to eventually buy the rights to use the name. (A 1984 Byte Magazine article suggested Apple changed the spelling only after \"early users\" misspelled \"McIntosh\". However, Jef Raskin had adopted the Macintosh spelling by 1981, when the Macintosh computer was still a single prototype machine in the lab. This explanation further clashes with the first explanation given above that the change was made for \"legal reasons.\")",
+    "original_question": "Why was the spelling of McIntosh changed to Macintosh?",
+    "variant": "Why was the spelling of McIntosh changed to Macintosh?",
+    "expected_answer": "for legal reasons",
+    "type": "original"
+  },
+  {
+    "context": "The Macintosh project was begun in 1979 by Jef Raskin, an Apple employee who envisioned an easy-to-use, low-cost computer for the average consumer. He wanted to name the computer after his favorite type of apple, the McIntosh, but the spelling was changed to \"Macintosh\" for legal reasons as the original was the same spelling as that used by McIntosh Laboratory, Inc., the audio equipment manufacturer. Steve Jobs requested that McIntosh Laboratory give Apple a release for the name with its changed spelling so that Apple could use it, but the request was denied, forcing Apple to eventually buy the rights to use the name. (A 1984 Byte Magazine article suggested Apple changed the spelling only after \"early users\" misspelled \"McIntosh\". However, Jef Raskin had adopted the Macintosh spelling by 1981, when the Macintosh computer was still a single prototype machine in the lab. This explanation further clashes with the first explanation given above that the change was made for \"legal reasons.\")",
+    "original_question": "Why was the spelling of McIntosh changed to Macintosh?",
+    "variant": "Could you explain the rationale behind the change in spelling from McIntosh to Macintosh?",
+    "expected_answer": "for legal reasons",
+    "type": "variant"
+  },
+  {
+    "context": "The Macintosh project was begun in 1979 by Jef Raskin, an Apple employee who envisioned an easy-to-use, low-cost computer for the average consumer. He wanted to name the computer after his favorite type of apple, the McIntosh, but the spelling was changed to \"Macintosh\" for legal reasons as the original was the same spelling as that used by McIntosh Laboratory, Inc., the audio equipment manufacturer. Steve Jobs requested that McIntosh Laboratory give Apple a release for the name with its changed spelling so that Apple could use it, but the request was denied, forcing Apple to eventually buy the rights to use the name. (A 1984 Byte Magazine article suggested Apple changed the spelling only after \"early users\" misspelled \"McIntosh\". However, Jef Raskin had adopted the Macintosh spelling by 1981, when the Macintosh computer was still a single prototype machine in the lab. This explanation further clashes with the first explanation given above that the change was made for \"legal reasons.\")",
+    "original_question": "Why was the spelling of McIntosh changed to Macintosh?",
+    "variant": "I'm curious, what led to the decision to change the spelling from McIntosh to Macintosh?",
+    "expected_answer": "for legal reasons",
+    "type": "variant"
+  },
+  {
+    "context": "The Macintosh project was begun in 1979 by Jef Raskin, an Apple employee who envisioned an easy-to-use, low-cost computer for the average consumer. He wanted to name the computer after his favorite type of apple, the McIntosh, but the spelling was changed to \"Macintosh\" for legal reasons as the original was the same spelling as that used by McIntosh Laboratory, Inc., the audio equipment manufacturer. Steve Jobs requested that McIntosh Laboratory give Apple a release for the name with its changed spelling so that Apple could use it, but the request was denied, forcing Apple to eventually buy the rights to use the name. (A 1984 Byte Magazine article suggested Apple changed the spelling only after \"early users\" misspelled \"McIntosh\". However, Jef Raskin had adopted the Macintosh spelling by 1981, when the Macintosh computer was still a single prototype machine in the lab. This explanation further clashes with the first explanation given above that the change was made for \"legal reasons.\")",
+    "original_question": "Why was the spelling of McIntosh changed to Macintosh?",
+    "variant": "What's the story behind the change from McIntosh to Macintosh?",
+    "expected_answer": "for legal reasons",
+    "type": "variant"
+  },
+  {
+    "context": "The Macintosh project was begun in 1979 by Jef Raskin, an Apple employee who envisioned an easy-to-use, low-cost computer for the average consumer. He wanted to name the computer after his favorite type of apple, the McIntosh, but the spelling was changed to \"Macintosh\" for legal reasons as the original was the same spelling as that used by McIntosh Laboratory, Inc., the audio equipment manufacturer. Steve Jobs requested that McIntosh Laboratory give Apple a release for the name with its changed spelling so that Apple could use it, but the request was denied, forcing Apple to eventually buy the rights to use the name. (A 1984 Byte Magazine article suggested Apple changed the spelling only after \"early users\" misspelled \"McIntosh\". However, Jef Raskin had adopted the Macintosh spelling by 1981, when the Macintosh computer was still a single prototype machine in the lab. This explanation further clashes with the first explanation given above that the change was made for \"legal reasons.\")",
+    "original_question": "Why was the spelling of McIntosh changed to Macintosh?",
+    "variant": "How did the name 'McIntosh' evolve into 'Macintosh'?",
+    "expected_answer": "for legal reasons",
+    "type": "variant"
+  },
+  {
+    "context": "The Macintosh project was begun in 1979 by Jef Raskin, an Apple employee who envisioned an easy-to-use, low-cost computer for the average consumer. He wanted to name the computer after his favorite type of apple, the McIntosh, but the spelling was changed to \"Macintosh\" for legal reasons as the original was the same spelling as that used by McIntosh Laboratory, Inc., the audio equipment manufacturer. Steve Jobs requested that McIntosh Laboratory give Apple a release for the name with its changed spelling so that Apple could use it, but the request was denied, forcing Apple to eventually buy the rights to use the name. (A 1984 Byte Magazine article suggested Apple changed the spelling only after \"early users\" misspelled \"McIntosh\". However, Jef Raskin had adopted the Macintosh spelling by 1981, when the Macintosh computer was still a single prototype machine in the lab. This explanation further clashes with the first explanation given above that the change was made for \"legal reasons.\")",
+    "original_question": "Why was the spelling of McIntosh changed to Macintosh?",
+    "variant": "I've always wondered - why did they switch the spelling from McIntosh to Macintosh?",
+    "expected_answer": "for legal reasons",
+    "type": "variant"
+  },
+  {
+    "context": "Other influential Muslim philosophers include al-Jahiz, a pioneer in evolutionary thought; Ibn al-Haytham (Alhazen), a pioneer of phenomenology and the philosophy of science and a critic of Aristotelian natural philosophy and Aristotle's concept of place (topos); Al-Biruni, a critic of Aristotelian natural philosophy; Ibn Tufail and Ibn al-Nafis, pioneers of the philosophical novel; Shahab al-Din Suhrawardi, founder of Illuminationist philosophy; Fakhr al-Din al-Razi, a critic of Aristotelian logic and a pioneer of inductive logic; and Ibn Khaldun, a pioneer in the philosophy of history.",
+    "original_question": "Ibn al-Haytham can be known by another name, what is it?",
+    "variant": "Ibn al-Haytham can be known by another name, what is it?",
+    "expected_answer": "Alhazen",
+    "type": "original"
+  },
+  {
+    "context": "Other influential Muslim philosophers include al-Jahiz, a pioneer in evolutionary thought; Ibn al-Haytham (Alhazen), a pioneer of phenomenology and the philosophy of science and a critic of Aristotelian natural philosophy and Aristotle's concept of place (topos); Al-Biruni, a critic of Aristotelian natural philosophy; Ibn Tufail and Ibn al-Nafis, pioneers of the philosophical novel; Shahab al-Din Suhrawardi, founder of Illuminationist philosophy; Fakhr al-Din al-Razi, a critic of Aristotelian logic and a pioneer of inductive logic; and Ibn Khaldun, a pioneer in the philosophy of history.",
+    "original_question": "Ibn al-Haytham can be known by another name, what is it?",
+    "variant": "Ibn al-Haytham is also known by an alternative name. What is that name?",
+    "expected_answer": "Alhazen",
+    "type": "variant"
+  },
+  {
+    "context": "Other influential Muslim philosophers include al-Jahiz, a pioneer in evolutionary thought; Ibn al-Haytham (Alhazen), a pioneer of phenomenology and the philosophy of science and a critic of Aristotelian natural philosophy and Aristotle's concept of place (topos); Al-Biruni, a critic of Aristotelian natural philosophy; Ibn Tufail and Ibn al-Nafis, pioneers of the philosophical novel; Shahab al-Din Suhrawardi, founder of Illuminationist philosophy; Fakhr al-Din al-Razi, a critic of Aristotelian logic and a pioneer of inductive logic; and Ibn Khaldun, a pioneer in the philosophy of history.",
+    "original_question": "Ibn al-Haytham can be known by another name, what is it?",
+    "variant": "Besides Ibn al-Haytham, what other name was he known by?",
+    "expected_answer": "Alhazen",
+    "type": "variant"
+  },
+  {
+    "context": "Other influential Muslim philosophers include al-Jahiz, a pioneer in evolutionary thought; Ibn al-Haytham (Alhazen), a pioneer of phenomenology and the philosophy of science and a critic of Aristotelian natural philosophy and Aristotle's concept of place (topos); Al-Biruni, a critic of Aristotelian natural philosophy; Ibn Tufail and Ibn al-Nafis, pioneers of the philosophical novel; Shahab al-Din Suhrawardi, founder of Illuminationist philosophy; Fakhr al-Din al-Razi, a critic of Aristotelian logic and a pioneer of inductive logic; and Ibn Khaldun, a pioneer in the philosophy of history.",
+    "original_question": "Ibn al-Haytham can be known by another name, what is it?",
+    "variant": "You might have heard of Ibn al-Haytham, but he had another name too. What was it?",
+    "expected_answer": "Alhazen",
+    "type": "variant"
+  },
+  {
+    "context": "Other influential Muslim philosophers include al-Jahiz, a pioneer in evolutionary thought; Ibn al-Haytham (Alhazen), a pioneer of phenomenology and the philosophy of science and a critic of Aristotelian natural philosophy and Aristotle's concept of place (topos); Al-Biruni, a critic of Aristotelian natural philosophy; Ibn Tufail and Ibn al-Nafis, pioneers of the philosophical novel; Shahab al-Din Suhrawardi, founder of Illuminationist philosophy; Fakhr al-Din al-Razi, a critic of Aristotelian logic and a pioneer of inductive logic; and Ibn Khaldun, a pioneer in the philosophy of history.",
+    "original_question": "Ibn al-Haytham can be known by another name, what is it?",
+    "variant": "Ibn al-Haytham is often referred to by a different designation. Can you tell me what that is?",
+    "expected_answer": "Alhazen",
+    "type": "variant"
+  },
+  {
+    "context": "Other influential Muslim philosophers include al-Jahiz, a pioneer in evolutionary thought; Ibn al-Haytham (Alhazen), a pioneer of phenomenology and the philosophy of science and a critic of Aristotelian natural philosophy and Aristotle's concept of place (topos); Al-Biruni, a critic of Aristotelian natural philosophy; Ibn Tufail and Ibn al-Nafis, pioneers of the philosophical novel; Shahab al-Din Suhrawardi, founder of Illuminationist philosophy; Fakhr al-Din al-Razi, a critic of Aristotelian logic and a pioneer of inductive logic; and Ibn Khaldun, a pioneer in the philosophy of history.",
+    "original_question": "Ibn al-Haytham can be known by another name, what is it?",
+    "variant": "What is Ibn al-Haytham's other, commonly used name?",
+    "expected_answer": "Alhazen",
+    "type": "variant"
+  },
+  {
+    "context": "A standard adult football match consists of two periods of 45 minutes each, known as halves. Each half runs continuously, meaning that the clock is not stopped when the ball is out of play. There is usually a 15-minute half-time break between halves. The end of the match is known as full-time. The referee is the official timekeeper for the match, and may make an allowance for time lost through substitutions, injured players requiring attention, or other stoppages. This added time is called additional time in FIFA documents, but is most commonly referred to as stoppage time or injury time, while loss time can also be used as a synonym. The duration of stoppage time is at the sole discretion of the referee. The referee alone signals the end of the match. In matches where a fourth official is appointed, toward the end of the half the referee signals how many minutes of stoppage time he intends to add. The fourth official then informs the players and spectators by holding up a board showing this number. The signalled stoppage time may be further extended by the referee. Added time was introduced because of an incident which happened in 1891 during a match between Stoke and Aston Villa. Trailing 1\u20130 and with just two minutes remaining, Stoke were awarded a penalty. Villa's goalkeeper kicked the ball out of the ground, and by the time the ball had been recovered, the 90 minutes had elapsed and the game was over. The same law also states that the duration of either half is extended until the penalty kick to be taken or retaken is completed, thus no game shall end with a penalty to be taken.",
+    "original_question": "What are the periods in a football match called?",
+    "variant": "What are the periods in a football match called?",
+    "expected_answer": "halves",
+    "type": "original"
+  },
+  {
+    "context": "A standard adult football match consists of two periods of 45 minutes each, known as halves. Each half runs continuously, meaning that the clock is not stopped when the ball is out of play. There is usually a 15-minute half-time break between halves. The end of the match is known as full-time. The referee is the official timekeeper for the match, and may make an allowance for time lost through substitutions, injured players requiring attention, or other stoppages. This added time is called additional time in FIFA documents, but is most commonly referred to as stoppage time or injury time, while loss time can also be used as a synonym. The duration of stoppage time is at the sole discretion of the referee. The referee alone signals the end of the match. In matches where a fourth official is appointed, toward the end of the half the referee signals how many minutes of stoppage time he intends to add. The fourth official then informs the players and spectators by holding up a board showing this number. The signalled stoppage time may be further extended by the referee. Added time was introduced because of an incident which happened in 1891 during a match between Stoke and Aston Villa. Trailing 1\u20130 and with just two minutes remaining, Stoke were awarded a penalty. Villa's goalkeeper kicked the ball out of the ground, and by the time the ball had been recovered, the 90 minutes had elapsed and the game was over. The same law also states that the duration of either half is extended until the penalty kick to be taken or retaken is completed, thus no game shall end with a penalty to be taken.",
+    "original_question": "What are the periods in a football match called?",
+    "variant": "Could you please describe the segments of time that constitute a standard football match?",
+    "expected_answer": "halves",
+    "type": "variant"
+  },
+  {
+    "context": "A standard adult football match consists of two periods of 45 minutes each, known as halves. Each half runs continuously, meaning that the clock is not stopped when the ball is out of play. There is usually a 15-minute half-time break between halves. The end of the match is known as full-time. The referee is the official timekeeper for the match, and may make an allowance for time lost through substitutions, injured players requiring attention, or other stoppages. This added time is called additional time in FIFA documents, but is most commonly referred to as stoppage time or injury time, while loss time can also be used as a synonym. The duration of stoppage time is at the sole discretion of the referee. The referee alone signals the end of the match. In matches where a fourth official is appointed, toward the end of the half the referee signals how many minutes of stoppage time he intends to add. The fourth official then informs the players and spectators by holding up a board showing this number. The signalled stoppage time may be further extended by the referee. Added time was introduced because of an incident which happened in 1891 during a match between Stoke and Aston Villa. Trailing 1\u20130 and with just two minutes remaining, Stoke were awarded a penalty. Villa's goalkeeper kicked the ball out of the ground, and by the time the ball had been recovered, the 90 minutes had elapsed and the game was over. The same law also states that the duration of either half is extended until the penalty kick to be taken or retaken is completed, thus no game shall end with a penalty to be taken.",
+    "original_question": "What are the periods in a football match called?",
+    "variant": "What do we call the different parts of a football game, like the sections of time played?",
+    "expected_answer": "halves",
+    "type": "variant"
+  },
+  {
+    "context": "A standard adult football match consists of two periods of 45 minutes each, known as halves. Each half runs continuously, meaning that the clock is not stopped when the ball is out of play. There is usually a 15-minute half-time break between halves. The end of the match is known as full-time. The referee is the official timekeeper for the match, and may make an allowance for time lost through substitutions, injured players requiring attention, or other stoppages. This added time is called additional time in FIFA documents, but is most commonly referred to as stoppage time or injury time, while loss time can also be used as a synonym. The duration of stoppage time is at the sole discretion of the referee. The referee alone signals the end of the match. In matches where a fourth official is appointed, toward the end of the half the referee signals how many minutes of stoppage time he intends to add. The fourth official then informs the players and spectators by holding up a board showing this number. The signalled stoppage time may be further extended by the referee. Added time was introduced because of an incident which happened in 1891 during a match between Stoke and Aston Villa. Trailing 1\u20130 and with just two minutes remaining, Stoke were awarded a penalty. Villa's goalkeeper kicked the ball out of the ground, and by the time the ball had been recovered, the 90 minutes had elapsed and the game was over. The same law also states that the duration of either half is extended until the penalty kick to be taken or retaken is completed, thus no game shall end with a penalty to be taken.",
+    "original_question": "What are the periods in a football match called?",
+    "variant": "What are the halves of a soccer game officially called?",
+    "expected_answer": "halves",
+    "type": "variant"
+  },
+  {
+    "context": "A standard adult football match consists of two periods of 45 minutes each, known as halves. Each half runs continuously, meaning that the clock is not stopped when the ball is out of play. There is usually a 15-minute half-time break between halves. The end of the match is known as full-time. The referee is the official timekeeper for the match, and may make an allowance for time lost through substitutions, injured players requiring attention, or other stoppages. This added time is called additional time in FIFA documents, but is most commonly referred to as stoppage time or injury time, while loss time can also be used as a synonym. The duration of stoppage time is at the sole discretion of the referee. The referee alone signals the end of the match. In matches where a fourth official is appointed, toward the end of the half the referee signals how many minutes of stoppage time he intends to add. The fourth official then informs the players and spectators by holding up a board showing this number. The signalled stoppage time may be further extended by the referee. Added time was introduced because of an incident which happened in 1891 during a match between Stoke and Aston Villa. Trailing 1\u20130 and with just two minutes remaining, Stoke were awarded a penalty. Villa's goalkeeper kicked the ball out of the ground, and by the time the ball had been recovered, the 90 minutes had elapsed and the game was over. The same law also states that the duration of either half is extended until the penalty kick to be taken or retaken is completed, thus no game shall end with a penalty to be taken.",
+    "original_question": "What are the periods in a football match called?",
+    "variant": "How many parts is a football match divided into, and what are they called?",
+    "expected_answer": "halves",
+    "type": "variant"
+  },
+  {
+    "context": "A standard adult football match consists of two periods of 45 minutes each, known as halves. Each half runs continuously, meaning that the clock is not stopped when the ball is out of play. There is usually a 15-minute half-time break between halves. The end of the match is known as full-time. The referee is the official timekeeper for the match, and may make an allowance for time lost through substitutions, injured players requiring attention, or other stoppages. This added time is called additional time in FIFA documents, but is most commonly referred to as stoppage time or injury time, while loss time can also be used as a synonym. The duration of stoppage time is at the sole discretion of the referee. The referee alone signals the end of the match. In matches where a fourth official is appointed, toward the end of the half the referee signals how many minutes of stoppage time he intends to add. The fourth official then informs the players and spectators by holding up a board showing this number. The signalled stoppage time may be further extended by the referee. Added time was introduced because of an incident which happened in 1891 during a match between Stoke and Aston Villa. Trailing 1\u20130 and with just two minutes remaining, Stoke were awarded a penalty. Villa's goalkeeper kicked the ball out of the ground, and by the time the ball had been recovered, the 90 minutes had elapsed and the game was over. The same law also states that the duration of either half is extended until the penalty kick to be taken or retaken is completed, thus no game shall end with a penalty to be taken.",
+    "original_question": "What are the periods in a football match called?",
+    "variant": "Inquisitive/Curious: \"I'm curious, what's the terminology used to refer to the different sections of a football game?",
+    "expected_answer": "halves",
+    "type": "variant"
+  },
+  {
+    "context": "The Pal\u00e1cio da Alvorada is the official residence of the President of Brazil. The palace was designed, along with the rest of the city of Bras\u00edlia, by Oscar Niemeyer and inaugurated in 1958. One of the first structures built in the republic's new capital city, the \"Alvorada\" lies on a peninsula at the margins of Lake Parano\u00e1. The principles of simplicity and modernity, that in the past characterized the great works of architecture, motivated Niemeyer. The viewer has an impression of looking at a glass box, softly landed on the ground with the support of thin external columns. The building has an area of 7,000 m2 with three floors consisting of the basement, landing, and second floor. The auditorium, kitchen, laundry, medical center, and administration offices are at basement level. The rooms used by the presidency for official receptions are on the landing. The second floor has four suites, two apartments, and various private rooms which make up the residential part of the palace. The building also has a library, a heated Olympic-sized swimming pool, a music room, two dining rooms and various meeting rooms. A chapel and heliport are in adjacent buildings.",
+    "original_question": "When did Brasilia's presidential residence open?",
+    "variant": "When did Brasilia's presidential residence open?",
+    "expected_answer": "1958",
+    "type": "original"
+  },
+  {
+    "context": "The Pal\u00e1cio da Alvorada is the official residence of the President of Brazil. The palace was designed, along with the rest of the city of Bras\u00edlia, by Oscar Niemeyer and inaugurated in 1958. One of the first structures built in the republic's new capital city, the \"Alvorada\" lies on a peninsula at the margins of Lake Parano\u00e1. The principles of simplicity and modernity, that in the past characterized the great works of architecture, motivated Niemeyer. The viewer has an impression of looking at a glass box, softly landed on the ground with the support of thin external columns. The building has an area of 7,000 m2 with three floors consisting of the basement, landing, and second floor. The auditorium, kitchen, laundry, medical center, and administration offices are at basement level. The rooms used by the presidency for official receptions are on the landing. The second floor has four suites, two apartments, and various private rooms which make up the residential part of the palace. The building also has a library, a heated Olympic-sized swimming pool, a music room, two dining rooms and various meeting rooms. A chapel and heliport are in adjacent buildings.",
+    "original_question": "When did Brasilia's presidential residence open?",
+    "variant": "What was the opening date of the presidential residence in Bras\u00edlia?",
+    "expected_answer": "1958",
+    "type": "variant"
+  },
+  {
+    "context": "The Pal\u00e1cio da Alvorada is the official residence of the President of Brazil. The palace was designed, along with the rest of the city of Bras\u00edlia, by Oscar Niemeyer and inaugurated in 1958. One of the first structures built in the republic's new capital city, the \"Alvorada\" lies on a peninsula at the margins of Lake Parano\u00e1. The principles of simplicity and modernity, that in the past characterized the great works of architecture, motivated Niemeyer. The viewer has an impression of looking at a glass box, softly landed on the ground with the support of thin external columns. The building has an area of 7,000 m2 with three floors consisting of the basement, landing, and second floor. The auditorium, kitchen, laundry, medical center, and administration offices are at basement level. The rooms used by the presidency for official receptions are on the landing. The second floor has four suites, two apartments, and various private rooms which make up the residential part of the palace. The building also has a library, a heated Olympic-sized swimming pool, a music room, two dining rooms and various meeting rooms. A chapel and heliport are in adjacent buildings.",
+    "original_question": "When did Brasilia's presidential residence open?",
+    "variant": "Semi-Formal: \"Can you tell me when the presidential palace in Bras\u00edlia officially opened?",
+    "expected_answer": "1958",
+    "type": "variant"
+  },
+  {
+    "context": "The Pal\u00e1cio da Alvorada is the official residence of the President of Brazil. The palace was designed, along with the rest of the city of Bras\u00edlia, by Oscar Niemeyer and inaugurated in 1958. One of the first structures built in the republic's new capital city, the \"Alvorada\" lies on a peninsula at the margins of Lake Parano\u00e1. The principles of simplicity and modernity, that in the past characterized the great works of architecture, motivated Niemeyer. The viewer has an impression of looking at a glass box, softly landed on the ground with the support of thin external columns. The building has an area of 7,000 m2 with three floors consisting of the basement, landing, and second floor. The auditorium, kitchen, laundry, medical center, and administration offices are at basement level. The rooms used by the presidency for official receptions are on the landing. The second floor has four suites, two apartments, and various private rooms which make up the residential part of the palace. The building also has a library, a heated Olympic-sized swimming pool, a music room, two dining rooms and various meeting rooms. A chapel and heliport are in adjacent buildings.",
+    "original_question": "When did Brasilia's presidential residence open?",
+    "variant": "When was the presidential residence in Bras\u00edlia first opened to the public?",
+    "expected_answer": "1958",
+    "type": "variant"
+  },
+  {
+    "context": "The Pal\u00e1cio da Alvorada is the official residence of the President of Brazil. The palace was designed, along with the rest of the city of Bras\u00edlia, by Oscar Niemeyer and inaugurated in 1958. One of the first structures built in the republic's new capital city, the \"Alvorada\" lies on a peninsula at the margins of Lake Parano\u00e1. The principles of simplicity and modernity, that in the past characterized the great works of architecture, motivated Niemeyer. The viewer has an impression of looking at a glass box, softly landed on the ground with the support of thin external columns. The building has an area of 7,000 m2 with three floors consisting of the basement, landing, and second floor. The auditorium, kitchen, laundry, medical center, and administration offices are at basement level. The rooms used by the presidency for official receptions are on the landing. The second floor has four suites, two apartments, and various private rooms which make up the residential part of the palace. The building also has a library, a heated Olympic-sized swimming pool, a music room, two dining rooms and various meeting rooms. A chapel and heliport are in adjacent buildings.",
+    "original_question": "When did Brasilia's presidential residence open?",
+    "variant": "Do you know when Bras\u00edlia's presidential residence started being used?",
+    "expected_answer": "1958",
+    "type": "variant"
+  },
+  {
+    "context": "The Pal\u00e1cio da Alvorada is the official residence of the President of Brazil. The palace was designed, along with the rest of the city of Bras\u00edlia, by Oscar Niemeyer and inaugurated in 1958. One of the first structures built in the republic's new capital city, the \"Alvorada\" lies on a peninsula at the margins of Lake Parano\u00e1. The principles of simplicity and modernity, that in the past characterized the great works of architecture, motivated Niemeyer. The viewer has an impression of looking at a glass box, softly landed on the ground with the support of thin external columns. The building has an area of 7,000 m2 with three floors consisting of the basement, landing, and second floor. The auditorium, kitchen, laundry, medical center, and administration offices are at basement level. The rooms used by the presidency for official receptions are on the landing. The second floor has four suites, two apartments, and various private rooms which make up the residential part of the palace. The building also has a library, a heated Olympic-sized swimming pool, a music room, two dining rooms and various meeting rooms. A chapel and heliport are in adjacent buildings.",
+    "original_question": "When did Brasilia's presidential residence open?",
+    "variant": "When did they open the presidential residence in Bras\u00edlia?",
+    "expected_answer": "1958",
+    "type": "variant"
+  },
+  {
+    "context": "The new head of state, Ibrahim Babangida, declared himself president and commander in chief of the armed forces and the ruling Supreme Military Council. He set 1990 as the official deadline for a return to democratic governance. Babangida's tenure was marked by a flurry of political activity: he instituted the International Monetary Fund's Structural Adjustment Program (SAP) to aid in the repayment of the country's crushing international debt, which most federal revenue was dedicated to servicing. He enrolled Nigeria in the Organisation of the Islamic Conference, which aggravated religious tensions in the country.",
+    "original_question": "What was most of Nigeria's federal income being spent on?",
+    "variant": "What was most of Nigeria's federal income being spent on?",
+    "expected_answer": "debt",
+    "type": "original"
+  },
+  {
+    "context": "The new head of state, Ibrahim Babangida, declared himself president and commander in chief of the armed forces and the ruling Supreme Military Council. He set 1990 as the official deadline for a return to democratic governance. Babangida's tenure was marked by a flurry of political activity: he instituted the International Monetary Fund's Structural Adjustment Program (SAP) to aid in the repayment of the country's crushing international debt, which most federal revenue was dedicated to servicing. He enrolled Nigeria in the Organisation of the Islamic Conference, which aggravated religious tensions in the country.",
+    "original_question": "What was most of Nigeria's federal income being spent on?",
+    "variant": "Could you please describe the primary areas of expenditure for Nigeria's federal income? What percentage was allocated to each?",
+    "expected_answer": "debt",
+    "type": "variant"
+  },
+  {
+    "context": "The new head of state, Ibrahim Babangida, declared himself president and commander in chief of the armed forces and the ruling Supreme Military Council. He set 1990 as the official deadline for a return to democratic governance. Babangida's tenure was marked by a flurry of political activity: he instituted the International Monetary Fund's Structural Adjustment Program (SAP) to aid in the repayment of the country's crushing international debt, which most federal revenue was dedicated to servicing. He enrolled Nigeria in the Organisation of the Islamic Conference, which aggravated religious tensions in the country.",
+    "original_question": "What was most of Nigeria's federal income being spent on?",
+    "variant": "Where was the majority of Nigeria's government money going?",
+    "expected_answer": "debt",
+    "type": "variant"
+  },
+  {
+    "context": "The new head of state, Ibrahim Babangida, declared himself president and commander in chief of the armed forces and the ruling Supreme Military Council. He set 1990 as the official deadline for a return to democratic governance. Babangida's tenure was marked by a flurry of political activity: he instituted the International Monetary Fund's Structural Adjustment Program (SAP) to aid in the repayment of the country's crushing international debt, which most federal revenue was dedicated to servicing. He enrolled Nigeria in the Organisation of the Islamic Conference, which aggravated religious tensions in the country.",
+    "original_question": "What was most of Nigeria's federal income being spent on?",
+    "variant": "What were Nigeria's top spending priorities when it came to federal income?",
+    "expected_answer": "debt",
+    "type": "variant"
+  },
+  {
+    "context": "The new head of state, Ibrahim Babangida, declared himself president and commander in chief of the armed forces and the ruling Supreme Military Council. He set 1990 as the official deadline for a return to democratic governance. Babangida's tenure was marked by a flurry of political activity: he instituted the International Monetary Fund's Structural Adjustment Program (SAP) to aid in the repayment of the country's crushing international debt, which most federal revenue was dedicated to servicing. He enrolled Nigeria in the Organisation of the Islamic Conference, which aggravated religious tensions in the country.",
+    "original_question": "What was most of Nigeria's federal income being spent on?",
+    "variant": "What were the biggest categories of spending for Nigeria's federal income?",
+    "expected_answer": "debt",
+    "type": "variant"
+  },
+  {
+    "context": "The new head of state, Ibrahim Babangida, declared himself president and commander in chief of the armed forces and the ruling Supreme Military Council. He set 1990 as the official deadline for a return to democratic governance. Babangida's tenure was marked by a flurry of political activity: he instituted the International Monetary Fund's Structural Adjustment Program (SAP) to aid in the repayment of the country's crushing international debt, which most federal revenue was dedicated to servicing. He enrolled Nigeria in the Organisation of the Islamic Conference, which aggravated religious tensions in the country.",
+    "original_question": "What was most of Nigeria's federal income being spent on?",
+    "variant": "Can you give me a general overview of how Nigeria's federal income was distributed?",
+    "expected_answer": "debt",
+    "type": "variant"
+  },
+  {
+    "context": "The \"General Law of Linguistic Rights of the Indigenous Peoples\" grants all indigenous languages spoken in Mexico, regardless of the number of speakers, the same validity as Spanish in all territories in which they are spoken, and indigenous peoples are entitled to request some public services and documents in their native languages. Along with Spanish, the law has granted them \u2014 more than 60 languages \u2014 the status of \"national languages\". The law includes all indigenous languages of the Americas regardless of origin; that is, it includes the indigenous languages of ethnic groups non-native to the territory. As such the National Commission for the Development of Indigenous Peoples recognizes the language of the Kickapoo, who immigrated from the United States, and recognizes the languages of the Guatemalan indigenous refugees. The Mexican government has promoted and established bilingual primary and secondary education in some indigenous rural communities. Nonetheless, of the indigenous peoples in Mexico, only about 67% of them (or 5.4% of the country's population) speak an indigenous language and about a sixth do not speak Spanish (1.2% of the country's population).",
+    "original_question": "What grants all indigenous languages spoken in Mexico validity? ",
+    "variant": "What grants all indigenous languages spoken in Mexico validity? ",
+    "expected_answer": "General Law of Linguistic Rights of the Indigenous Peoples",
+    "type": "original"
+  },
+  {
+    "context": "The \"General Law of Linguistic Rights of the Indigenous Peoples\" grants all indigenous languages spoken in Mexico, regardless of the number of speakers, the same validity as Spanish in all territories in which they are spoken, and indigenous peoples are entitled to request some public services and documents in their native languages. Along with Spanish, the law has granted them \u2014 more than 60 languages \u2014 the status of \"national languages\". The law includes all indigenous languages of the Americas regardless of origin; that is, it includes the indigenous languages of ethnic groups non-native to the territory. As such the National Commission for the Development of Indigenous Peoples recognizes the language of the Kickapoo, who immigrated from the United States, and recognizes the languages of the Guatemalan indigenous refugees. The Mexican government has promoted and established bilingual primary and secondary education in some indigenous rural communities. Nonetheless, of the indigenous peoples in Mexico, only about 67% of them (or 5.4% of the country's population) speak an indigenous language and about a sixth do not speak Spanish (1.2% of the country's population).",
+    "original_question": "What grants all indigenous languages spoken in Mexico validity? ",
+    "variant": "What legal and/or societal frameworks underpin the recognition and legitimacy of all indigenous languages currently spoken within Mexico?",
+    "expected_answer": "General Law of Linguistic Rights of the Indigenous Peoples",
+    "type": "variant"
+  },
+  {
+    "context": "The \"General Law of Linguistic Rights of the Indigenous Peoples\" grants all indigenous languages spoken in Mexico, regardless of the number of speakers, the same validity as Spanish in all territories in which they are spoken, and indigenous peoples are entitled to request some public services and documents in their native languages. Along with Spanish, the law has granted them \u2014 more than 60 languages \u2014 the status of \"national languages\". The law includes all indigenous languages of the Americas regardless of origin; that is, it includes the indigenous languages of ethnic groups non-native to the territory. As such the National Commission for the Development of Indigenous Peoples recognizes the language of the Kickapoo, who immigrated from the United States, and recognizes the languages of the Guatemalan indigenous refugees. The Mexican government has promoted and established bilingual primary and secondary education in some indigenous rural communities. Nonetheless, of the indigenous peoples in Mexico, only about 67% of them (or 5.4% of the country's population) speak an indigenous language and about a sixth do not speak Spanish (1.2% of the country's population).",
+    "original_question": "What grants all indigenous languages spoken in Mexico validity? ",
+    "variant": "What guarantees the continued survival and official standing of Mexico's indigenous languages?",
+    "expected_answer": "General Law of Linguistic Rights of the Indigenous Peoples",
+    "type": "variant"
+  },
+  {
+    "context": "The \"General Law of Linguistic Rights of the Indigenous Peoples\" grants all indigenous languages spoken in Mexico, regardless of the number of speakers, the same validity as Spanish in all territories in which they are spoken, and indigenous peoples are entitled to request some public services and documents in their native languages. Along with Spanish, the law has granted them \u2014 more than 60 languages \u2014 the status of \"national languages\". The law includes all indigenous languages of the Americas regardless of origin; that is, it includes the indigenous languages of ethnic groups non-native to the territory. As such the National Commission for the Development of Indigenous Peoples recognizes the language of the Kickapoo, who immigrated from the United States, and recognizes the languages of the Guatemalan indigenous refugees. The Mexican government has promoted and established bilingual primary and secondary education in some indigenous rural communities. Nonetheless, of the indigenous peoples in Mexico, only about 67% of them (or 5.4% of the country's population) speak an indigenous language and about a sixth do not speak Spanish (1.2% of the country's population).",
+    "original_question": "What grants all indigenous languages spoken in Mexico validity? ",
+    "variant": "What makes indigenous languages in Mexico officially recognized and respected?",
+    "expected_answer": "General Law of Linguistic Rights of the Indigenous Peoples",
+    "type": "variant"
+  },
+  {
+    "context": "The \"General Law of Linguistic Rights of the Indigenous Peoples\" grants all indigenous languages spoken in Mexico, regardless of the number of speakers, the same validity as Spanish in all territories in which they are spoken, and indigenous peoples are entitled to request some public services and documents in their native languages. Along with Spanish, the law has granted them \u2014 more than 60 languages \u2014 the status of \"national languages\". The law includes all indigenous languages of the Americas regardless of origin; that is, it includes the indigenous languages of ethnic groups non-native to the territory. As such the National Commission for the Development of Indigenous Peoples recognizes the language of the Kickapoo, who immigrated from the United States, and recognizes the languages of the Guatemalan indigenous refugees. The Mexican government has promoted and established bilingual primary and secondary education in some indigenous rural communities. Nonetheless, of the indigenous peoples in Mexico, only about 67% of them (or 5.4% of the country's population) speak an indigenous language and about a sixth do not speak Spanish (1.2% of the country's population).",
+    "original_question": "What grants all indigenous languages spoken in Mexico validity? ",
+    "variant": "From what sources does the authority for validating all indigenous languages in Mexico originate?",
+    "expected_answer": "General Law of Linguistic Rights of the Indigenous Peoples",
+    "type": "variant"
+  },
+  {
+    "context": "The \"General Law of Linguistic Rights of the Indigenous Peoples\" grants all indigenous languages spoken in Mexico, regardless of the number of speakers, the same validity as Spanish in all territories in which they are spoken, and indigenous peoples are entitled to request some public services and documents in their native languages. Along with Spanish, the law has granted them \u2014 more than 60 languages \u2014 the status of \"national languages\". The law includes all indigenous languages of the Americas regardless of origin; that is, it includes the indigenous languages of ethnic groups non-native to the territory. As such the National Commission for the Development of Indigenous Peoples recognizes the language of the Kickapoo, who immigrated from the United States, and recognizes the languages of the Guatemalan indigenous refugees. The Mexican government has promoted and established bilingual primary and secondary education in some indigenous rural communities. Nonetheless, of the indigenous peoples in Mexico, only about 67% of them (or 5.4% of the country's population) speak an indigenous language and about a sixth do not speak Spanish (1.2% of the country's population).",
+    "original_question": "What grants all indigenous languages spoken in Mexico validity? ",
+    "variant": "How has Mexico established the basis for acknowledging and valuing all its indigenous languages?",
+    "expected_answer": "General Law of Linguistic Rights of the Indigenous Peoples",
+    "type": "variant"
+  },
+  {
+    "context": "Rajasthan's economy is primarily agricultural and pastoral. Wheat and barley are cultivated over large areas, as are pulses, sugarcane, and oilseeds. Cotton and tobacco are the state's cash crops. Rajasthan is among the largest producers of edible oils in India and the second largest producer of oilseeds. Rajasthan is also the biggest wool-producing state in India and the main opium producer and consumer. There are mainly two crop seasons. The water for irrigation comes from wells and tanks. The Indira Gandhi Canal irrigates northwestern Rajasthan.",
+    "original_question": "How many crop seasons are there in Rajasthan?",
+    "variant": "How many crop seasons are there in Rajasthan?",
+    "expected_answer": "two crop seasons",
+    "type": "original"
+  },
+  {
+    "context": "Rajasthan's economy is primarily agricultural and pastoral. Wheat and barley are cultivated over large areas, as are pulses, sugarcane, and oilseeds. Cotton and tobacco are the state's cash crops. Rajasthan is among the largest producers of edible oils in India and the second largest producer of oilseeds. Rajasthan is also the biggest wool-producing state in India and the main opium producer and consumer. There are mainly two crop seasons. The water for irrigation comes from wells and tanks. The Indira Gandhi Canal irrigates northwestern Rajasthan.",
+    "original_question": "How many crop seasons are there in Rajasthan?",
+    "variant": ": \"Could you please specify the number of agricultural seasons observed in the state of Rajasthan, and perhaps a brief description of each?",
+    "expected_answer": "two crop seasons",
+    "type": "variant"
+  },
+  {
+    "context": "Rajasthan's economy is primarily agricultural and pastoral. Wheat and barley are cultivated over large areas, as are pulses, sugarcane, and oilseeds. Cotton and tobacco are the state's cash crops. Rajasthan is among the largest producers of edible oils in India and the second largest producer of oilseeds. Rajasthan is also the biggest wool-producing state in India and the main opium producer and consumer. There are mainly two crop seasons. The water for irrigation comes from wells and tanks. The Indira Gandhi Canal irrigates northwestern Rajasthan.",
+    "original_question": "How many crop seasons are there in Rajasthan?",
+    "variant": ": \"What is the number of crop seasons that occur annually in Rajasthan?",
+    "expected_answer": "two crop seasons",
+    "type": "variant"
+  },
+  {
+    "context": "Rajasthan's economy is primarily agricultural and pastoral. Wheat and barley are cultivated over large areas, as are pulses, sugarcane, and oilseeds. Cotton and tobacco are the state's cash crops. Rajasthan is among the largest producers of edible oils in India and the second largest producer of oilseeds. Rajasthan is also the biggest wool-producing state in India and the main opium producer and consumer. There are mainly two crop seasons. The water for irrigation comes from wells and tanks. The Indira Gandhi Canal irrigates northwestern Rajasthan.",
+    "original_question": "How many crop seasons are there in Rajasthan?",
+    "variant": ": \"How many different growing seasons do farmers typically experience in Rajasthan?",
+    "expected_answer": "two crop seasons",
+    "type": "variant"
+  },
+  {
+    "context": "Rajasthan's economy is primarily agricultural and pastoral. Wheat and barley are cultivated over large areas, as are pulses, sugarcane, and oilseeds. Cotton and tobacco are the state's cash crops. Rajasthan is among the largest producers of edible oils in India and the second largest producer of oilseeds. Rajasthan is also the biggest wool-producing state in India and the main opium producer and consumer. There are mainly two crop seasons. The water for irrigation comes from wells and tanks. The Indira Gandhi Canal irrigates northwestern Rajasthan.",
+    "original_question": "How many crop seasons are there in Rajasthan?",
+    "variant": ": \"I'm curious, how many times a year do crops get planted and harvested in Rajasthan?",
+    "expected_answer": "two crop seasons",
+    "type": "variant"
+  },
+  {
+    "context": "Rajasthan's economy is primarily agricultural and pastoral. Wheat and barley are cultivated over large areas, as are pulses, sugarcane, and oilseeds. Cotton and tobacco are the state's cash crops. Rajasthan is among the largest producers of edible oils in India and the second largest producer of oilseeds. Rajasthan is also the biggest wool-producing state in India and the main opium producer and consumer. There are mainly two crop seasons. The water for irrigation comes from wells and tanks. The Indira Gandhi Canal irrigates northwestern Rajasthan.",
+    "original_question": "How many crop seasons are there in Rajasthan?",
+    "variant": ": \"What's the number of crop seasons in Rajasthan?",
+    "expected_answer": "two crop seasons",
+    "type": "variant"
+  },
+  {
+    "context": "After centuries of Danish, Swedish and German rule the native Estonians started to yearn for independence during the period of national awakening while being governed by the Russian Empire. Established on 24 February 1918, the Republic of Estonia came into existence towards the end of World War I. During World War II, Estonia was then occupied by the Soviet Union in 1940, then Nazi Germany a year later and again in 1944 establishing the Estonian Soviet Socialist Republic. In 1988, during the Singing Revolution, the Estonian SSR issued the Estonian Sovereignty Declaration to defy against the illegal Soviet rule. Estonia then restored its independence during the 1991 coup by the Soviets on the night of 20 August 1991.",
+    "original_question": "When did Estonia start hoping for freedom?",
+    "variant": "When did Estonia start hoping for freedom?",
+    "expected_answer": "the period of national awakening",
+    "type": "original"
+  },
+  {
+    "context": "After centuries of Danish, Swedish and German rule the native Estonians started to yearn for independence during the period of national awakening while being governed by the Russian Empire. Established on 24 February 1918, the Republic of Estonia came into existence towards the end of World War I. During World War II, Estonia was then occupied by the Soviet Union in 1940, then Nazi Germany a year later and again in 1944 establishing the Estonian Soviet Socialist Republic. In 1988, during the Singing Revolution, the Estonian SSR issued the Estonian Sovereignty Declaration to defy against the illegal Soviet rule. Estonia then restored its independence during the 1991 coup by the Soviets on the night of 20 August 1991.",
+    "original_question": "When did Estonia start hoping for freedom?",
+    "variant": ": \"At what point in history did Estonians begin to desire independence?",
+    "expected_answer": "the period of national awakening",
+    "type": "variant"
+  },
+  {
+    "context": "After centuries of Danish, Swedish and German rule the native Estonians started to yearn for independence during the period of national awakening while being governed by the Russian Empire. Established on 24 February 1918, the Republic of Estonia came into existence towards the end of World War I. During World War II, Estonia was then occupied by the Soviet Union in 1940, then Nazi Germany a year later and again in 1944 establishing the Estonian Soviet Socialist Republic. In 1988, during the Singing Revolution, the Estonian SSR issued the Estonian Sovereignty Declaration to defy against the illegal Soviet rule. Estonia then restored its independence during the 1991 coup by the Soviets on the night of 20 August 1991.",
+    "original_question": "When did Estonia start hoping for freedom?",
+    "variant": ": \"When do historians say Estonians first started wishing for freedom from foreign rule?",
+    "expected_answer": "the period of national awakening",
+    "type": "variant"
+  },
+  {
+    "context": "After centuries of Danish, Swedish and German rule the native Estonians started to yearn for independence during the period of national awakening while being governed by the Russian Empire. Established on 24 February 1918, the Republic of Estonia came into existence towards the end of World War I. During World War II, Estonia was then occupied by the Soviet Union in 1940, then Nazi Germany a year later and again in 1944 establishing the Estonian Soviet Socialist Republic. In 1988, during the Singing Revolution, the Estonian SSR issued the Estonian Sovereignty Declaration to defy against the illegal Soviet rule. Estonia then restored its independence during the 1991 coup by the Soviets on the night of 20 August 1991.",
+    "original_question": "When did Estonia start hoping for freedom?",
+    "variant": ": \"What event or period marked the beginning of Estonia's hope for self-determination?",
+    "expected_answer": "the period of national awakening",
+    "type": "variant"
+  },
+  {
+    "context": "After centuries of Danish, Swedish and German rule the native Estonians started to yearn for independence during the period of national awakening while being governed by the Russian Empire. Established on 24 February 1918, the Republic of Estonia came into existence towards the end of World War I. During World War II, Estonia was then occupied by the Soviet Union in 1940, then Nazi Germany a year later and again in 1944 establishing the Estonian Soviet Socialist Republic. In 1988, during the Singing Revolution, the Estonian SSR issued the Estonian Sovereignty Declaration to defy against the illegal Soviet rule. Estonia then restored its independence during the 1991 coup by the Soviets on the night of 20 August 1991.",
+    "original_question": "When did Estonia start hoping for freedom?",
+    "variant": ": \"Can you tell me about the earliest signs of Estonian aspirations for freedom?",
+    "expected_answer": "the period of national awakening",
+    "type": "variant"
+  },
+  {
+    "context": "After centuries of Danish, Swedish and German rule the native Estonians started to yearn for independence during the period of national awakening while being governed by the Russian Empire. Established on 24 February 1918, the Republic of Estonia came into existence towards the end of World War I. During World War II, Estonia was then occupied by the Soviet Union in 1940, then Nazi Germany a year later and again in 1944 establishing the Estonian Soviet Socialist Republic. In 1988, during the Singing Revolution, the Estonian SSR issued the Estonian Sovereignty Declaration to defy against the illegal Soviet rule. Estonia then restored its independence during the 1991 coup by the Soviets on the night of 20 August 1991.",
+    "original_question": "When did Estonia start hoping for freedom?",
+    "variant": ": \"Around what time did Estonians begin to dream of being free?",
+    "expected_answer": "the period of national awakening",
+    "type": "variant"
+  },
+  {
+    "context": "In the dicotyledons, the bundles in the very young stem are arranged in an open ring, separating a central pith from an outer cortex. In each bundle, separating the xylem and phloem, is a layer of meristem or active formative tissue known as cambium. By the formation of a layer of cambium between the bundles (interfascicular cambium), a complete ring is formed, and a regular periodical increase in thickness results from the development of xylem on the inside and phloem on the outside. The soft phloem becomes crushed, but the hard wood persists and forms the bulk of the stem and branches of the woody perennial. Owing to differences in the character of the elements produced at the beginning and end of the season, the wood is marked out in transverse section into concentric rings, one for each season of growth, called annual rings.",
+    "original_question": "What's another name for the concentric rings in trees?",
+    "variant": "What's another name for the concentric rings in trees?",
+    "expected_answer": "annual rings",
+    "type": "original"
+  },
+  {
+    "context": "In the dicotyledons, the bundles in the very young stem are arranged in an open ring, separating a central pith from an outer cortex. In each bundle, separating the xylem and phloem, is a layer of meristem or active formative tissue known as cambium. By the formation of a layer of cambium between the bundles (interfascicular cambium), a complete ring is formed, and a regular periodical increase in thickness results from the development of xylem on the inside and phloem on the outside. The soft phloem becomes crushed, but the hard wood persists and forms the bulk of the stem and branches of the woody perennial. Owing to differences in the character of the elements produced at the beginning and end of the season, the wood is marked out in transverse section into concentric rings, one for each season of growth, called annual rings.",
+    "original_question": "What's another name for the concentric rings in trees?",
+    "variant": "\"What is the technical term for the growth rings you see when you look at a tree's cross-section?",
+    "expected_answer": "annual rings",
+    "type": "variant"
+  },
+  {
+    "context": "In the dicotyledons, the bundles in the very young stem are arranged in an open ring, separating a central pith from an outer cortex. In each bundle, separating the xylem and phloem, is a layer of meristem or active formative tissue known as cambium. By the formation of a layer of cambium between the bundles (interfascicular cambium), a complete ring is formed, and a regular periodical increase in thickness results from the development of xylem on the inside and phloem on the outside. The soft phloem becomes crushed, but the hard wood persists and forms the bulk of the stem and branches of the woody perennial. Owing to differences in the character of the elements produced at the beginning and end of the season, the wood is marked out in transverse section into concentric rings, one for each season of growth, called annual rings.",
+    "original_question": "What's another name for the concentric rings in trees?",
+    "variant": "\"Besides 'growth rings,' what else do people call the circles you see inside a tree trunk?",
+    "expected_answer": "annual rings",
+    "type": "variant"
+  },
+  {
+    "context": "In the dicotyledons, the bundles in the very young stem are arranged in an open ring, separating a central pith from an outer cortex. In each bundle, separating the xylem and phloem, is a layer of meristem or active formative tissue known as cambium. By the formation of a layer of cambium between the bundles (interfascicular cambium), a complete ring is formed, and a regular periodical increase in thickness results from the development of xylem on the inside and phloem on the outside. The soft phloem becomes crushed, but the hard wood persists and forms the bulk of the stem and branches of the woody perennial. Owing to differences in the character of the elements produced at the beginning and end of the season, the wood is marked out in transverse section into concentric rings, one for each season of growth, called annual rings.",
+    "original_question": "What's another name for the concentric rings in trees?",
+    "variant": "\"I know those rings inside a tree show its age, but what's that term people use for them besides 'rings'?",
+    "expected_answer": "annual rings",
+    "type": "variant"
+  },
+  {
+    "context": "In the dicotyledons, the bundles in the very young stem are arranged in an open ring, separating a central pith from an outer cortex. In each bundle, separating the xylem and phloem, is a layer of meristem or active formative tissue known as cambium. By the formation of a layer of cambium between the bundles (interfascicular cambium), a complete ring is formed, and a regular periodical increase in thickness results from the development of xylem on the inside and phloem on the outside. The soft phloem becomes crushed, but the hard wood persists and forms the bulk of the stem and branches of the woody perennial. Owing to differences in the character of the elements produced at the beginning and end of the season, the wood is marked out in transverse section into concentric rings, one for each season of growth, called annual rings.",
+    "original_question": "What's another name for the concentric rings in trees?",
+    "variant": "\"What do you call those circles inside a tree?",
+    "expected_answer": "annual rings",
+    "type": "variant"
+  },
+  {
+    "context": "In the dicotyledons, the bundles in the very young stem are arranged in an open ring, separating a central pith from an outer cortex. In each bundle, separating the xylem and phloem, is a layer of meristem or active formative tissue known as cambium. By the formation of a layer of cambium between the bundles (interfascicular cambium), a complete ring is formed, and a regular periodical increase in thickness results from the development of xylem on the inside and phloem on the outside. The soft phloem becomes crushed, but the hard wood persists and forms the bulk of the stem and branches of the woody perennial. Owing to differences in the character of the elements produced at the beginning and end of the season, the wood is marked out in transverse section into concentric rings, one for each season of growth, called annual rings.",
+    "original_question": "What's another name for the concentric rings in trees?",
+    "variant": "\"What's the scientific name for the patterns that show a tree's yearly growth?",
+    "expected_answer": "annual rings",
+    "type": "variant"
+  },
+  {
+    "context": "On December 21, 1968, Frank Borman, James Lovell, and William Anders became the first humans to ride the Saturn V rocket into space on Apollo 8. They also became the first to leave low-Earth orbit and go to another celestial body, and entered lunar orbit on December 24. They made ten orbits in twenty hours, and transmitted one of the most watched TV broadcasts in history, with their Christmas Eve program from lunar orbit, that concluded with a reading from the biblical Book of Genesis. Two and a half hours after the broadcast, they fired their engine to perform the first trans-Earth injection to leave lunar orbit and return to the Earth. Apollo 8 safely landed in the Pacific ocean on December 27, in NASA's first dawn splashdown and recovery.",
+    "original_question": "Which three people were the first to ride the Saturn V rocket into space?",
+    "variant": "Which three people were the first to ride the Saturn V rocket into space?",
+    "expected_answer": "Frank Borman, James Lovell, and William Anders",
+    "type": "original"
+  },
+  {
+    "context": "On December 21, 1968, Frank Borman, James Lovell, and William Anders became the first humans to ride the Saturn V rocket into space on Apollo 8. They also became the first to leave low-Earth orbit and go to another celestial body, and entered lunar orbit on December 24. They made ten orbits in twenty hours, and transmitted one of the most watched TV broadcasts in history, with their Christmas Eve program from lunar orbit, that concluded with a reading from the biblical Book of Genesis. Two and a half hours after the broadcast, they fired their engine to perform the first trans-Earth injection to leave lunar orbit and return to the Earth. Apollo 8 safely landed in the Pacific ocean on December 27, in NASA's first dawn splashdown and recovery.",
+    "original_question": "Which three people were the first to ride the Saturn V rocket into space?",
+    "variant": "Could you please identify the three astronauts who comprised the crew of the first manned mission utilizing the Saturn V rocket?",
+    "expected_answer": "Frank Borman, James Lovell, and William Anders",
+    "type": "variant"
+  },
+  {
+    "context": "On December 21, 1968, Frank Borman, James Lovell, and William Anders became the first humans to ride the Saturn V rocket into space on Apollo 8. They also became the first to leave low-Earth orbit and go to another celestial body, and entered lunar orbit on December 24. They made ten orbits in twenty hours, and transmitted one of the most watched TV broadcasts in history, with their Christmas Eve program from lunar orbit, that concluded with a reading from the biblical Book of Genesis. Two and a half hours after the broadcast, they fired their engine to perform the first trans-Earth injection to leave lunar orbit and return to the Earth. Apollo 8 safely landed in the Pacific ocean on December 27, in NASA's first dawn splashdown and recovery.",
+    "original_question": "Which three people were the first to ride the Saturn V rocket into space?",
+    "variant": "Who were the three astronauts aboard the Saturn V rocket for its first human spaceflight?",
+    "expected_answer": "Frank Borman, James Lovell, and William Anders",
+    "type": "variant"
+  },
+  {
+    "context": "On December 21, 1968, Frank Borman, James Lovell, and William Anders became the first humans to ride the Saturn V rocket into space on Apollo 8. They also became the first to leave low-Earth orbit and go to another celestial body, and entered lunar orbit on December 24. They made ten orbits in twenty hours, and transmitted one of the most watched TV broadcasts in history, with their Christmas Eve program from lunar orbit, that concluded with a reading from the biblical Book of Genesis. Two and a half hours after the broadcast, they fired their engine to perform the first trans-Earth injection to leave lunar orbit and return to the Earth. Apollo 8 safely landed in the Pacific ocean on December 27, in NASA's first dawn splashdown and recovery.",
+    "original_question": "Which three people were the first to ride the Saturn V rocket into space?",
+    "variant": "What were the names of the three individuals who first journeyed into space on the Saturn V rocket?",
+    "expected_answer": "Frank Borman, James Lovell, and William Anders",
+    "type": "variant"
+  },
+  {
+    "context": "On December 21, 1968, Frank Borman, James Lovell, and William Anders became the first humans to ride the Saturn V rocket into space on Apollo 8. They also became the first to leave low-Earth orbit and go to another celestial body, and entered lunar orbit on December 24. They made ten orbits in twenty hours, and transmitted one of the most watched TV broadcasts in history, with their Christmas Eve program from lunar orbit, that concluded with a reading from the biblical Book of Genesis. Two and a half hours after the broadcast, they fired their engine to perform the first trans-Earth injection to leave lunar orbit and return to the Earth. Apollo 8 safely landed in the Pacific ocean on December 27, in NASA's first dawn splashdown and recovery.",
+    "original_question": "Which three people were the first to ride the Saturn V rocket into space?",
+    "variant": "What was the crew of the Apollo 11 mission, which was the first to use the Saturn V rocket?",
+    "expected_answer": "Frank Borman, James Lovell, and William Anders",
+    "type": "variant"
+  },
+  {
+    "context": "On December 21, 1968, Frank Borman, James Lovell, and William Anders became the first humans to ride the Saturn V rocket into space on Apollo 8. They also became the first to leave low-Earth orbit and go to another celestial body, and entered lunar orbit on December 24. They made ten orbits in twenty hours, and transmitted one of the most watched TV broadcasts in history, with their Christmas Eve program from lunar orbit, that concluded with a reading from the biblical Book of Genesis. Two and a half hours after the broadcast, they fired their engine to perform the first trans-Earth injection to leave lunar orbit and return to the Earth. Apollo 8 safely landed in the Pacific ocean on December 27, in NASA's first dawn splashdown and recovery.",
+    "original_question": "Which three people were the first to ride the Saturn V rocket into space?",
+    "variant": "Who were the first three people to fly on the Saturn V rocket?",
+    "expected_answer": "Frank Borman, James Lovell, and William Anders",
+    "type": "variant"
+  },
+  {
+    "context": "IMF's forecast said that Greece's unemployment rate would hit the highest 14.8 percent in 2012 and decrease to 14.1 in 2014.  But in fact, the Greek economy suffered a prolonged high unemployemnt. The unemployment figure was between 9 per cent and 11 per cent in 2009, and it soared to 28 per cent in 2013. In 2015, Greece's jobless rate is around 24 per cent. It is thought that Greece's potential output has been eroded by this prolonged massive unemployment due to the associated hysteresis effects.",
+    "original_question": "What was Greece's unemployment rate between in 2009?",
+    "variant": "What was Greece's unemployment rate between in 2009?",
+    "expected_answer": "9 per cent and 11 per cent",
+    "type": "original"
+  },
+  {
+    "context": "IMF's forecast said that Greece's unemployment rate would hit the highest 14.8 percent in 2012 and decrease to 14.1 in 2014.  But in fact, the Greek economy suffered a prolonged high unemployemnt. The unemployment figure was between 9 per cent and 11 per cent in 2009, and it soared to 28 per cent in 2013. In 2015, Greece's jobless rate is around 24 per cent. It is thought that Greece's potential output has been eroded by this prolonged massive unemployment due to the associated hysteresis effects.",
+    "original_question": "What was Greece's unemployment rate between in 2009?",
+    "variant": ": \"Could you please provide the unemployment rate for Greece in 2009?",
+    "expected_answer": "9 per cent and 11 per cent",
+    "type": "variant"
+  },
+  {
+    "context": "IMF's forecast said that Greece's unemployment rate would hit the highest 14.8 percent in 2012 and decrease to 14.1 in 2014.  But in fact, the Greek economy suffered a prolonged high unemployemnt. The unemployment figure was between 9 per cent and 11 per cent in 2009, and it soared to 28 per cent in 2013. In 2015, Greece's jobless rate is around 24 per cent. It is thought that Greece's potential output has been eroded by this prolonged massive unemployment due to the associated hysteresis effects.",
+    "original_question": "What was Greece's unemployment rate between in 2009?",
+    "variant": ": \"What was the unemployment rate in Greece during 2009?",
+    "expected_answer": "9 per cent and 11 per cent",
+    "type": "variant"
+  },
+  {
+    "context": "IMF's forecast said that Greece's unemployment rate would hit the highest 14.8 percent in 2012 and decrease to 14.1 in 2014.  But in fact, the Greek economy suffered a prolonged high unemployemnt. The unemployment figure was between 9 per cent and 11 per cent in 2009, and it soared to 28 per cent in 2013. In 2015, Greece's jobless rate is around 24 per cent. It is thought that Greece's potential output has been eroded by this prolonged massive unemployment due to the associated hysteresis effects.",
+    "original_question": "What was Greece's unemployment rate between in 2009?",
+    "variant": ": \"Do you know what Greece's unemployment rate was back in 2009?",
+    "expected_answer": "9 per cent and 11 per cent",
+    "type": "variant"
+  },
+  {
+    "context": "IMF's forecast said that Greece's unemployment rate would hit the highest 14.8 percent in 2012 and decrease to 14.1 in 2014.  But in fact, the Greek economy suffered a prolonged high unemployemnt. The unemployment figure was between 9 per cent and 11 per cent in 2009, and it soared to 28 per cent in 2013. In 2015, Greece's jobless rate is around 24 per cent. It is thought that Greece's potential output has been eroded by this prolonged massive unemployment due to the associated hysteresis effects.",
+    "original_question": "What was Greece's unemployment rate between in 2009?",
+    "variant": ": \"What was the unemployment rate in Greece around 2009, specifically?\".",
+    "expected_answer": "9 per cent and 11 per cent",
+    "type": "variant"
+  },
+  {
+    "context": "IMF's forecast said that Greece's unemployment rate would hit the highest 14.8 percent in 2012 and decrease to 14.1 in 2014.  But in fact, the Greek economy suffered a prolonged high unemployemnt. The unemployment figure was between 9 per cent and 11 per cent in 2009, and it soared to 28 per cent in 2013. In 2015, Greece's jobless rate is around 24 per cent. It is thought that Greece's potential output has been eroded by this prolonged massive unemployment due to the associated hysteresis effects.",
+    "original_question": "What was Greece's unemployment rate between in 2009?",
+    "variant": ": \"I'm researching the economic situation in Greece. Can you tell me what the unemployment rate was like in 2009?",
+    "expected_answer": "9 per cent and 11 per cent",
+    "type": "variant"
+  },
+  {
+    "context": "As sun-god and god of light, Apollo was also known by the epithets Aegletes (/\u0259\u02c8\u0261li\u02d0ti\u02d0z/ \u0259-GLEE-teez; \u0391\u1f30\u03b3\u03bb\u03ae\u03c4\u03b7\u03c2, Aigl\u0113t\u0113s, from \u03b1\u1f34\u03b3\u03bb\u03b7, \"light of the sun\"), Helius (/\u02c8hi\u02d0li\u0259s/ HEE-lee-\u0259s; \u1f2d\u03bb\u03b9\u03bf\u03c2, Helios, literally \"sun\"), Phanaeus (/f\u0259\u02c8ni\u02d0\u0259s/ f\u0259-NEE-\u0259s; \u03a6\u03b1\u03bd\u03b1\u1fd6\u03bf\u03c2, Phanaios, literally \"giving or bringing light\"), and Lyceus (/la\u026a\u02c8si\u02d0\u0259s/ ly-SEE-\u0259s; \u039b\u03cd\u03ba\u03b5\u03b9\u03bf\u03c2, Lykeios, from Proto-Greek *\u03bb\u03cd\u03ba\u03b7, \"light\"). The meaning of the epithet \"Lyceus\" later became associated with Apollo's mother Leto, who was the patron goddess of Lycia (\u039b\u03c5\u03ba\u03af\u03b1) and who was identified with the wolf (\u03bb\u03cd\u03ba\u03bf\u03c2), earning him the epithets Lycegenes (/la\u026a\u02c8s\u025bd\u0292\u0259ni\u02d0z/ ly-SEJ-\u0259-neez; \u039b\u03c5\u03ba\u03b7\u03b3\u03b5\u03bd\u03ae\u03c2, Luk\u0113gen\u0113s, literally \"born of a wolf\" or \"born of Lycia\") and Lycoctonus (/la\u026a\u02c8k\u0252kt\u0259n\u0259s/ ly-KOK-t\u0259-n\u0259s; \u039b\u03c5\u03ba\u03bf\u03ba\u03c4\u03cc\u03bd\u03bf\u03c2, Lykoktonos, from \u03bb\u03cd\u03ba\u03bf\u03c2, \"wolf\", and \u03ba\u03c4\u03b5\u03af\u03bd\u03b5\u03b9\u03bd, \"to kill\"). As god of the sun, Apollo was called Sol (/\u02c8s\u0252l/ SOL, literally \"sun\" in Latin) by the Romans.",
+    "original_question": "Who was the patron goddess of Lycia?",
+    "variant": "Who was the patron goddess of Lycia?",
+    "expected_answer": "Leto",
+    "type": "original"
+  },
+  {
+    "context": "As sun-god and god of light, Apollo was also known by the epithets Aegletes (/\u0259\u02c8\u0261li\u02d0ti\u02d0z/ \u0259-GLEE-teez; \u0391\u1f30\u03b3\u03bb\u03ae\u03c4\u03b7\u03c2, Aigl\u0113t\u0113s, from \u03b1\u1f34\u03b3\u03bb\u03b7, \"light of the sun\"), Helius (/\u02c8hi\u02d0li\u0259s/ HEE-lee-\u0259s; \u1f2d\u03bb\u03b9\u03bf\u03c2, Helios, literally \"sun\"), Phanaeus (/f\u0259\u02c8ni\u02d0\u0259s/ f\u0259-NEE-\u0259s; \u03a6\u03b1\u03bd\u03b1\u1fd6\u03bf\u03c2, Phanaios, literally \"giving or bringing light\"), and Lyceus (/la\u026a\u02c8si\u02d0\u0259s/ ly-SEE-\u0259s; \u039b\u03cd\u03ba\u03b5\u03b9\u03bf\u03c2, Lykeios, from Proto-Greek *\u03bb\u03cd\u03ba\u03b7, \"light\"). The meaning of the epithet \"Lyceus\" later became associated with Apollo's mother Leto, who was the patron goddess of Lycia (\u039b\u03c5\u03ba\u03af\u03b1) and who was identified with the wolf (\u03bb\u03cd\u03ba\u03bf\u03c2), earning him the epithets Lycegenes (/la\u026a\u02c8s\u025bd\u0292\u0259ni\u02d0z/ ly-SEJ-\u0259-neez; \u039b\u03c5\u03ba\u03b7\u03b3\u03b5\u03bd\u03ae\u03c2, Luk\u0113gen\u0113s, literally \"born of a wolf\" or \"born of Lycia\") and Lycoctonus (/la\u026a\u02c8k\u0252kt\u0259n\u0259s/ ly-KOK-t\u0259-n\u0259s; \u039b\u03c5\u03ba\u03bf\u03ba\u03c4\u03cc\u03bd\u03bf\u03c2, Lykoktonos, from \u03bb\u03cd\u03ba\u03bf\u03c2, \"wolf\", and \u03ba\u03c4\u03b5\u03af\u03bd\u03b5\u03b9\u03bd, \"to kill\"). As god of the sun, Apollo was called Sol (/\u02c8s\u0252l/ SOL, literally \"sun\" in Latin) by the Romans.",
+    "original_question": "Who was the patron goddess of Lycia?",
+    "variant": "Which deity served as the patron goddess of ancient Lycia?",
+    "expected_answer": "Leto",
+    "type": "variant"
+  },
+  {
+    "context": "As sun-god and god of light, Apollo was also known by the epithets Aegletes (/\u0259\u02c8\u0261li\u02d0ti\u02d0z/ \u0259-GLEE-teez; \u0391\u1f30\u03b3\u03bb\u03ae\u03c4\u03b7\u03c2, Aigl\u0113t\u0113s, from \u03b1\u1f34\u03b3\u03bb\u03b7, \"light of the sun\"), Helius (/\u02c8hi\u02d0li\u0259s/ HEE-lee-\u0259s; \u1f2d\u03bb\u03b9\u03bf\u03c2, Helios, literally \"sun\"), Phanaeus (/f\u0259\u02c8ni\u02d0\u0259s/ f\u0259-NEE-\u0259s; \u03a6\u03b1\u03bd\u03b1\u1fd6\u03bf\u03c2, Phanaios, literally \"giving or bringing light\"), and Lyceus (/la\u026a\u02c8si\u02d0\u0259s/ ly-SEE-\u0259s; \u039b\u03cd\u03ba\u03b5\u03b9\u03bf\u03c2, Lykeios, from Proto-Greek *\u03bb\u03cd\u03ba\u03b7, \"light\"). The meaning of the epithet \"Lyceus\" later became associated with Apollo's mother Leto, who was the patron goddess of Lycia (\u039b\u03c5\u03ba\u03af\u03b1) and who was identified with the wolf (\u03bb\u03cd\u03ba\u03bf\u03c2), earning him the epithets Lycegenes (/la\u026a\u02c8s\u025bd\u0292\u0259ni\u02d0z/ ly-SEJ-\u0259-neez; \u039b\u03c5\u03ba\u03b7\u03b3\u03b5\u03bd\u03ae\u03c2, Luk\u0113gen\u0113s, literally \"born of a wolf\" or \"born of Lycia\") and Lycoctonus (/la\u026a\u02c8k\u0252kt\u0259n\u0259s/ ly-KOK-t\u0259-n\u0259s; \u039b\u03c5\u03ba\u03bf\u03ba\u03c4\u03cc\u03bd\u03bf\u03c2, Lykoktonos, from \u03bb\u03cd\u03ba\u03bf\u03c2, \"wolf\", and \u03ba\u03c4\u03b5\u03af\u03bd\u03b5\u03b9\u03bd, \"to kill\"). As god of the sun, Apollo was called Sol (/\u02c8s\u0252l/ SOL, literally \"sun\" in Latin) by the Romans.",
+    "original_question": "Who was the patron goddess of Lycia?",
+    "variant": "Can you tell me who the main goddess was for the region of Lycia?",
+    "expected_answer": "Leto",
+    "type": "variant"
+  },
+  {
+    "context": "As sun-god and god of light, Apollo was also known by the epithets Aegletes (/\u0259\u02c8\u0261li\u02d0ti\u02d0z/ \u0259-GLEE-teez; \u0391\u1f30\u03b3\u03bb\u03ae\u03c4\u03b7\u03c2, Aigl\u0113t\u0113s, from \u03b1\u1f34\u03b3\u03bb\u03b7, \"light of the sun\"), Helius (/\u02c8hi\u02d0li\u0259s/ HEE-lee-\u0259s; \u1f2d\u03bb\u03b9\u03bf\u03c2, Helios, literally \"sun\"), Phanaeus (/f\u0259\u02c8ni\u02d0\u0259s/ f\u0259-NEE-\u0259s; \u03a6\u03b1\u03bd\u03b1\u1fd6\u03bf\u03c2, Phanaios, literally \"giving or bringing light\"), and Lyceus (/la\u026a\u02c8si\u02d0\u0259s/ ly-SEE-\u0259s; \u039b\u03cd\u03ba\u03b5\u03b9\u03bf\u03c2, Lykeios, from Proto-Greek *\u03bb\u03cd\u03ba\u03b7, \"light\"). The meaning of the epithet \"Lyceus\" later became associated with Apollo's mother Leto, who was the patron goddess of Lycia (\u039b\u03c5\u03ba\u03af\u03b1) and who was identified with the wolf (\u03bb\u03cd\u03ba\u03bf\u03c2), earning him the epithets Lycegenes (/la\u026a\u02c8s\u025bd\u0292\u0259ni\u02d0z/ ly-SEJ-\u0259-neez; \u039b\u03c5\u03ba\u03b7\u03b3\u03b5\u03bd\u03ae\u03c2, Luk\u0113gen\u0113s, literally \"born of a wolf\" or \"born of Lycia\") and Lycoctonus (/la\u026a\u02c8k\u0252kt\u0259n\u0259s/ ly-KOK-t\u0259-n\u0259s; \u039b\u03c5\u03ba\u03bf\u03ba\u03c4\u03cc\u03bd\u03bf\u03c2, Lykoktonos, from \u03bb\u03cd\u03ba\u03bf\u03c2, \"wolf\", and \u03ba\u03c4\u03b5\u03af\u03bd\u03b5\u03b9\u03bd, \"to kill\"). As god of the sun, Apollo was called Sol (/\u02c8s\u0252l/ SOL, literally \"sun\" in Latin) by the Romans.",
+    "original_question": "Who was the patron goddess of Lycia?",
+    "variant": "What goddess did the people of Lycia consider their protector?",
+    "expected_answer": "Leto",
+    "type": "variant"
+  },
+  {
+    "context": "As sun-god and god of light, Apollo was also known by the epithets Aegletes (/\u0259\u02c8\u0261li\u02d0ti\u02d0z/ \u0259-GLEE-teez; \u0391\u1f30\u03b3\u03bb\u03ae\u03c4\u03b7\u03c2, Aigl\u0113t\u0113s, from \u03b1\u1f34\u03b3\u03bb\u03b7, \"light of the sun\"), Helius (/\u02c8hi\u02d0li\u0259s/ HEE-lee-\u0259s; \u1f2d\u03bb\u03b9\u03bf\u03c2, Helios, literally \"sun\"), Phanaeus (/f\u0259\u02c8ni\u02d0\u0259s/ f\u0259-NEE-\u0259s; \u03a6\u03b1\u03bd\u03b1\u1fd6\u03bf\u03c2, Phanaios, literally \"giving or bringing light\"), and Lyceus (/la\u026a\u02c8si\u02d0\u0259s/ ly-SEE-\u0259s; \u039b\u03cd\u03ba\u03b5\u03b9\u03bf\u03c2, Lykeios, from Proto-Greek *\u03bb\u03cd\u03ba\u03b7, \"light\"). The meaning of the epithet \"Lyceus\" later became associated with Apollo's mother Leto, who was the patron goddess of Lycia (\u039b\u03c5\u03ba\u03af\u03b1) and who was identified with the wolf (\u03bb\u03cd\u03ba\u03bf\u03c2), earning him the epithets Lycegenes (/la\u026a\u02c8s\u025bd\u0292\u0259ni\u02d0z/ ly-SEJ-\u0259-neez; \u039b\u03c5\u03ba\u03b7\u03b3\u03b5\u03bd\u03ae\u03c2, Luk\u0113gen\u0113s, literally \"born of a wolf\" or \"born of Lycia\") and Lycoctonus (/la\u026a\u02c8k\u0252kt\u0259n\u0259s/ ly-KOK-t\u0259-n\u0259s; \u039b\u03c5\u03ba\u03bf\u03ba\u03c4\u03cc\u03bd\u03bf\u03c2, Lykoktonos, from \u03bb\u03cd\u03ba\u03bf\u03c2, \"wolf\", and \u03ba\u03c4\u03b5\u03af\u03bd\u03b5\u03b9\u03bd, \"to kill\"). As god of the sun, Apollo was called Sol (/\u02c8s\u0252l/ SOL, literally \"sun\" in Latin) by the Romans.",
+    "original_question": "Who was the patron goddess of Lycia?",
+    "variant": "I'm researching Lycia \u2013 what goddess held a prominent role in their religious beliefs?",
+    "expected_answer": "Leto",
+    "type": "variant"
+  },
+  {
+    "context": "As sun-god and god of light, Apollo was also known by the epithets Aegletes (/\u0259\u02c8\u0261li\u02d0ti\u02d0z/ \u0259-GLEE-teez; \u0391\u1f30\u03b3\u03bb\u03ae\u03c4\u03b7\u03c2, Aigl\u0113t\u0113s, from \u03b1\u1f34\u03b3\u03bb\u03b7, \"light of the sun\"), Helius (/\u02c8hi\u02d0li\u0259s/ HEE-lee-\u0259s; \u1f2d\u03bb\u03b9\u03bf\u03c2, Helios, literally \"sun\"), Phanaeus (/f\u0259\u02c8ni\u02d0\u0259s/ f\u0259-NEE-\u0259s; \u03a6\u03b1\u03bd\u03b1\u1fd6\u03bf\u03c2, Phanaios, literally \"giving or bringing light\"), and Lyceus (/la\u026a\u02c8si\u02d0\u0259s/ ly-SEE-\u0259s; \u039b\u03cd\u03ba\u03b5\u03b9\u03bf\u03c2, Lykeios, from Proto-Greek *\u03bb\u03cd\u03ba\u03b7, \"light\"). The meaning of the epithet \"Lyceus\" later became associated with Apollo's mother Leto, who was the patron goddess of Lycia (\u039b\u03c5\u03ba\u03af\u03b1) and who was identified with the wolf (\u03bb\u03cd\u03ba\u03bf\u03c2), earning him the epithets Lycegenes (/la\u026a\u02c8s\u025bd\u0292\u0259ni\u02d0z/ ly-SEJ-\u0259-neez; \u039b\u03c5\u03ba\u03b7\u03b3\u03b5\u03bd\u03ae\u03c2, Luk\u0113gen\u0113s, literally \"born of a wolf\" or \"born of Lycia\") and Lycoctonus (/la\u026a\u02c8k\u0252kt\u0259n\u0259s/ ly-KOK-t\u0259-n\u0259s; \u039b\u03c5\u03ba\u03bf\u03ba\u03c4\u03cc\u03bd\u03bf\u03c2, Lykoktonos, from \u03bb\u03cd\u03ba\u03bf\u03c2, \"wolf\", and \u03ba\u03c4\u03b5\u03af\u03bd\u03b5\u03b9\u03bd, \"to kill\"). As god of the sun, Apollo was called Sol (/\u02c8s\u0252l/ SOL, literally \"sun\" in Latin) by the Romans.",
+    "original_question": "Who was the patron goddess of Lycia?",
+    "variant": "Who was the most important goddess in Lycia?",
+    "expected_answer": "Leto",
+    "type": "variant"
+  },
+  {
+    "context": "There are over three thousand islands along the rugged coastline of Zhejiang. The largest, Zhoushan Island, is Mainland China's third largest island, after Hainan and Chongming. There are also many bays, of which Hangzhou Bay is the largest.  Zhejiang has a humid subtropical climate with four distinct seasons. Spring starts in March and is rainy with changeable weather. Summer, from June to September is long, hot, rainy, and humid. Fall is generally dry, warm and sunny. Winters are short but cold except in the far south. Average annual temperature is around 15 to 19 \u00b0C (59 to 66 \u00b0F), average January temperature is around 2 to 8 \u00b0C (36 to 46 \u00b0F) and average July temperature is around 27 to 30 \u00b0C (81 to 86 \u00b0F). Annual precipitation is about 1,000 to 1,900 mm (39 to 75 in). There is plenty of rainfall in early summer, and by late summer Zhejiang is directly threatened by typhoons forming in the Pacific.",
+    "original_question": "What is the largest bay of Zhejiang?",
+    "variant": "What is the largest bay of Zhejiang?",
+    "expected_answer": "Hangzhou Bay",
+    "type": "original"
+  },
+  {
+    "context": "There are over three thousand islands along the rugged coastline of Zhejiang. The largest, Zhoushan Island, is Mainland China's third largest island, after Hainan and Chongming. There are also many bays, of which Hangzhou Bay is the largest.  Zhejiang has a humid subtropical climate with four distinct seasons. Spring starts in March and is rainy with changeable weather. Summer, from June to September is long, hot, rainy, and humid. Fall is generally dry, warm and sunny. Winters are short but cold except in the far south. Average annual temperature is around 15 to 19 \u00b0C (59 to 66 \u00b0F), average January temperature is around 2 to 8 \u00b0C (36 to 46 \u00b0F) and average July temperature is around 27 to 30 \u00b0C (81 to 86 \u00b0F). Annual precipitation is about 1,000 to 1,900 mm (39 to 75 in). There is plenty of rainfall in early summer, and by late summer Zhejiang is directly threatened by typhoons forming in the Pacific.",
+    "original_question": "What is the largest bay of Zhejiang?",
+    "variant": "Could you identify the largest bay located within the Zhejiang province?",
+    "expected_answer": "Hangzhou Bay",
+    "type": "variant"
+  },
+  {
+    "context": "There are over three thousand islands along the rugged coastline of Zhejiang. The largest, Zhoushan Island, is Mainland China's third largest island, after Hainan and Chongming. There are also many bays, of which Hangzhou Bay is the largest.  Zhejiang has a humid subtropical climate with four distinct seasons. Spring starts in March and is rainy with changeable weather. Summer, from June to September is long, hot, rainy, and humid. Fall is generally dry, warm and sunny. Winters are short but cold except in the far south. Average annual temperature is around 15 to 19 \u00b0C (59 to 66 \u00b0F), average January temperature is around 2 to 8 \u00b0C (36 to 46 \u00b0F) and average July temperature is around 27 to 30 \u00b0C (81 to 86 \u00b0F). Annual precipitation is about 1,000 to 1,900 mm (39 to 75 in). There is plenty of rainfall in early summer, and by late summer Zhejiang is directly threatened by typhoons forming in the Pacific.",
+    "original_question": "What is the largest bay of Zhejiang?",
+    "variant": "What bay in Zhejiang is the largest?",
+    "expected_answer": "Hangzhou Bay",
+    "type": "variant"
+  },
+  {
+    "context": "There are over three thousand islands along the rugged coastline of Zhejiang. The largest, Zhoushan Island, is Mainland China's third largest island, after Hainan and Chongming. There are also many bays, of which Hangzhou Bay is the largest.  Zhejiang has a humid subtropical climate with four distinct seasons. Spring starts in March and is rainy with changeable weather. Summer, from June to September is long, hot, rainy, and humid. Fall is generally dry, warm and sunny. Winters are short but cold except in the far south. Average annual temperature is around 15 to 19 \u00b0C (59 to 66 \u00b0F), average January temperature is around 2 to 8 \u00b0C (36 to 46 \u00b0F) and average July temperature is around 27 to 30 \u00b0C (81 to 86 \u00b0F). Annual precipitation is about 1,000 to 1,900 mm (39 to 75 in). There is plenty of rainfall in early summer, and by late summer Zhejiang is directly threatened by typhoons forming in the Pacific.",
+    "original_question": "What is the largest bay of Zhejiang?",
+    "variant": "Do you know which bay is biggest in Zhejiang?",
+    "expected_answer": "Hangzhou Bay",
+    "type": "variant"
+  },
+  {
+    "context": "There are over three thousand islands along the rugged coastline of Zhejiang. The largest, Zhoushan Island, is Mainland China's third largest island, after Hainan and Chongming. There are also many bays, of which Hangzhou Bay is the largest.  Zhejiang has a humid subtropical climate with four distinct seasons. Spring starts in March and is rainy with changeable weather. Summer, from June to September is long, hot, rainy, and humid. Fall is generally dry, warm and sunny. Winters are short but cold except in the far south. Average annual temperature is around 15 to 19 \u00b0C (59 to 66 \u00b0F), average January temperature is around 2 to 8 \u00b0C (36 to 46 \u00b0F) and average July temperature is around 27 to 30 \u00b0C (81 to 86 \u00b0F). Annual precipitation is about 1,000 to 1,900 mm (39 to 75 in). There is plenty of rainfall in early summer, and by late summer Zhejiang is directly threatened by typhoons forming in the Pacific.",
+    "original_question": "What is the largest bay of Zhejiang?",
+    "variant": "Which bay is the biggest one in Zhejiang?",
+    "expected_answer": "Hangzhou Bay",
+    "type": "variant"
+  },
+  {
+    "context": "There are over three thousand islands along the rugged coastline of Zhejiang. The largest, Zhoushan Island, is Mainland China's third largest island, after Hainan and Chongming. There are also many bays, of which Hangzhou Bay is the largest.  Zhejiang has a humid subtropical climate with four distinct seasons. Spring starts in March and is rainy with changeable weather. Summer, from June to September is long, hot, rainy, and humid. Fall is generally dry, warm and sunny. Winters are short but cold except in the far south. Average annual temperature is around 15 to 19 \u00b0C (59 to 66 \u00b0F), average January temperature is around 2 to 8 \u00b0C (36 to 46 \u00b0F) and average July temperature is around 27 to 30 \u00b0C (81 to 86 \u00b0F). Annual precipitation is about 1,000 to 1,900 mm (39 to 75 in). There is plenty of rainfall in early summer, and by late summer Zhejiang is directly threatened by typhoons forming in the Pacific.",
+    "original_question": "What is the largest bay of Zhejiang?",
+    "variant": "What's the size of the largest bay in Zhejiang, and what is its name?",
+    "expected_answer": "Hangzhou Bay",
+    "type": "variant"
+  },
+  {
+    "context": "Unicode can be implemented by different character encodings. The most commonly used encodings are UTF-8, UTF-16 and the now-obsolete UCS-2. UTF-8 uses one byte for any ASCII character, all of which have the same code values in both UTF-8 and ASCII encoding, and up to four bytes for other characters. UCS-2 uses a 16-bit code unit (two 8-bit bytes) for each character but cannot encode every character in the current Unicode standard. UTF-16 extends UCS-2, using one 16-bit unit for the characters that were representable in UCS-2 and two 16-bit units (4 \u00d7 8 bits) to handle each of the additional characters.",
+    "original_question": "What are the most commonly used encodings of Unicode?",
+    "variant": "What are the most commonly used encodings of Unicode?",
+    "expected_answer": "UTF-8, UTF-16 and the now-obsolete UCS-2",
+    "type": "original"
+  },
+  {
+    "context": "Unicode can be implemented by different character encodings. The most commonly used encodings are UTF-8, UTF-16 and the now-obsolete UCS-2. UTF-8 uses one byte for any ASCII character, all of which have the same code values in both UTF-8 and ASCII encoding, and up to four bytes for other characters. UCS-2 uses a 16-bit code unit (two 8-bit bytes) for each character but cannot encode every character in the current Unicode standard. UTF-16 extends UCS-2, using one 16-bit unit for the characters that were representable in UCS-2 and two 16-bit units (4 \u00d7 8 bits) to handle each of the additional characters.",
+    "original_question": "What are the most commonly used encodings of Unicode?",
+    "variant": "\"Could you please outline the most prevalent encoding methods employed for representing Unicode characters, and what factors contribute to their widespread adoption?",
+    "expected_answer": "UTF-8, UTF-16 and the now-obsolete UCS-2",
+    "type": "variant"
+  },
+  {
+    "context": "Unicode can be implemented by different character encodings. The most commonly used encodings are UTF-8, UTF-16 and the now-obsolete UCS-2. UTF-8 uses one byte for any ASCII character, all of which have the same code values in both UTF-8 and ASCII encoding, and up to four bytes for other characters. UCS-2 uses a 16-bit code unit (two 8-bit bytes) for each character but cannot encode every character in the current Unicode standard. UTF-16 extends UCS-2, using one 16-bit unit for the characters that were representable in UCS-2 and two 16-bit units (4 \u00d7 8 bits) to handle each of the additional characters.",
+    "original_question": "What are the most commonly used encodings of Unicode?",
+    "variant": "\"What Unicode encoding formats are most frequently used in practice?",
+    "expected_answer": "UTF-8, UTF-16 and the now-obsolete UCS-2",
+    "type": "variant"
+  },
+  {
+    "context": "Unicode can be implemented by different character encodings. The most commonly used encodings are UTF-8, UTF-16 and the now-obsolete UCS-2. UTF-8 uses one byte for any ASCII character, all of which have the same code values in both UTF-8 and ASCII encoding, and up to four bytes for other characters. UCS-2 uses a 16-bit code unit (two 8-bit bytes) for each character but cannot encode every character in the current Unicode standard. UTF-16 extends UCS-2, using one 16-bit unit for the characters that were representable in UCS-2 and two 16-bit units (4 \u00d7 8 bits) to handle each of the additional characters.",
+    "original_question": "What are the most commonly used encodings of Unicode?",
+    "variant": "\"What are the go-to Unicode encodings that people use the most?",
+    "expected_answer": "UTF-8, UTF-16 and the now-obsolete UCS-2",
+    "type": "variant"
+  },
+  {
+    "context": "Unicode can be implemented by different character encodings. The most commonly used encodings are UTF-8, UTF-16 and the now-obsolete UCS-2. UTF-8 uses one byte for any ASCII character, all of which have the same code values in both UTF-8 and ASCII encoding, and up to four bytes for other characters. UCS-2 uses a 16-bit code unit (two 8-bit bytes) for each character but cannot encode every character in the current Unicode standard. UTF-16 extends UCS-2, using one 16-bit unit for the characters that were representable in UCS-2 and two 16-bit units (4 \u00d7 8 bits) to handle each of the additional characters.",
+    "original_question": "What are the most commonly used encodings of Unicode?",
+    "variant": "\"I'm curious \u2013 which Unicode encodings do you see used most often?",
+    "expected_answer": "UTF-8, UTF-16 and the now-obsolete UCS-2",
+    "type": "variant"
+  },
+  {
+    "context": "Unicode can be implemented by different character encodings. The most commonly used encodings are UTF-8, UTF-16 and the now-obsolete UCS-2. UTF-8 uses one byte for any ASCII character, all of which have the same code values in both UTF-8 and ASCII encoding, and up to four bytes for other characters. UCS-2 uses a 16-bit code unit (two 8-bit bytes) for each character but cannot encode every character in the current Unicode standard. UTF-16 extends UCS-2, using one 16-bit unit for the characters that were representable in UCS-2 and two 16-bit units (4 \u00d7 8 bits) to handle each of the additional characters.",
+    "original_question": "What are the most commonly used encodings of Unicode?",
+    "variant": "\"What are the main Unicode encodings used?",
+    "expected_answer": "UTF-8, UTF-16 and the now-obsolete UCS-2",
+    "type": "variant"
+  },
+  {
+    "context": "Some of the cleaner energy facilities in Boston include the Allston green district, with three ecologically compatible housing facilities. Boston is also breaking ground on multiple green affordable housing facilities to help reduce the carbon footprint of the city while simultaneously making these initiatives financially available to a greater population. Boston's climate plan is updated every three years and was most recently modified in 2013. This legislature includes the Building Energy Reporting and Disclosure Ordinance, which requires the city's larger buildings to disclose their yearly energy and water use statistics and partake in an energy assessment every five years. These statistics are made public by the city, thereby increasing incentives for buildings to be more environmentally conscious.",
+    "original_question": "Allston Green District is an example of what?",
+    "variant": "Allston Green District is an example of what?",
+    "expected_answer": "cleaner energy facilities",
+    "type": "original"
+  },
+  {
+    "context": "Some of the cleaner energy facilities in Boston include the Allston green district, with three ecologically compatible housing facilities. Boston is also breaking ground on multiple green affordable housing facilities to help reduce the carbon footprint of the city while simultaneously making these initiatives financially available to a greater population. Boston's climate plan is updated every three years and was most recently modified in 2013. This legislature includes the Building Energy Reporting and Disclosure Ordinance, which requires the city's larger buildings to disclose their yearly energy and water use statistics and partake in an energy assessment every five years. These statistics are made public by the city, thereby increasing incentives for buildings to be more environmentally conscious.",
+    "original_question": "Allston Green District is an example of what?",
+    "variant": ": \"What does the Allston Green District exemplify?",
+    "expected_answer": "cleaner energy facilities",
+    "type": "variant"
+  },
+  {
+    "context": "Some of the cleaner energy facilities in Boston include the Allston green district, with three ecologically compatible housing facilities. Boston is also breaking ground on multiple green affordable housing facilities to help reduce the carbon footprint of the city while simultaneously making these initiatives financially available to a greater population. Boston's climate plan is updated every three years and was most recently modified in 2013. This legislature includes the Building Energy Reporting and Disclosure Ordinance, which requires the city's larger buildings to disclose their yearly energy and water use statistics and partake in an energy assessment every five years. These statistics are made public by the city, thereby increasing incentives for buildings to be more environmentally conscious.",
+    "original_question": "Allston Green District is an example of what?",
+    "variant": ": \"Can you tell me what the Allston Green District serves as an example of?",
+    "expected_answer": "cleaner energy facilities",
+    "type": "variant"
+  },
+  {
+    "context": "Some of the cleaner energy facilities in Boston include the Allston green district, with three ecologically compatible housing facilities. Boston is also breaking ground on multiple green affordable housing facilities to help reduce the carbon footprint of the city while simultaneously making these initiatives financially available to a greater population. Boston's climate plan is updated every three years and was most recently modified in 2013. This legislature includes the Building Energy Reporting and Disclosure Ordinance, which requires the city's larger buildings to disclose their yearly energy and water use statistics and partake in an energy assessment every five years. These statistics are made public by the city, thereby increasing incentives for buildings to be more environmentally conscious.",
+    "original_question": "Allston Green District is an example of what?",
+    "variant": ": \"The Allston Green District \u2013 what's it a good illustration of?",
+    "expected_answer": "cleaner energy facilities",
+    "type": "variant"
+  },
+  {
+    "context": "Some of the cleaner energy facilities in Boston include the Allston green district, with three ecologically compatible housing facilities. Boston is also breaking ground on multiple green affordable housing facilities to help reduce the carbon footprint of the city while simultaneously making these initiatives financially available to a greater population. Boston's climate plan is updated every three years and was most recently modified in 2013. This legislature includes the Building Energy Reporting and Disclosure Ordinance, which requires the city's larger buildings to disclose their yearly energy and water use statistics and partake in an energy assessment every five years. These statistics are made public by the city, thereby increasing incentives for buildings to be more environmentally conscious.",
+    "original_question": "Allston Green District is an example of what?",
+    "variant": ": \"Into what category or type of development does the Allston Green District fit?",
+    "expected_answer": "cleaner energy facilities",
+    "type": "variant"
+  },
+  {
+    "context": "Some of the cleaner energy facilities in Boston include the Allston green district, with three ecologically compatible housing facilities. Boston is also breaking ground on multiple green affordable housing facilities to help reduce the carbon footprint of the city while simultaneously making these initiatives financially available to a greater population. Boston's climate plan is updated every three years and was most recently modified in 2013. This legislature includes the Building Energy Reporting and Disclosure Ordinance, which requires the city's larger buildings to disclose their yearly energy and water use statistics and partake in an energy assessment every five years. These statistics are made public by the city, thereby increasing incentives for buildings to be more environmentally conscious.",
+    "original_question": "Allston Green District is an example of what?",
+    "variant": ": \"What concept or approach is the Allston Green District demonstrating?",
+    "expected_answer": "cleaner energy facilities",
+    "type": "variant"
+  }
+]
